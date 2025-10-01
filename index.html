@@ -1,0 +1,571 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Disaster Relief Management System</title>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="header">
+        <div class="header-content">
+            <div class="logo">
+                <div class="logo-icon">
+                    <i class="fas fa-heart"></i>
+                </div>
+                <div class="logo-text">
+                    <h1>Disaster Relief Management</h1>
+                    <p>IoT & ML-Powered Supply Tracking System</p>
+                </div>
+            </div>
+            <div class="header-actions">
+                <button id="btnMyLocation" class="contact-btn" onclick="getUserLocation()" style="background: linear-gradient(135deg, #17a2b8 0%, #20c997 100%);">
+                    <i class="fas fa-map-marker-alt"></i> My Location
+                </button>
+                <button id="btnFindNearby" class="contact-btn" onclick="findNearby()" style="background: linear-gradient(135deg, #fd7e14 0%, #ffc107 100%);">
+                    <i class="fas fa-search-location"></i> Find Nearby
+                </button>
+                <div class="status-indicator">
+                    <div class="status-dot"></div>
+                    <span>System Online</span>
+                </div>
+                <button class="contact-btn" onclick="showCreateCampForm()" style="background: linear-gradient(135deg, #28a745 0%, #20c997 100%);">
+                    <i class="fas fa-plus"></i> Create Camp
+                </button>
+                <button class="contact-btn" onclick="showAdminPanel()">
+                    <i class="fas fa-cog"></i> Admin
+                </button>
+            </div>
+        </div>
+    </div>
+
+    <div class="main-container">
+        <!-- User Location Information -->
+        <div id="locationInfo" class="location-info" style="display: none;">
+            <div class="location-header">
+                <div class="location-title">
+                    <div class="location-icon" style="background: linear-gradient(135deg, #dc3545 0%, #c82333 100%);">
+                        <i class="fas fa-map-marker-alt"></i>
+                    </div>
+                    <span id="locationTitleText">Your Current Location</span>
+                </div>
+                <div class="location-status status-active" id="locationStatus">Location Active</div>
+            </div>
+            
+            <div class="location-details">
+                <div class="location-item">
+                    <div class="location-value" id="userCity">--</div>
+                    <div class="location-label">City</div>
+                </div>
+                <div class="location-item">
+                    <div class="location-value" id="userDistrict">--</div>
+                    <div class="location-label">District</div>
+                </div>
+                <div class="location-item">
+                    <div class="location-value" id="locationAccuracy">--</div>
+                    <div class="location-label">Accuracy (meters)</div>
+                </div>
+                <div class="location-item">
+                    <div class="location-value" id="nearbySheltersCount">--</div>
+                    <div class="location-label">Nearby Shelters</div>
+                </div>
+            </div>
+
+            <div class="nearby-shelters">
+                <div class="nearby-header">
+                    <div class="nearby-title">Nearby Relief Centers</div>
+                    <div class="distance-filter">
+                        <button class="distance-btn active" onclick="filterByDistance(1)">1km</button>
+                        <button class="distance-btn" onclick="filterByDistance(5)">5km</button>
+                        <button class="distance-btn" onclick="filterByDistance(10)">10km</button>
+                        <button class="distance-btn" onclick="filterByDistance(25)">25km</button>
+                    </div>
+                </div>
+                <div class="nearby-list" id="nearbySheltersList">
+                    <!-- Nearby shelters will be populated here -->
+                </div>
+            </div>
+
+            <!-- Small Weather Widget -->
+            <div class="weather-widget" id="weatherWidget" style="margin-top: 16px;">
+                <div class="nearby-header">
+                    <div class="nearby-title">Local Weather</div>
+                </div>
+                <div id="weatherContent" style="padding: 12px; display: grid; grid-template-columns: repeat(4, minmax(80px, 1fr)); gap: 10px; align-items: center;">
+                    <div style="grid-column: span 2;">
+                        <div style="font-size: 18px; font-weight: 600;" id="weatherSummary">--</div>
+                        <div style="font-size: 12px; color: #666;" id="weatherLocation">Awaiting location...</div>
+                    </div>
+                    <div style="text-align:center;">
+                        <div style="font-size: 22px; font-weight: 700;" id="weatherTemp">--°C</div>
+                        <div style="font-size: 12px; color: #666;">Temperature</div>
+                    </div>
+                    <div style="text-align:center;">
+                        <div style="font-size: 14px; font-weight: 600;" id="weatherWind">-- km/h</div>
+                        <div style="font-size: 12px; color: #666;">Wind</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Statistics Overview -->
+        <div class="stats-grid">
+            <div class="stat-card">
+                <div class="stat-icon" style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);">
+                    <i class="fas fa-home"></i>
+                </div>
+                <div class="stat-number" id="totalShelters">12</div>
+                <div class="stat-label">Active Shelters</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-icon" style="background: linear-gradient(135deg, #28a745 0%, #20c997 100%);">
+                    <i class="fas fa-users"></i>
+                </div>
+                <div class="stat-number" id="totalOccupants">1,247</div>
+                <div class="stat-label">Total Occupants</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-icon" style="background: linear-gradient(135deg, #fd7e14 0%, #ffc107 100%);">
+                    <i class="fas fa-utensils"></i>
+                </div>
+                <div class="stat-number" id="foodStocks">85%</div>
+                <div class="stat-label">Food Availability</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-icon" style="background: linear-gradient(135deg, #17a2b8 0%, #20c997 100%);">
+                    <i class="fas fa-tint"></i>
+                </div>
+                <div class="stat-number" id="waterStocks">92%</div>
+                <div class="stat-label">Water Availability</div>
+            </div>
+        </div>
+
+        <!-- Main Dashboard -->
+        <div class="dashboard-grid">
+            <!-- Map Section -->
+            <div class="map-section">
+                <div class="section-header">
+                    <div class="section-icon" style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);">
+                        <i class="fas fa-map-marker-alt"></i>
+                    </div>
+                    <div class="section-title">Shelter Locations & Status</div>
+                </div>
+                <div id="map"></div>
+            </div>
+
+            <!-- Control Panel -->
+            <div class="control-panel">
+                <div class="control-tabs">
+                    <button class="tab-btn active" onclick="switchTab('shelters')">
+                        <i class="fas fa-home"></i> Shelters
+                    </button>
+                    <button class="tab-btn" onclick="switchTab('alerts')">
+                        <i class="fas fa-exclamation-triangle"></i> Alerts
+                    </button>
+                    <button class="tab-btn" onclick="switchTab('predictions')">
+                        <i class="fas fa-chart-line"></i> ML Predictions
+                    </button>
+                </div>
+
+                <!-- Shelters Tab -->
+                <div id="shelters-tab" class="tab-content active">
+                    <div id="sheltersList">
+                        <!-- Shelter cards will be dynamically generated here -->
+                    </div>
+                </div>
+
+                <!-- Alerts Tab -->
+                <div id="alerts-tab" class="tab-content">
+                    <div id="alertsList">
+                        <!-- Alert items will be dynamically generated here -->
+                    </div>
+                </div>
+
+                <!-- Predictions Tab -->
+                <div id="predictions-tab" class="tab-content">
+                    <div class="prediction-chart">
+                        <i class="fas fa-chart-line"></i>
+                        <span>ML Consumption Prediction Chart</span>
+                    </div>
+                    <div class="prediction-info">
+                        <div class="prediction-item">
+                            <div class="prediction-value" id="foodDepletion">3.2</div>
+                            <div class="prediction-label">Days until food depletion</div>
+                        </div>
+                        <div class="prediction-item">
+                            <div class="prediction-value" id="waterDepletion">5.8</div>
+                            <div class="prediction-label">Days until water depletion</div>
+                        </div>
+                        <div class="prediction-item">
+                            <div class="prediction-value" id="anomalyScore">12%</div>
+                            <div class="prediction-label">Anomaly detection score</div>
+                        </div>
+                        <div class="prediction-item">
+                            <div class="prediction-value" id="consumptionRate">+15%</div>
+                            <div class="prediction-label">Consumption rate change</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Critical Alerts Section -->
+        <div class="alerts-section">
+            <div class="section-header">
+                <div class="section-icon" style="background: linear-gradient(135deg, #dc3545 0%, #c82333 100%);">
+                    <i class="fas fa-exclamation-triangle"></i>
+                </div>
+                <div class="section-title">Critical Alerts & Anomalies</div>
+            </div>
+            <div id="criticalAlerts">
+                <!-- Critical alerts will be dynamically generated here -->
+            </div>
+        </div>
+
+        <!-- Disaster News Section -->
+        <div class="alerts-section">
+            <div class="section-header">
+                <div class="section-icon" style="background: linear-gradient(135deg, #17a2b8 0%, #20c997 100%);">
+                    <i class="fas fa-newspaper"></i>
+                </div>
+                <div class="section-title">Disaster News</div>
+            </div>
+            <div id="disasterNews" style="display: grid; gap: 10px;">
+                <!-- News items will be populated here -->
+            </div>
+        </div>
+
+        <!-- ML Predictions Section -->
+        <div class="prediction-section">
+            <div class="section-header">
+                <div class="section-icon" style="background: linear-gradient(135deg, #28a745 0%, #20c997 100%);">
+                    <i class="fas fa-brain"></i>
+                </div>
+                <div class="section-title">Machine Learning Insights</div>
+            </div>
+            <div class="prediction-chart">
+                <i class="fas fa-robot"></i>
+                <span>AI-Powered Resource Consumption Analysis</span>
+            </div>
+            <div class="prediction-info">
+                <div class="prediction-item">
+                    <div class="prediction-value" id="peakConsumption">2:00 PM</div>
+                    <div class="prediction-label">Peak consumption time</div>
+                </div>
+                <div class="prediction-item">
+                    <div class="prediction-value" id="optimalRestock">Tomorrow</div>
+                    <div class="prediction-label">Optimal restock time</div>
+                </div>
+                <div class="prediction-item">
+                    <div class="prediction-value" id="riskLevel">Medium</div>
+                    <div class="prediction-label">Supply risk level</div>
+                </div>
+                <div class="prediction-item">
+                    <div class="prediction-value" id="efficiency">87%</div>
+                    <div class="prediction-label">Resource efficiency</div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Relief Camp Creation Modal -->
+    <div id="createCampModal" class="modal-overlay" style="display: none;">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h2 class="modal-title">
+                    <i class="fas fa-plus-circle"></i> Create New Relief Camp
+                </h2>
+                <button class="modal-close" onclick="closeCreateCampForm()">
+                    <i class="fas fa-times"></i>
+                </button>
+            </div>
+            <div class="modal-body">
+                <form id="createCampForm" onsubmit="submitCampForm(event)">
+                    <!-- User Type Selection -->
+                    <div class="form-section">
+                        <div class="section-title">
+                            <div class="section-icon" style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);">
+                                <i class="fas fa-user-tie"></i>
+                            </div>
+                            User Type & Authority
+                        </div>
+                        <div class="user-type-selector">
+                            <div class="user-type-card" onclick="selectUserType('army')" id="army-card">
+                                <div class="user-type-icon">
+                                    <i class="fas fa-shield-alt"></i>
+                                </div>
+                                <div class="user-type-title">Army Personnel</div>
+                                <div class="user-type-desc">Military officer or personnel</div>
+                            </div>
+                            <div class="user-type-card" onclick="selectUserType('government')" id="government-card">
+                                <div class="user-type-icon">
+                                    <i class="fas fa-landmark"></i>
+                                </div>
+                                <div class="user-type-title">Government Official</div>
+                                <div class="user-type-desc">Civil servant or government employee</div>
+                            </div>
+                            <div class="user-type-card" onclick="selectUserType('ngo')" id="ngo-card">
+                                <div class="user-type-icon">
+                                    <i class="fas fa-hands-helping"></i>
+                                </div>
+                                <div class="user-type-title">NGO Representative</div>
+                                <div class="user-type-desc">Non-governmental organization</div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Personal Information -->
+                    <div class="form-section">
+                        <div class="section-title">
+                            <div class="section-icon" style="background: linear-gradient(135deg, #28a745 0%, #20c997 100%);">
+                                <i class="fas fa-user"></i>
+                            </div>
+                            Personal Information
+                        </div>
+                        <div class="form-grid">
+                            <div class="form-group">
+                                <label for="firstName">First Name *</label>
+                                <input type="text" id="firstName" name="firstName" required>
+                            </div>
+                            <div class="form-group">
+                                <label for="lastName">Last Name *</label>
+                                <input type="text" id="lastName" name="lastName" required>
+                            </div>
+                            <div class="form-group">
+                                <label for="email">Email Address *</label>
+                                <input type="email" id="email" name="email" required>
+                            </div>
+                            <div class="form-group">
+                                <label for="phone">Phone Number *</label>
+                                <input type="tel" id="phone" name="phone" required>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Professional Details -->
+                    <div class="form-section" id="professionalSection">
+                        <div class="section-title">
+                            <div class="section-icon" style="background: linear-gradient(135deg, #fd7e14 0%, #ffc107 100%);">
+                                <i class="fas fa-briefcase"></i>
+                            </div>
+                            Professional Details
+                        </div>
+                        
+                        <!-- Army Details -->
+                        <div id="armyDetails" style="display: none;">
+                            <div class="form-grid">
+                                <div class="form-group">
+                                    <label for="rank">Military Rank *</label>
+                                    <select id="rank" name="rank">
+                                        <option value="">Select Rank</option>
+                                        <option value="General">General</option>
+                                        <option value="Lieutenant General">Lieutenant General</option>
+                                        <option value="Major General">Major General</option>
+                                        <option value="Brigadier">Brigadier</option>
+                                        <option value="Colonel">Colonel</option>
+                                        <option value="Lieutenant Colonel">Lieutenant Colonel</option>
+                                        <option value="Major">Major</option>
+                                        <option value="Captain">Captain</option>
+                                        <option value="Lieutenant">Lieutenant</option>
+                                        <option value="Warrant Officer">Warrant Officer</option>
+                                        <option value="Sergeant Major">Sergeant Major</option>
+                                        <option value="Sergeant">Sergeant</option>
+                                        <option value="Corporal">Corporal</option>
+                                        <option value="Private">Private</option>
+                                    </select>
+                                </div>
+                                <div class="form-group">
+                                    <label for="regiment">Regiment/Unit *</label>
+                                    <input type="text" id="regiment" name="regiment" placeholder="e.g., 101st Infantry Regiment">
+                                </div>
+                                <div class="form-group">
+                                    <label for="armyId">Military ID Number *</label>
+                                    <input type="text" id="armyId" name="armyId" placeholder="Enter Military ID">
+                                </div>
+                                <div class="form-group">
+                                    <label for="deployment">Current Deployment *</label>
+                                    <input type="text" id="deployment" name="deployment" placeholder="e.g., Operation Relief">
+                                </div>
+                            </div>
+                        </div>
+
+                        <!-- Government Details -->
+                        <div id="governmentDetails" style="display: none;">
+                            <div class="form-grid">
+                                <div class="form-group">
+                                    <label for="department">Department/Ministry *</label>
+                                    <select id="department" name="department">
+                                        <option value="">Select Department</option>
+                                        <option value="Ministry of Home Affairs">Ministry of Home Affairs</option>
+                                        <option value="Ministry of Health">Ministry of Health</option>
+                                        <option value="Ministry of Social Welfare">Ministry of Social Welfare</option>
+                                        <option value="Ministry of Disaster Management">Ministry of Disaster Management</option>
+                                        <option value="State Government">State Government</option>
+                                        <option value="District Administration">District Administration</option>
+                                        <option value="Municipal Corporation">Municipal Corporation</option>
+                                        <option value="Other">Other</option>
+                                    </select>
+                                </div>
+                                <div class="form-group">
+                                    <label for="designation">Designation/Post *</label>
+                                    <input type="text" id="designation" name="designation" placeholder="e.g., District Collector, IAS Officer">
+                                </div>
+                                <div class="form-group">
+                                    <label for="employeeId">Employee ID *</label>
+                                    <input type="text" id="employeeId" name="employeeId" placeholder="Enter Employee ID">
+                                </div>
+                                <div class="form-group">
+                                    <label for="officeAddress">Office Address *</label>
+                                    <textarea id="officeAddress" name="officeAddress" placeholder="Enter office address"></textarea>
+                                </div>
+                            </div>
+                        </div>
+
+                        <!-- NGO Details -->
+                        <div id="ngoDetails" style="display: none;">
+                            <div class="form-grid">
+                                <div class="form-group">
+                                    <label for="ngoName">NGO Name *</label>
+                                    <input type="text" id="ngoName" name="ngoName" placeholder="Enter NGO name">
+                                </div>
+                                <div class="form-group">
+                                    <label for="ngoRegistration">Registration Number *</label>
+                                    <input type="text" id="ngoRegistration" name="ngoRegistration" placeholder="NGO registration number">
+                                </div>
+                                <div class="form-group">
+                                    <label for="position">Position in NGO *</label>
+                                    <input type="text" id="position" name="position" placeholder="e.g., Director, Coordinator">
+                                </div>
+                                <div class="form-group">
+                                    <label for="ngoAddress">NGO Address *</label>
+                                    <textarea id="ngoAddress" name="ngoAddress" placeholder="Enter NGO address"></textarea>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Relief Camp Information -->
+                    <div class="form-section">
+                        <div class="section-title">
+                            <div class="section-icon" style="background: linear-gradient(135deg, #dc3545 0%, #c82333 100%);">
+                                <i class="fas fa-home"></i>
+                            </div>
+                            Relief Camp Details
+                        </div>
+                        <div class="form-grid">
+                            <div class="form-group">
+                                <label for="campName">Camp Name *</label>
+                                <input type="text" id="campName" name="campName" placeholder="e.g., Central Relief Shelter" required>
+                            </div>
+                            <div class="form-group">
+                                <label for="campType">Camp Type *</label>
+                                <select id="campType" name="campType" required>
+                                    <option value="">Select Camp Type</option>
+                                    <option value="Emergency Shelter">Emergency Shelter</option>
+                                    <option value="Medical Camp">Medical Camp</option>
+                                    <option value="Food Distribution Center">Food Distribution Center</option>
+                                    <option value="Evacuation Center">Evacuation Center</option>
+                                    <option value="Temporary Housing">Temporary Housing</option>
+                                    <option value="Multi-Purpose Camp">Multi-Purpose Camp</option>
+                                </select>
+                            </div>
+                            <div class="form-group">
+                                <label for="maxCapacity">Maximum Capacity *</label>
+                                <input type="number" id="maxCapacity" name="maxCapacity" placeholder="Enter maximum capacity" required>
+                            </div>
+                            <div class="form-group">
+                                <label for="contactPhone">Camp Contact Number *</label>
+                                <input type="tel" id="contactPhone" name="contactPhone" placeholder="Camp phone number" required>
+                            </div>
+                        </div>
+                        
+                        <div class="form-group">
+                            <label for="campAddress">Camp Address *</label>
+                            <textarea id="campAddress" name="campAddress" placeholder="Enter detailed camp address" required></textarea>
+                        </div>
+
+                        <div class="form-grid">
+                            <div class="form-group">
+                                <label for="district">District *</label>
+                                <input type="text" id="district" name="district" placeholder="e.g., Pune" required>
+                            </div>
+                            <div class="form-group">
+                                <label for="city">City *</label>
+                                <input type="text" id="city" name="city" placeholder="e.g., Maharashtra" required>
+                            </div>
+                        </div>
+
+                        <div class="form-group">
+                            <label for="amenities">Available Amenities *</label>
+                            <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 10px; margin-top: 10px;">
+                                <label style="display: flex; align-items: center; gap: 8px; font-weight: normal;">
+                                    <input type="checkbox" name="amenities" value="Medical"> Medical
+                                </label>
+                                <label style="display: flex; align-items: center; gap: 8px; font-weight: normal;">
+                                    <input type="checkbox" name="amenities" value="Food"> Food
+                                </label>
+                                <label style="display: flex; align-items: center; gap: 8px; font-weight: normal;">
+                                    <input type="checkbox" name="amenities" value="Water"> Water
+                                </label>
+                                <label style="display: flex; align-items: center; gap: 8px; font-weight: normal;">
+                                    <input type="checkbox" name="amenities" value="Power"> Power
+                                </label>
+                                <label style="display: flex; align-items: center; gap: 8px; font-weight: normal;">
+                                    <input type="checkbox" name="amenities" value="Internet"> Internet
+                                </label>
+                                <label style="display: flex; align-items: center; gap: 8px; font-weight: normal;">
+                                    <input type="checkbox" name="amenities" value="Sanitation"> Sanitation
+                                </label>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Additional Information -->
+                    <div class="form-section">
+                        <div class="section-title">
+                            <div class="section-icon" style="background: linear-gradient(135deg, #17a2b8 0%, #20c997 100%);">
+                                <i class="fas fa-info-circle"></i>
+                            </div>
+                            Additional Information
+                        </div>
+                        <div class="form-group">
+                            <label for="specialRequirements">Special Requirements or Notes</label>
+                            <textarea id="specialRequirements" name="specialRequirements" placeholder="Any special requirements, accessibility needs, or additional notes"></textarea>
+                        </div>
+                        
+                        <div class="form-row">
+                            <div class="form-group">
+                                <label for="emergencyContact">Emergency Contact Person</label>
+                                <input type="text" id="emergencyContact" name="emergencyContact" placeholder="Emergency contact name">
+                            </div>
+                            <div class="form-group">
+                                <label for="emergencyPhone">Emergency Contact Phone</label>
+                                <input type="tel" id="emergencyPhone" name="emergencyPhone" placeholder="Emergency contact number">
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Form Actions -->
+                    <div class="form-actions">
+                        <button type="button" class="btn btn-secondary" onclick="closeCreateCampForm()">
+                            <i class="fas fa-times"></i> Cancel
+                        </button>
+                        <button type="button" class="btn btn-primary" onclick="saveDraft()">
+                            <i class="fas fa-save"></i> Save Draft
+                        </button>
+                        <button type="submit" class="btn btn-success">
+                            <i class="fas fa-check"></i> Create Camp
+                        </button>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+    <script src="script.js?v=2"></script>
+</body>
+</html>
+
