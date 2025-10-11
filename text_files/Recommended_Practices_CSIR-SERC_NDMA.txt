@@ -1,0 +1,280 @@
+
+# Recommended Practices for Improving Cyclonic Resistance of Dwellings/Low-rise Buildings
+
+August 2012
+
+Prepared by
+
+CSIR-SERC INDIA
+
+# ENGINEERING SUSTAINABLE STRUCTURES
+
+CSIR – Structural Engineering Research Centre
+
+National Disaster Management Authority
+
+(Council of Scientific and Industrial Research)
+
+NDMA Bhawan
+
+CSIR Campus, Taramani
+
+A-1 Safdarjung Enclave
+
+Chennai 600 113
+
+New Delhi 110 029
+
+
+ 
+
+Recommended Practices for Improving Cyclonic Resistance of Dwellings/Low-rise Buildings
+
+# RECOMMENDED PRACTICES FOR IMPROVING CYCLONIC RESISTANCE OF DWELLINGS/LOW-RISE BUILDINGS
+
+# PREAMBLE
+
+Cyclones are the most devastating among the natural hazards when viewed in terms of their severity, frequency of occurrence and areas of destruction. The coastal regions of India both in the east and west coasts are severely battered almost every year, causing heavy loss to both life and property. Poor man’s dwellings and low rise buildings are seen to be the most commonly affected during a cyclone. The materials and methods of construction practices significantly go a long way in contributing to the cyclonic resistance of these low-rise buildings. Depending on the availability of the local materials and the local economy of the region, thatch, Mangalore or country tiles, asbestos or metal GI sheets and reinforced concrete are generally used as roof cladding materials. Similarly, mud, clay, stone and bricks are generally used as wall cladding materials. Recognising the fact that a low-rise building is an assemblage of various structural elements such as walls, purlins, rafters, cladding, etc., it is essential to ensure a safe load path from the roof to the foundation. This requires proper understanding of the aerodynamics of wind flow pattern on and around the building, and on the principles of anchorage, bracing and connections for the safe performance of the building. In this booklet, some of the recommended practices for improving the cyclonic resistance of dwellings/low-rise buildings along the coastal regions are highlighted in this document with illustrations. These recommendations are primarily based on the continued R&#x26;D efforts carried out at CSIR-Structural Engineering Research Centre (CSIR-SERC), one of the premier research institutions in our country working in the area of cyclone disaster mitigation since 1977. Some of these recommendations are also available in the Indian Standard IS 15498 : 2004. In this context, the whole hearted cooperation and the technical assistance extended by Dr. Nagesh R. Iyer, Director, CSIR-SERC, Chennai, in general and that by Dr. S. Arunachalam, Chief Scientist, Advisor (Management), &#x26; Head, Wind Engineering Laboratory, CSIR-SERC, Chennai and his team members in particular in preparing this document are being thankfully acknowledged by NDMA.
+
+It is sincerely hoped that these recommended practices would go a long way to assist the community living in the cyclone prone areas in the country to enhance the resistance of their dwellings to cyclone hazard.
+
+Issued by the Secretariat of Shri B. Bhattacharjee, Member, NDMA
+
+Dated 22ⁿᵈ August, 2012
+
+CSIR-SERC and NDMA August 2012
+
+
+ 
+# Recommended Practices for Improving Cyclonic Resistance of Dwellings/Low-rise Buildings
+
+❖ The entire foundation of a house should be constructed on the same soil and not on made up-soil.
+
+| Undesirable    | Preferred      |
+| -------------- | -------------- |
+| 1000 mm (min.) | Firm Ground    |
+|                | Made-up Ground |
+
+❖ Projections resulting in reentrant corners should be avoided to the extent possible.
+
+❖ Closed configuration, viz. square/ rectangle, is preferred for house plans.
+
+| Undesirable | Preferred |
+| ----------- | --------- |
+
+CSIR-SERC and NDMA August 2012
+ 
+
+Recommended Practices for Improving Cyclonic Resistance of Dwellings/Low-rise Buildings
+
+# Improvement for thatch roofs and mud walls to reduce damages due to cyclones
+
+| Undesirable                      | Preferred                                    |
+| -------------------------------- | -------------------------------------------- |
+| Thatch roof without organic rope | Thatch roof with organic rope                |
+| Thatch roof                      | Thatch roof                                  |
+| G.L.                             | G.L.                                         |
+| Entrance                         | Cross ties at the bottom                     |
+| Thatch roof                      | Plastering with water-proof mortar with mesh |
+
+| Max. Flood Level | Mud wall without protection | Max. Flood Level |
+| ---------------- | --------------------------- | ---------------- |
+| 198              | 100 mm                      | 300 mm           |
+
+Protective barrier or revetment built with stone or brick
+
+Not to scale
+
+CSIR-SERC and NDMA
+
+August 2012
+ 
+# Recommended Practices for Improving Cyclonic Resistance of Dwellings/Low-rise Buildings
+
+In case of rectangular plan, the length of an individual wall should be kept less than 3.65 m (12‟) which can be achieved by provision of intervening cross walls or pilasters.
+
+| Undesirable       | Preferred      |
+| ----------------- | -------------- |
+| > 3.65m (> 12‟)   | < 3.65m (<12‟) |
+| Integral Pilaster | < 3.65m (<12‟) |
+| Cross Wall        |                |
+
+Low pitches for roofs should be avoided
+
+| Undesirable              | Preferred                   |
+| ------------------------ | --------------------------- |
+| Pitch less than 1/6 span | Pitch greater than 1/6 span |
+| Span                     | Span                        |
+
+CSIR-SERC and NDMA    August 2012
+ 
+
+# Recommended Practices for Improving Cyclonic Resistance of Dwellings/Low-rise Buildings
+
+# Undesirable
+
+# Preferred
+
+| Gable roof | Hipped roof |
+| ---------- | ----------- |
+
+# ‘ABC’ OF CYCLONIC RESISTANCE FOR DWELLINGS/LOW-RISE BUILDINGS
+
+- Anchorage
+- Bracing
+- Connections
+
+# Joints with retrofitting measures (for use in thatch roof dwellings)
+
+| Vertical pole | Longitudinal pole at crown |
+| ------------- | -------------------------- |
+| 6 mm GI bolt  | 3 x 25 mm                  |
+| B             | 3 X 25 mm MS plate         |
+| C             | Horizontal pole            |
+|               | Vertical pole              |
+
+# JOINT –A (side view)
+
+# JOINT -B
+
+| 3 X 25 mm MS plate |                                   |
+| ------------------ | --------------------------------- |
+| Horizontal pole    | Longitudinal pole at eaves height |
+
+# JOINT - C
+
+CSIR-SERC and NDMA
+
+August 2012
+ 
+
+Recommended Practices for Improving Cyclonic Resistance of Dwellings/Low-rise Buildings
+
+# Remedial measure by providing mortar bands / concrete strips for tiled roofs
+
+| Mortar band                  | Connection of Concrete strip to rafter |
+| ---------------------------- | -------------------------------------- |
+| 100 mm                       | 10 mm dia. HSD bar                     |
+| Mangalore Tile               | Concrete strips                        |
+| 75 mm                        |                                        |
+| Rafter                       | 30 mm x 24                             |
+| 2 Nos 50 mm x 12 gauge nails | Gauge GI / MS strap                    |
+|                              | Not to scale                           |
+
+# Improvement to tiled roofs to reduce damage to roof due to cyclones
+
+The overhang at eaves shall not exceed 450 mm. In case it exceeds this value, the projected portion of the roof may be properly tied back to the wall frame work.
+
+| Rafter       | Excess overhang at eaves initiates failure of the roof panel |
+| ------------ | ------------------------------------------------------------ |
+| 450 mm (max) | Wall                                                         |
+| Rafter       |                                                              |
+| Wall         | Tie                                                          |
+| 750 mm max   |                                                              |
+|              | Not to scale                                                 |
+
+CSIR-SERC and NDMA August 2012
+ 
+# Recommended Practices for Improving Cyclonic Resistance of Dwellings/Low-rise Buildings
+
+- Use “U”-bolt and washer assembly in place of conventional „J‟-bolt connections between cladding and the purlins. Provide additional numbers of „U‟-bolts at ridges and eaves compared to interior region
+
+| Four fixing per sheet (corners) | † NutGI Washer                  | 2nd | 4th | 5th | 7th |
+| ------------------------------- | ------------------------------- | --- | --- | --- | --- |
+| Sealing washer                  | Three fixing per sheet (ridges) | 2nd | 4th | 6th |     |
+| GI „U‟ Hook                     | Two fixing per sheet (interior) | 2nd | 6th |     |     |
+| Bolt                            | 8 mm DIA                        |     |     |     |     |
+
+# Location of hook bolts
+
+# Detailing of U-bolts for roof cladding sheets
+
+- Provide Plan bracing at the bottom chord level of trusses to avoid bottom chord buckling due to uplift force as well as to distribute the horizontal loading from gable ends
+- Upper chord bracing is also to be provided (not shown in figure) near gable end walls
+- Provide a continuous R.C.C bond beam over the walls to improve the lateral resistance of the supporting brick walls
+
+# Plan Bracing
+
+# Concrete Bond Beams
+
+# Provide a Tie at line of wall
+
+Note: Purlins not shown
+
+Provision of Wind bracing for Roof Trusses to improve Strength and Stability
+
+CSIR-SERC and NDMA
+
+August 2012
+ 
+
+# Recommended Practices for Improving Cyclonic Resistance of Dwellings/Low-rise Buildings
+
+❖ The opening near to the edge of a wall should be positioned with a minimum distance as shown
+
+|   |   |   |   |   |   |   |
+| - | - | - | - | - | - | - |
+| a | c | a | c |   | c | a |
+|   |   | b |   |   |   |   |
+| b |   | a |   |   |   |   |
+|   |   | b |   |   |   |   |
+
+„a‟ should be 600 mm or more
+
+„b‟ should be 900 mm or more
+
+„c‟ should be 300 mm or more
+
+# Minimum Distances between Openings in the Wall
+
+❖ Many low-rise industrial buildings collapse due to failure of brick masonry walls. In order to improve their resistance to wind loading, the masonry walls may be strengthened by embedding reinforcement with sufficient rich mortar cover to prevent corrosion. The figures below show complete collapse of the masonry walls.
+
+Wind
+
+|   | C |   |
+| - | - | - |
+
+Suggested remedial measure – provision of
+
+- reinforcement in the wall,
+- proper connection between roof and side walls
+- ties in the roof truss
+
+CSIR-SERC and NDMA    August 2012
+
+
+ 
+# Recommended Practices for Improving Cyclonic Resistance of Dwellings/Low-rise Buildings
+
+# Continuity of the Load Path
+
+The main reason for the failure of masonry walls due to cyclonic winds is due to the lack of adequate lateral restraint. The masonry must be capable of resisting the lateral load acting both in-plane and out-of-plane in addition to carrying the vertical loads. The masonry must also be capable of resisting impact loads from wind-borne debris. The continuity of the load path from the roof to the foundation in case of hollow concrete block masonry as shown below is essential.
+
+| Rafter                                                                                                                |                             |   |
+| --------------------------------------------------------------------------------------------------------------------- | --------------------------- | - |
+| 100 mm x 75mm Timber Wall Plate                                                                                       |                             |   |
+| Reinforced Bond Beam                                                                                                  |                             |   |
+| 2000 mm                                                                                                               |                             |   |
+| G.L.                                                                                                                  |                             |   |
+| 300 mm                                                                                                                |                             |   |
+| 300 mm                                                                                                                |                             |   |
+| Tie rods for anchoring with diameter not less than 8 mm                                                               |                             |   |
+| 600 mm                                                                                                                | 2 nos of 8 mm dia. HSD bars |   |
+| Not to scale                                                                                                          |                             |   |
+| Connecting roof to the foundation using Tie-down bolts (typical for a dwelling with plinth area of 15 sq. m (approx)) |                             |   |
+
+For further details, please contact:
+
+Phone : +91-44-2254 2139
+
+Fax : +91-44-2254 9201
+
++91-44-2254 1508
+
+E-mail : director@serc.res.in
+
+Website : www.serc.res.in
+
+CSIR-SERC and NDMA
+
+August 2012

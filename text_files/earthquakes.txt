@@ -1,0 +1,2284 @@
+
+# NATIONAL DISASTER MANAGEMENT GUIDELINES
+
+# MANAGEMENT OF EARTHQUAKES
+
+April 2007
+
+INDIA
+
+NATIONAL DISASTER MANAGEMENT AUTHORITY
+
+GOVERNMENT OF INDIA
+
+Index    Previous    Next
+
+
+ 
+ii
+  Index    Previous    Next
+ 
+# National Disaster Management Guidelines
+
+# Management of Earthquakes
+
+i
+
+Index    Previous    Next
+ 
+ii
+  Index    Previous    Next
+ 
+
+# National Disaster Management Guidelines
+
+# Management of Earthquakes
+
+# INDIA
+
+# National Disaster Management Authority
+
+# Government of India
+
+iii
+
+Index Previous Next
+ 
+iv
+  Index    Previous    Next
+ 
+
+# Vision
+
+# Zero Tolerance to avoidable deaths due to earthquakes
+
+# Mission
+
+To formulate Guidelines for the preparation of plans to reduce earthquake risk, and minimise the impact, loss of lives and damage to property caused by earthquakes
+
+Index Previous Next
+ 
+vi
+  Index    Previous    Next
+ 
+
+# Table of Contents
+
+# Vision and Mission
+
+v
+
+# Table of Contents
+
+vii
+
+# Foreword
+
+xi
+
+# Acknowledgements
+
+xiii
+
+# Abbreviations
+
+xv
+
+# Glossary of Terms
+
+xviii
+
+# List of Tables
+
+xx
+
+# List of Figures
+
+xx
+
+# Executive Summary
+
+1
+
+# 1 The Context
+
+# 1.1.1 Earthquake Risk and Vulnerability in India
+
+7
+
+# 1.2.1 Traditional Housing Construction in Rural Areas
+
+7
+
+# 1.3.1 Critical Areas of Concern in Earthquake Management
+
+8
+
+# 1.4.1 Overview of Past Initiatives in India
+
+10
+
+# 1.5.1 A Recent Initiative in India
+
+10
+
+# 1.6.1 Earthquake Engineering Education
+
+11
+
+# 1.7.1 The Approach to Earthquake Management
+
+11
+
+# 1.8.1 The Framework for Earthquake Management
+
+12
+
+# 1.9.1 DM Plans
+
+12
+
+# 1.10.1 Institutional Mechanisms for Implementation
+
+13
+
+# 2 Guidelines—An Overview
+
+# 2.1.1 Guidelines for Earthquake Management
+
+14
+
+# 2.2.1 Mainstreaming Earthquake Mitigation
+
+14
+
+# 2.3.1 The Six Pillars of Earthquake Management
+
+14
+
+# 2.4.1 Time Line for Implementation
+
+14
+
+# 3 Earthquake-Resistant Design and Construction of New Structures
+
+# 3.1.1 The Need for Making All New Constructions Earthquake-Resistant
+
+17
+
+# 3.2.1 Time-Frame and Milestones
+
+17
+
+vii
+
+Index    Previous    Next
+
+
+ 
+
+# TABLE OF CONTENTS
+
+# 3.3.1
+
+Institutionalisation of Earthquake-Resistant Design and Construction
+
+17
+
+# 3.4.1
+
+Compliance Review
+
+18
+
+# 3.4.2
+
+Time-frame for Compliance of Seismic Safety of New Constructions
+
+18
+
+# 4
+
+Seismic Strengthening and Retrofitting of Lifeline and Priority Structures
+
+19
+
+# 4.1.1
+
+Need for Seismic Strengthening of Existing Structures
+
+19
+
+# 4.2.1
+
+Prioritisation of Structures
+
+19
+
+# 4.3.1
+
+Structural Safety Audit of Critical Lifeline Structures
+
+20
+
+# 4.4.1
+
+Public Awareness Campaigns
+
+21
+
+# 4.5.1
+
+Seismic Strengthening and Retrofitting
+
+21
+
+# 4.6.1
+
+Financial Allocations for Carrying out Selective Retrofitting
+
+22
+
+# 5
+
+Regulation and Enforcement
+
+24
+
+# 5.1.1
+
+Building Codes and Other Safety Codes
+
+24
+
+# 5.2.1
+
+Techno-Legal Regime
+
+25
+
+# 5.3.1
+
+Licensing and Certification of Professionals
+
+25
+
+# 5.4.1
+
+Compliance Review
+
+26
+
+# 5.5.1
+
+Techno-Financial Regime
+
+27
+
+# 5.6.1
+
+Earthquake-Resistant Construction in Rural and Semi-Urban Areas
+
+27
+
+# 5.7.1
+
+Schedule for Regulation and Enforcement
+
+28
+
+# 6
+
+Awareness and Preparedness
+
+29
+
+# 6.1.1
+
+Public Awareness
+
+29
+
+# 6.2.1
+
+Awareness Drives for Specific Target Groups
+
+29
+
+# 6.3.1
+
+Earthquake Preparedness
+
+30
+
+# 6.4.1
+
+Medical Preparedness
+
+30
+
+# 6.5.1
+
+Disaster Management Plans
+
+31
+
+# 6.6.1
+
+Schedule for Awareness and Preparedness Activities
+
+31
+
+# 7
+
+Capacity Development (including Education, Training, R&#x26;D and Documentation)
+
+33
+
+# 7.1.1
+
+Earthquake Education
+
+33
+
+# 7.2.1
+
+Capacity Development
+
+33
+
+# 7.3.1
+
+Training
+
+34
+
+# 7.4.1
+
+Capacity Building of Professionals
+
+35
+
+# 7.5.1
+
+R&#x26;D
+
+35
+
+viii
+
+Index Previous Next
+
+
+ 
+
+# TABLE OF CONTENTS
+
+# 7.6.1 Documentation
+
+36
+
+# 7.7.1 Schedule for Capacity Building (including Education, Training, R&#x26;D, and Documentation)
+
+37
+
+# 8 Response
+
+# 8.1.1 Earthquake Response
+
+38
+
+# 8.2.1 Emergency Search and Rescue
+
+38
+
+# 8.3.1 Emergency Relief
+
+39
+
+# 8.4.1 Incident Command System (ICS)
+
+39
+
+# 8.5.1 Community Based Disaster Response
+
+39
+
+# 8.6.1 Involvement of the Corporate Sector
+
+39
+
+# 8.7.1 Specialised Teams for Response
+
+40
+
+# 8.8.1 Improving Earthquake Response
+
+40
+
+# 8.9.1 Emergency Logistics
+
+40
+
+# 8.10.1 Emergency Medical Response
+
+41
+
+# 8.11.1 Schedule for Response Activities
+
+41
+
+# 9 Disaster Management Plans
+
+# 9.1.1 DM Plans
+
+43
+
+# 9.2.1 Central Ministry and Department Plans
+
+44
+
+# 9.3.1 DM Plans of State Governments
+
+44
+
+# 9.4.1 Plans of Nodal Agencies
+
+45
+
+# Contributions
+
+46
+
+ix
+
+Index Previous Next
+
+
+ 
+x
+ Index    Previous    Next
+ 
+
+# Aryd Gad
+
+# INDIA
+
+# Vice Chairman
+
+# National Disaster Management Authority
+
+# Government of India
+
+# FOREWORD
+
+Preparation of guidelines for various types of disasters forms an important part of the mandate of the National Disaster Management Authority (NDMA). Almost 59 percent of the landmass of India is prone to earthquakes and preparation in this regard constitutes an important part of our effort for better management of disasters in the Country. For that reason, soon after being constituted, a series of consultations were initiated by the NDMA, with various stakeholder groups to formulate Earthquake Guidelines.
+
+These consultations included representatives of various central ministries and departments, scientific and technical institutions, academics, technocrats, architects and humanitarian organizations. The first such meeting was held on 21 December 05. It reviewed the status of earthquake management efforts thus far, identified gaps and set the framework for the approach. Thereafter, a Core Group was constituted to prepare the guidelines. Their work, which extended over six months, was reviewed by an Extended Group during a number of deliberations. The guidelines were finalized after two national workshops at IIT Kanpur and IIT Mumbai and vetting by the ministries concerned.
+
+As is evident, these guidelines are an outcome of the effort of over 300 leading experts in the Country. These call for a participatory approach involving all stakeholder groups to strengthen the national vision of moving towards a more proactive pre-disaster preparedness and mitigation-centric approach. These contain all the details that are required by the planners and implementers and will help in the preparation of plans by the central ministries and the states. A national level Earthquake Mitigation Project will also be undertaken for all the earthquake prone districts to back the above effort. I am sure that these guidelines will serve the purpose well.
+
+I take this opportunity to express my deep appreciation of the commitment of various stakeholder groups who extended their willing support and cooperation to our efforts. I am grateful to the members of the Core Group, who put in endless hours of work. I also wish to convey my gratitude to the members of the NDMA, Extended Group, and other experts whose contributions have resulted into the preparation of these guidelines. And finally, I am also pleased to place on record my sincere appreciation for Prof. N. Vinod Chandra Menon, Member, NDMA, who guided and coordinated the entire exercise.
+
+New Delhi
+
+General NC Vij
+
+30 April 2007
+
+PVSM, UYSM, AVSM (Retd)
+
+xi
+
+Index Previous Next
+
+
+ 
+# Index
+
+Previous
+
+Next
+ 
+
+# INDIA
+
+# Aryd Gad
+
+# Member
+
+# National Disaster Management Authority
+
+# Government of India
+
+# ACKNOWLEDGEMENTS
+
+I am grateful to the members of the Core Group who contributed to the preparation of the National Disaster Management Guidelines for the Management of Earthquakes. I must place on record my sincere appreciation of the special efforts made by Prof. Ravi Sinha of IIT Mumbai and Prof. C.V.R. Murty of IIT Kanpur as well as the valuable inputs and feedback from Dr. R.K. Bhandari, Chairman, CDMM, Vellore and Prof. A.S. Arya, National Seismic Advisor, Government of India. I am also grateful to the professionals in scientific and technical institutions, various Ministries of the Government of India, Relief Commissioners from State Governments and other key stakeholders for their valuable insights which have contributed immensely in shaping these Guidelines.
+
+I am deeply indebted to Gen. N.C. Vij, PVSM, UYSM, AVSM (Retd), Vice Chairman, NDMA for his valuable guidance and constructive criticism at various stages of the preparation of the Guidelines, which substantially improved the focus and operationalisation strategy. I must also acknowledge my gratitude to the distinguished Members of the NDMA for their valuable insights, guidance and feedback.
+
+I am also happy to acknowledge the support extended by Ms. Rani Sahay, Mr. Vivek Sharma, Mr. K. Vijaya Kumaran, Mr. Satish Chandra Sharma and Mr. M.P. Thomas Kutty during the various workshops and their assistance in the preparation of these Guidelines.
+
+The support of Mr. H.S. Brahma, Additional Secretary, NDMA and other senior officers of NDMA for the conduct of the workshops is also gratefully acknowledged.
+
+On behalf of
+
+New Delhi
+
+N. Vinod Chandra Menon
+
+30 April 2007
+
+xiii
+
+Index    Previous    Next
+
+
+ 
+# Index
+
+Previous
+
+Next
+ 
+
+# Abbreviations
+
+The following abbreviations and acronyms used throughout this document are intended to mean the following:
+
+| A E R B | Atomic Energy Regulatory Board                    |
+| ------- | ------------------------------------------------- |
+| AICTE   | All India Council for Technical Education         |
+| ARMVs   | Accident Relief Medical Vans                      |
+| ATI     | Administrative Training Institute                 |
+| B A I   | Builders Association of India                     |
+| BIS     | Bureau of Indian Standards                        |
+| BMTPC   | Building Materials & Technology Promotion Council |
+| C B O s | Community Based Organisations                     |
+| CBRI    | Central Building Research Institute               |
+| C B S E | Central Board of Secondary Education              |
+| CESS    | Centre for Earth Science Studies                  |
+| CFI     | Construction Federation of India                  |
+| CIDC    | Construction Industry Development Council         |
+| C O A   | Council of Architecture                           |
+| CPWD    | Central Public Works Department                   |
+| CRRI    | Central Road Research Institute                   |
+| C S R   | Corporate Social Responsibility                   |
+| C W C   | Central Water Commission                          |
+| CWPRS   | Central Water and Power Research Station          |
+| DAE     | Department of Atomic Energy                       |
+| D C R   | Development Control Regulations                   |
+| DDMA    | District Disaster Management Authority            |
+| DM      | Disaster Management                               |
+| DMA     | Disaster Management Authority                     |
+| DOD     | Department of Ocean Development                   |
+| DRM     | Disaster Risk Management                          |
+| DST     | Department of Science and Technology              |
+| DVA     | Detailed Vulnerability Assessment                 |
+| E O C   | Emergency Operations Centre                       |
+| E R E C | Earthquake Risk Evaluation Centre                 |
+
+
+ 
+# ABBREVIATIONS
+
+| GIS    | Geographic Information System                                 |
+| ------ | ------------------------------------------------------------- |
+| GOI    | Government of India                                           |
+| GPS    | Global Positioning System                                     |
+| GSI    | Geological Survey of India                                    |
+| HSC    | Hazard Safety Cells                                           |
+| HUDCO  | Housing & Urban Development Corporation                       |
+| ICS    | Incident Command System                                       |
+| IDNDR  | International Decade for Natural Disaster Reduction (1990-99) |
+| IDRN   | India Disaster Resource Network                               |
+| IDRN   | India Disaster Response Network                               |
+| IE(I)  | Institution of Engineers (India)                              |
+| IIA    | Indian Institute of Architects                                |
+| IIG    | Indian Institute of Geomagnetism                              |
+| IISc   | Indian Institute of Science                                   |
+| IIT    | Indian Institute of Technology                                |
+| IMD    | India Meteorological Department                               |
+| I R C  | Indian Road Congress                                          |
+| ISET   | Indian Society of Earthquake Technology                       |
+| ITIs   | Industrial Training Institutes                                |
+| JNNURM | Jawaharlal Nehru National Urban Renewal Mission               |
+| MAH    | Major Accident Hazard                                         |
+| MCI    | Medical Council of India                                      |
+| MFRs   | Medical First Responders                                      |
+| MHA    | Ministry of Home Affairs                                      |
+| MHRD   | Ministry of Human Resource Development                        |
+| MoES   | Ministry of Earth Sciences                                    |
+| MoR    | Ministry of Railways                                          |
+| MoSRTH | Ministry of Shipping, Road Transport and Highways             |
+| MoUD   | Ministry of Urban Development                                 |
+| NAC    | National Academy of Construction                              |
+| NCC    | National Cadet Corps                                          |
+| NDMA   | National Disaster Management Authority                        |
+| NDRF   | National Disaster Response Force                              |
+| NEC    | National Executive Committee                                  |
+| NGOs   | Non-Governmental Organisations                                |
+| NGRI   | National Geophysical Research Institute                       |
+| NICMAR | National Institute of Construction Management and Research    |
+
+ 
+
+# ABBREVIATIONS
+
+- NIDM - National Institute of Disaster Management
+- NIT - National Institute of Technology
+- NITTTR - National Institute of Technical Teachers’ Training and Research
+- NPCBAERM - National Programme for Capacity Building of Architects in Earthquake Risk Management
+- NPCBEERM - National Programme for Capacity Building of Engineers in Earthquake Risk Management
+- NPEEE - National Programme on Earthquake Engineering Education
+- NSS - National Service Scheme
+- NYKS - Nehru Yuva Kendra Sangathan
+- PPP - Public Private Partnership
+- PRIs - Panchayati Raj Institutions
+- QIP - Quality Improvement Programme
+- QRMT - Quick Reaction Medical Team
+- R&#x26;D - Research and Development
+- R C C - Reinforced Cement Concrete
+- RDSO - Research Designs and Standards Organisation
+- R M - Risk Management
+- RVS - Rapid Visual Screening
+- SDMA - State Disaster Management Authority
+- SDRF - State Disaster Response Force
+- S E C - State Executive Committee
+- SEMCs - State Earthquake Management Committees
+- S E R C - Structural Engineering Research Centre
+- SEZ - Special Economic Zone
+- SOI - Survey of India
+- SOP - Standard Operating Procedure
+- S R R s - Structural Response Recorders
+- SRTEE - School of Research and Training in Earthquake Engineering
+- UEVRP - Urban Earthquake Vulnerability Reduction Project
+- UGC - University Grants Commission
+- ULBs - Urban Local Bodies
+- UN - United Nations
+- UNDP - United Nations Development Programme
+- UT - Union Territory
+- WIHG - Wadia Institute of Himalayan Geology
+
+
+ 
+Glossary of Terms
+
+# Glossary of Terms
+
+# Disaster
+
+A catastrophe, mishap, calamity or grave occurrence in any area, arising from natural or man made causes, or by accident or negligence which results in substantial loss of life or human suffering or damage to, and destruction of, property, or damage to, and degradation of, environment, and is of such a nature or magnitude as to be beyond the coping capacity of the community of the affected area.
+
+# Disaster Management
+
+A continuous and integrated process of planning, organising, coordinating and implementing measures which are necessary or expedient for prevention of danger or threat of any disaster; mitigation or reduction of risk of any disaster or its severity or consequences; capacity building; preparedness to deal with any disaster; prompt response to any threatening disaster situation or disaster; assessing the severity or magnitude of effects of any disaster; evacuation, rescue and relief; and rehabilitation and reconstruction.
+
+# Earthquake
+
+An earthquake is a series of vibrations on the earth’s surface caused by the generation of elastic (seismic) waves due to sudden rupture within the earth during release of accumulated strain energy.
+
+# Elements at Risk
+
+The population, properties, economic activities, including public services etc. at risk in a given area.
+
+# Hazard
+
+A threatening event or the probability of occurrence of a potentially damaging phenomenon (e.g., an earthquake, a cyclonic storm or a large flood) within a given time period and area.
+
+# High Risk Areas
+
+Geographical areas which fall under seismic zones III, IV and V, which are vulnerable to potential impact of earthquakes, landslides, rock falls or mudflows.
+
+# Local Authority
+
+It includes panchayati raj institutions, municipalities, a district board, cantonment board, town planning authority or Zilla Parishad or any other body or authority, by whatever name called, for the time being invested by law, for rendering essential services or, with the control &#x26; management of civic services, within a specified local area.
+
+# Mitigation
+
+Measures aimed at reducing the risk, impact or effects of a disaster or threatening disaster situation.
+
+# Non Structural Measures
+
+Non-engineered measures to reduce or avoid possible impacts of hazards such as education, training, capacity development, public awareness, communication etc.
+
+# Preparedness
+
+The state of readiness to deal with a threatening disaster situation or disaster and the effects thereof.
+
+xviii Index Previous Next
+ 
+
+# GLOSSARY OF TERMS
+
+Resilience The capacity of a system to tolerate perturbation or disturbances without collapsing into a qualitatively different state, to withstand shock and rebuild when necessary.
+
+Risk The expected number of lives lost, persons injured, damage to property and disruption of economic activity due to a particular natural phenomenon.
+
+Risk Assessment The determination of the nature and extent of risk by analysing potential hazards and evaluating existing conditions of vulnerability that could pose a potential threat or harm to people, property, livelihoods, and the environment.
+
+Risk Management The systematic process of using administrative decisions, organisation, operational skills, and capacities to implement policies, strategies, and coping capacity of the society and communities to lessen the impact of hazards.
+
+Rapid Visual Screening (R V S) Rapid Visual Screening is a procedure requiring visual evaluation to assess the vulnerability of buildings, by permitting vulnerability assessment based on walk around of the building by a trained evaluator. The evaluation procedure and system is compatible with GIS-based city database and also permits use of the collected building information for a variety of other planning and mitigation purposes.
+
+Seismic Hazard Seismic hazard in the context of engineering design is defined as the predicted level of ground acceleration which would be exceeded with 10% probability at the site under construction due to occurrence of earthquake anywhere in the region, in the next 50 years.
+
+Specific Risk The expected degree of loss due to particular natural phenomenon.
+
+Seismic Retrofitting The structural modifications to upgrade the strength, ductility and energy dissipating ability of seismically deficient or earthquake-damaged structures.
+
+Seismic Strengthening The process of enhancing the strength of existing structures to make them resistant to seismic activity, ground motion or soil failure due to earthquakes.
+
+State Authority (SDMA) The State Disaster Management Authority established under sub-section (l) of the section 14 of DM Act, 2005 and includes the Disaster Management Authority for the Union Territory constituted under that section.
+
+State Government The Department of the Government of the state having administrative control of the Disaster Management and includes Administrator of the Union Territory appointed by the President under article 239 of the Constitution.
+
+Structural Measures Any physical construction to reduce or avoid possible impacts of hazards, which include engineering measures and construction of hazard-resistant and protective structures and infrastructure.
+
+Vulnerability The degree of loss to a given element at risk or set of such elements resulting from the occurrence of a natural phenomenon (or manmade) of a given magnitude and expressed on a scale from 0 (no damage) to 1 (total loss).
+
+xix
+
+Index Previous Next
+
+
+ 
+
+# List of Tables
+
+# 1
+
+Important Milestones for the Implementation of the Guidelines
+
+6
+
+# 2
+
+Geographic Areas in Seismic Zones
+
+10
+
+# 3
+
+Milestones for the Implementation of the Guidelines
+
+16
+
+# 4
+
+Schedule of Activities for Ensuring Seismic Safety of All New Constructions
+
+18
+
+# 5
+
+GROUP A: List of Cities with the FIRST Level of Priority
+
+22
+
+# 6
+
+Schedule of Activities for Seismic Retrofitting
+
+23
+
+# 7
+
+Schedule of Activities for Techno-legal and Techno-financial Regimes
+
+28
+
+# 8
+
+Schedule of Awareness and Preparedness Activities
+
+32
+
+# 9
+
+Schedule of Activities for Capacity Development
+
+37
+
+# 10
+
+Schedule of Activities for Strengthening Earthquake Response
+
+42
+
+# List of Figures
+
+# 1
+
+The Seismic Zone Map of India as per the Indian Seismic Code, IS:1893 (Part 1) – 2002
+
+9
+
+# 2
+
+The Six Pillars for Earthquake Management in India
+
+15
+
+xx
+
+Index Previous Next
+ 
+# Executive Summary
+
+# Background
+
+The Disaster Management Act, 2005 (DM Act, 2005) lays down institutional and coordination mechanisms for effective disaster management (DM) at the national, state, and district levels. As mandated by this Act, the Government of India (GoI) created a multi-tiered institutional system consisting of the National Disaster Management Authority (NDMA), headed by the Prime Minister, the State Disaster Management Authorities (SDMAs) by the Chief Ministers and the District Disaster Management Authorities (DDMAs) by the District Collectors and co-chaired by elected representatives of the local authorities of the respective districts. These bodies have been set up to facilitate the paradigm shift from the hitherto relief-centric approach to a more proactive, holistic and integrated approach of strengthening disaster preparedness, mitigation and emergency response.
+
+Soon after the NDMA was set up, a series of consultations were initiated with various stakeholders to facilitate the development of guidelines for strengthening earthquake management. Senior representatives from government departments and agencies, academics, professionals, multilateral and humanitarian agencies and corporate sector representatives participated in these meetings. These meetings acknowledged that several initiatives taken up by government agencies in the recent past have been significant and far-reaching, but they also highlighted the need for a holistic and integrated strategy. On the basis of these deliberations, the NDMA has prepared these Guidelines for the Management of Earthquakes, (hereinafter referred to as the Guidelines), to assist the ministries and departments of the GoI, state governments and other agencies to prepare DM plans.
+
+# Earthquake Risk in India
+
+India’s high earthquake risk and vulnerability is evident from the fact that about 59 per cent of India’s land area could face moderate to severe earthquakes. During the period 1990 to 2006, more than 23,000 lives were lost due to 6 major earthquakes in India, which also caused enormous damage to property and public infrastructure. The occurrence of several devastating earthquakes in areas hitherto considered safe from earthquakes indicates that the built environment in the country is extremely fragile and our ability to prepare ourselves and effectively respond to earthquakes is inadequate. During the International Decade for Natural Disaster Reduction (IDNDR) observed by the United Nations (UN) in the 1990s, India witnessed several earthquakes like the Uttarkashi earthquake of 1991, the Latur earthquake of 1993, the Jabalpur earthquake of 1997, and the Chamoli earthquake of 1999. These were followed by the Bhuj earthquake of 26 January 2001 and the Jammu &#x26; Kashmir earthquake of 8 October 2005.
+
+All these major earthquakes established that the casualties were caused primarily due to the collapse of buildings. However, similar high intensity earthquakes in the United States, Japan, etc., do not lead to such enormous loss of lives, as the structures in these countries are built with structural mitigation measures and earthquake-resistant features. This emphasises the need for strict compliance of town planning bye-laws and
+ 
+NATIONAL DISASTER MANAGEMENT GUIDELINES: MANAGEMENT OF EARTHQUAKES
+
+# Overview
+
+Long-term and sustained efforts are required to address the problem of earthquake risk in India. These Guidelines have been prepared to reduce the impact of earthquakes in the short term and the earthquake risk in the medium and long term. They recognise the enormous challenge in improving seismic safety because of the inadequate numbers of trained and qualified civil engineers, structural engineers, architects and masons proficient in earthquake-resistant design and construction of structures. They also acknowledge the need for imparting training in earthquake-resistant design and construction to faculty members in professional colleges, for revising the curriculum in professional courses, and for creating public awareness on seismic risk reduction features in non-engineered construction in earthquake-prone areas.
+
+# Guidelines for the Preparation of DM Plans
+
+Preparing earthquake-resistant building codes and other safety codes. All such key stakeholders, including central ministries and departments and state governments/SDMAs will develop detailed DM plans, recognising the seismic risk in their respective jurisdictions, based on these Guidelines. Similarly, the SDMAs will lay down appropriate Guidelines for the preparation of DM plans by Urban Local Bodies (ULBs), Panchayati Raj Institutions (PRIs) and district administration, keeping in view the seismic risk considerations in their respective areas. These Guidelines are drawn up in the context of a rigorous Risk Management (RM) framework to ensure the effectiveness of DM plans that are developed by various agencies. Communities and other stakeholders will ensure compliance to the town planning bye-laws, earthquake-resistant building codes and other safety regulations, as well as their effective enforcement. The state governments/SDMAs will be responsible for reviewing and monitoring the implementation of the DM plans.
+
+# Structure of the Guidelines
+
+These Guidelines consist of three broad sections: (a) the context and approach to the management of earthquakes in India; (b) an outline of the specific Guidelines; and (c) a broad overview of the DM plans to be prepared by the central ministries and departments, state governments, and other stakeholders and nodal agencies.
+
+The National Executive Committee (NEC) will prepare the National Disaster Management Plan which will be approved by the NDMA. The Ministry of Earth Sciences (MoES), as the nodal ministry will prepare the Earthquake Management Plan covering all aspects like earthquake preparedness, mitigation, public awareness, capacity building, training, education, Research and Development (R&#x26;D), documentation, earthquake response, rehabilitation and recovery. The Indian Meteorological Department (IMD) will be the nodal agency for the monitoring of seismic activity while the Bureau of Indian Standards (BIS) will be the nodal agency for the identification of the critical areas which require special attention to ensure that the
+
+2 Index Previous Next
+ 
+
+EXECUTIVE SUMMARY
+
+# EXECUTIVE SUMMARY
+
+The overall strategy for the management of earthquakes in India is holistic, integrated and supportive to the development aspirations of building a modern nation;
+
+- an outline of a rational RM framework to institutionalise systems and processes to make earthquake safety in India a sustainable strategy;
+- an introduction to the six pillars of earthquake management, with prescribed time lines for the effective implementation of the various activities; and
+- an overview of the issues which need to be addressed to ensure the effective implementation of the plans formulated based on these Guidelines.
+
+Even though earthquake-resistant building codes and town planning bye-laws and regulations exist, these are not strictly enforced.
+
+Given the high seismic risk and earthquake vulnerability in India, these Guidelines require all stakeholders to ensure that, hereafter, all new structures are built in compliance with earthquake-resistant building codes and town planning bye-laws. This will be taken up as a national resolve.
+
+This is in recognition of the seriousness of the high seismic risk in India and the increasing trends of urbanisation and modernisation that demand the construction of flyovers, multi-storied buildings, super malls, techno parks, etc., in metropolitan cities thereby multiplying the risks manifold.
+
+Special attention needs to be given to ensure the earthquake safety of non-engineered construction in rural areas, as more than 61 per cent of the buildings in rural areas are built with mud and clay, stone, brick and/or concrete, compared to 26.7 per cent of similar buildings in urban areas. The large number of fatalities due to earthquakes in rural areas during the period 1990 to 2006 also makes it imperative to pay special attention to the earthquake safety of buildings being constructed in these areas.
+
+These Guidelines emphasise the need for carrying out the structural safety audit of existing lifeline structures and other critical structures in the fragile built environment in India, especially in moderate and high seismic risk zones, which is a matter of serious concern. It is neither practical nor financially viable to implement strengthening and retrofitting of all existing structures in moderate and high seismic risk zones in India.
+
+# The Six Pillars of Earthquake Management
+
+These Guidelines envisage the institutionalisation of stakeholder initiatives, by involving communities and other key stakeholders in earthquake-prone areas, and carrying out selective seismic strengthening and retrofitting. Apart from these two sets of initiatives which are aimed at improving the seismic safety of the built environment, these Guidelines also emphasise the need for strengthening enforcement and
+
+3 Index Previous Next
+
+ 
+NATIONAL DISASTER MANAGEMENT GUIDELINES: MANAGEMENT OF EARTHQUAKES
+
+regulation, awareness and preparedness, capacity development (including education, training, R&#x26;D, and documentation) and earthquake response. As mentioned earlier, these Guidelines have been prepared through a series of consultations with key stakeholder groups in New Delhi, Kanpur and Mumbai. These consultations identified the critical factors responsible for the high seismic risk in India and prioritised six sets of critical interventions, which have been presented in these Guidelines as the six pillars of earthquake management. They will help to:
+
+1. Ensure the incorporation of earthquake-resistant design features for the construction of new structures.
+2. Facilitate selective strengthening and seismic retrofitting of existing priority and lifeline structures in earthquake-prone areas.
+3. Improve the compliance regime through appropriate regulation and enforcement.
+4. Improve the awareness and preparedness of all stakeholders.
+5. Introduce appropriate capacity development interventions for effective earthquake management (including education, training, R&#x26;D, and documentation).
+6. Strengthen the emergency response capability in earthquake-prone areas.
+
+The activities to be carried out during Phase I include the following:
+
+- Preparing DM plans; revising town planning bye-laws and adopting model bye-laws; disseminating earthquake-resistant building codes, the National Building Code 2005 and other safety codes.
+- Training trainers in professional and technical institutions; training professionals like engineers, architects, and masons in earthquake-resistant construction.
+- Launching demonstration projects and public awareness campaigns to disseminate earthquake-resistant techniques, seismic safety and seismic risk reduction.
+- Enforcing and monitoring compliance of earthquake-resistant building codes, town planning bye-laws and other safety regulations; establishing an appropriate mechanism for compliance review of all construction designs submitted to ULBs; undertaking mandatory technical audit of structural designs of major projects by the respective competent authorities.
+- Developing an inventory of the existing built environment; assessing its seismic risk and vulnerability by carrying out a structural safety audit of all critical lifeline structures.
+
+# Milestones for Implementing the Guidelines
+
+These Guidelines envisage two phases for ensuring seismic safety. During Phase I, which is scheduled to commence with immediate effect and conclude by 31 December 2008, the various stakeholders will prepare their DM plans and carry out specific activities aimed at seismic risk reduction. These activities are the most challenging:
+
+- Developing and undertaking seismic strengthening and retrofitting standards for existing critical lifeline structures, initially as pilot projects and for other critical lifeline structures in a phased manner.
+- Increasing the awareness of earthquake risk and vulnerability and seismic risk reduction measures to various stakeholders through sensitisation workshops, seminars and public awareness campaigns.
+
+4 Index Previous Next
+
+
+ 
+EXECUTIVE SUMMARY
+
+- Preparing DM plans by schools, hospitals, super malls, entertainment multiplexes, etc. and carrying out mock drills for creating greater public awareness.
+- Strengthening the Emergency Operations Centre (EOC) network.
+- Streamlining the mobilisation of communities, civil society partners, the corporate sector and other stakeholders.
+- Preparing national, state and district DM plans, with specific reference to the management of earthquakes.
+- Preparing community and village level DM plans, with specific reference to management of earthquakes.
+- Strengthening the medical preparedness for effective earthquake response.
+- Carrying out the vulnerability mapping of earthquake-prone areas and creating inventory of resources for effective response.
+- Carrying out earthquake safety education in educational institutions and conducting mock drills.
+- Strengthening earthquake safety R&#x26;D in professional technical institutions.
+- Preparing documentation on lessons from previous earthquakes and ensuring their wide dissemination.
+- Developing an appropriate mechanism for licensing and certification of professionals in earthquake-resistant construction techniques by collaborating with professional bodies.
+- Developing appropriate risk transfer instruments by collaborating with insurance companies and financial institutions.
+- Setting up National Disaster Response Force (NDRF) battalions, training and equipping them.
+- Setting up State Disaster Response Force (SDRF) battalions in high seismic risk states, training and equipping them.
+
+These activities will be initiated by the central ministries and departments and state governments, other key stakeholders and nodal agencies concerned as parallel processes. A review of the DM plans and activities carried out during Phase I will be undertaken, from January to June 2009. Thereafter, the plans will be revised and updated, with special emphasis on areas that need greater attention to achieve the objective of institutionalising seismic risk reduction. The activities of Phase I will continue during this period and be further intensified in Phase II. The implementation of Phase II will commence from 1 January 2010.
+
+5 Index Previous Next
+ 
+NATIONAL DISASTER MANAGEMENT GUIDELINES: MANAGEMENT OF EARTHQUAKES
+
+# Table 1: Important Milestones for the Implementation of the Guidelines
+
+| S. No. | Item                                                                                                             | Commencement Date               | Action and Date of Completion |
+| ------ | ---------------------------------------------------------------------------------------------------------------- | ------------------------------- | ----------------------------- |
+| 1      | Development of detailed action plans for each Phase I activity                                                   | With immediate effect           | Complete by 30 June 2007      |
+| 2      | All activities of Phase I                                                                                        | With immediate effect           | Underway by 1 July 2007       |
+| 3      | Mid-term monitoring and correction of implementation plans of all Phase I activities                             | With immediate effect           | Complete by 31 December 2007  |
+| 4      | Completion of Phase I activities                                                                                 | With immediate effect           | Complete by 31 December 2008  |
+| 5      | Major review of all action plans of all activities of Phase I                                                    | With effect from 1 January 2009 | Complete by 30 June 2009      |
+| 6      | Identification of activities to be undertaken in Phase II, and development of detailed action plans for the same | Initiate by 1 July 2009         | Complete by 31 December 2009  |
+| 7      | Implementation of all Phase II activities                                                                        |                                 | Underway by 1 January 2010    |
+
+Index Previous Next
+ 
+
+
+# The Context
+
+# Earthquake Risk and Vulnerability in India
+
+# 1.1.1
+
+According to the latest seismic zone map of India (see Figure 1 – IS:1893, 2002), about 59 per cent of India’s land area is vulnerable to moderate or severe seismic hazard, i.e., prone to shaking of MSK intensity VII and above. In the recent past, most Indian cities have witnessed the phenomenal growth of multi-storied buildings, super malls, luxury apartments and social infrastructure as a part of the process of development. The rapid expansion of the built environment in moderate or high-risk cities makes it imperative to incorporate seismic risk reduction strategies in various aspects of urban planning and construction of new structures. During the period 1990 to 2006, India has experienced 6 major earthquakes that have resulted in over 23,000 deaths and caused enormous damage to property, assets and infrastructure.
+
+# 1.1.2
+
+The entire Himalayan Region is considered to be vulnerable to high intensity earthquakes of a magnitude exceeding 8.0 on the Richter Scale, and in a relatively short span of about 50 years, four such earthquakes have occurred: Shillong, 1897 (M 8.7); Kangra, 1905 (M.8.0); Bihar–Nepal, 1934 (M 8.3); and Assam–Tibet, 1950 (M 8.6). Scientific publications have warned that very severe earthquakes are likely to occur anytime in the Himalayan Region, which could adversely affect the lives of several million people in India.
+
+# Traditional Housing Construction in Rural Areas
+
+# 1.2.1
+
+A majority of the buildings constructed in India, especially in suburban and rural areas, are non-engineered and built without adhering to earthquake-resistant construction principles. Most contractors and masons engaged in the construction of these buildings are also not familiar with the earthquake-resistant features specified in the building codes. Indigenous earthquake-resistant houses like the bhongas in the Kutch Region of Gujarat, dhajji diwari buildings in Jammu &#x26; Kashmir, brick-nogged wood frame constructions in Himachal Pradesh and ekra constructions made of bamboo in Assam are increasingly being replaced with modern Reinforced Cement Concrete (RCC) buildings, often without incorporating earthquake-resistant features and without compliance to building codes and bye-laws. It is thus necessary to empower communities to ensure the seismic safety of the built environment by encouraging the use of simple, easy and affordable technical solutions and institutional arrangements. These make use of indigenous technical knowledge and locally available materials in the construction of earthquake-resistant buildings in suburban and rural areas.
+
+# 1.2.2
+
+The Bhuj earthquake of 2001 caused widespread damage and destruction not only to residential buildings but also to government buildings, public infrastructure and to buildings housing industrial enterprises in more than 7,900 villages in 21 districts of Gujarat. The severe economic losses caused by the Gujarat earthquake were not only restricted to the local economy but also influenced the savings and investment patterns and stock market behaviour. Thus, the economic impact of an earthquake in a metropolitan city like Delhi or Mumbai etc., will have primary, secondary and tertiary effects.
+
+
+ 
+NATIONAL DISASTER MANAGEMENT GUIDELINES: MANAGEMENT OF EARTHQUAKES
+
+# Critical Areas of Concern in Earthquake Management
+
+# 1.3.1
+
+There is an increasing need being felt for a more systematic, holistic and integrated effort to address the critical areas of concern responsible for the weak seismic safety measures in India. These Guidelines have been drawn up to address these critical areas of concern and to provide the foundation for seismic safety.
+
+# 1.3.2
+
+The regions away from the Himalayas and other inter-plate boundaries were previously considered to be relatively safe from the devastating impact of earthquakes. However, the Koyna earthquake of 1967 and the Latur earthquake of 1993 dispelled this widely held view and influenced the revisions of the seismic zoning map. This map, however, only indicates areas with low, moderate and high seismic hazards based on past trends. There is an urgent need to revise the seismic zone map of India to reflect the return period related design accelerations. This work will be carried out in a phased manner covering the Himalayan ranges, the North-East and the western region in the first phase.
+
+# Critical Areas of Concern for the Management of Earthquakes in India
+
+The critical areas of concern for the management of earthquakes in India include the:
+
+- lack of awareness among various stakeholders about the seismic risk;
+- inadequate attention to structural mitigation measures in the engineering education syllabus;
+- inadequate monitoring and enforcement of earthquake-resistant building codes and town planning bye-laws;
+- absence of systems of licensing of engineers and masons;
+- absence of earthquake-resistant features in non-engineered construction in suburban and rural areas;
+- lack of formal training among professionals in earthquake-resistant construction practices; and
+- lack of adequate preparedness and response capacity among various stakeholder groups.
+
+# Urgent Need: A More Realistic and Scientific Seismic Zonation Map
+
+The MoES will coordinate this task in collaboration with technical institutions like the IMD, the Earthquake Risk Evaluation Centre (EREC), the BIS and the Geological Survey of India (GSI), along with the concerned scientific and professional institutions.
+
+8 Index Previous Next
+ 
+
+THE CONTEXT
+
+# Figure 1: Seismic Zone Map of India (IS : 1893, 2002)
+
+| 3:26 | 3.88 | 3.18 | 3.08 | 39E | 3.2E |
+| ---- | ---- | ---- | ---- | --- | ---- |
+
+(oo J I Mr uoM Mo boe To I ousZ a eedode ta ta pec se eaan te wo e o t t a pee tia o see eae an ano Mr uo Ms e o I o oe)
+
+M ao Md s oo oe o X M auo M abee y auo
+
+IUA VINN -N.9
+
+NO WTTA NOTIO
+
+Jononown N.01- nOoNIo rreaa N.O1
+
+WNWHneuia daepeye 3UOVOOTD Ponner UANEE
+
+3.96 spes teaonsuewepu NAO0 ST WOEEE
+
+NHETEHYOno" HTOW U 1.AN N.01- a " Raraeaaa
+
+yned ads tr " ovovhan" eoa =NOO
+
+BIIIOA 100Nn" R0139
+
+BAAE A DAI WIAL HWAHA OVBRGAH UNHW Bnanos o AAA BAAANA
+
+N.81 oVEWNZeN" nun N.81 Wssennr N SOSER -3.89
+
+ossa Pee Mebe e NEVEO Ca a WAAD ne O UEFRR chehan BR
+
+HUASh MONVNI HAHS IVONVBUC PEVOON 2.NN
+
+2.22 TYGOH8 oen Weng ase HONVU OVEVOVEI p Maepe Bes 1OSNISY
+
+nduen Behnar 28nervan" WMeebee HNER HO1VHO YOVIRTHe 3.9N EAAER
+
+N.92 Nuebeaan asssw reraa Sklm uueee en
+
+nneped peen W y TAVN nu TNY VIVERY FN.0E ruy
+
+N:OE efund bhd es
+
+N:DE am nwwr -N.VE
+
+N.88 №.89
+
+| 3.96 | 3.26 | 3.92 | 3.22 |
+| ---- | ---- | ---- | ---- |
+
+9
+
+Index Previous Next
+
+
+ 
+NATIONAL DISASTER MANAGEMENT GUIDELINES: MANAGEMENT OF EARTHQUAKES
+
+# Table 2: Geographic Areas in Seismic Zones
+
+| Seismic Zones | % of Geographical Area |
+| ------------- | ---------------------- |
+| II            | 41.40                  |
+| III           | 30.40                  |
+| IV            | 17.30                  |
+| V             | 10.90                  |
+
+# Overview of Past Initiatives in India
+
+1.4.1 The GSI has published works like Oldham’s monograph, On the Great Assam Earthquake of 1827 and monographs on the Kangra earthquake of 4 April 1905, and the Bihar–Nepal earthquake of 1934, as well as the Seismo-Tectonic Atlas of India in 2000, which catalogues the major faults and the earthquake-prone regions in India. The IMD is the nodal agency of the GoI responsible for monitoring seismic activities in India through its nationwide network of seismological observatories. Since 1982, the Department of Science and Technology (DST), GoI, has been carrying out a multi-disciplinary and multi-institutional programme on seismology. It has also supported the installation of networks of seismological and strong motion observatories, as well as shake tables and Global Positioning System (GPS) networks.
+
+1.4.2 The Survey of India (SOI) has initiated a project for GPS measurement across the country to monitor the tectonic movement across the plate boundaries with the support of the DST and national institutes specialising in geophysics, geology and earth sciences like the National Geophysical Research Institute (NGRI), Hyderabad; the Wadia Institute of Himalayan Geology (WIHG), Dehradun; the Indian Institute of Geo Magnetism (IIG), Mumbai; and the Centre for Earth Science Studies (CESS), Thiruvananthapuram. Many such institutions have been carrying out a wide variety of activities related to earthquake monitoring and hazard estimation including seismic ground movement measurements, seismic ground shaking measures and seismic macro zonation.
+
+# A Recent Initiative in India
+
+1.5.1 The MoES was recently set up by the GoI by bringing together the Earth Commission and all other related departments like the IMD and scientific and technical institutions working in meteorology.
+
+10 Index Previous Next
+ 
+
+# THE CONTEXT
+
+Seismology, atmosphere and earth sciences. Its function is to primarily coordinate the smooth functioning of these agencies. The MoES is also the nodal ministry for addressing the issues related to monitoring seismic activity through early warning networks and the dissemination of these early warning messages to all stakeholder groups concerned.
+
+# Earthquake Engineering Education
+
+Seismic resistance of nuclear power plant equipment and for research on earthquake resistance of other structures. IIT, Powai (Mumbai) designed and developed a small-scale shake table in 1985 for testing the seismic resistance of equipment, materials and structures. Additional shake tables have also been built at institutions like the Central Water and Power Research Station (CWPRS), Pune; IISc, Bangalore; IIT, Delhi and Kanpur; and SERC, Chennai.
+
+# 1.6.1
+
+The University of Roorkee started a post-graduate programme in earthquake engineering in 1963. Several other institutions including the IITs and the Indian Institute of Science (IISc), Bangalore, also began postgraduate degrees in civil engineering with a specialisation in earthquake engineering; and in earth sciences with a specialisation in seismology. The establishment of the Indian Society of Earthquake Technology (ISET) in 1964 provided a forum for scientists and engineers to explore areas for professionalising earthquake engineering in India. The ISET organises India’s seminal Earthquake Engineering Congress every four years and currently has a membership of over 1,400 geologists, architects, engineers and seismologists.
+
+# 1.6.2
+
+The University of Roorkee built the first shock test facility mounted on railway wagons for testing full-scale prototypes of structures to test earthquake resistance. The first modern shake table capable of handling full-scale models was built by the University of Roorkee in the early 1980s to test the earthquake resistance.
+
+# The Approach to Management of Earthquakes in India: Strengthening Earthquake Preparedness, Mitigation and Emergency Response
+
+The Approach to Management of Earthquakes in India, as spelt out by these Guidelines, envisages the institutionalisation of initiatives and activities based on scientific strategies, covering pre-earthquake components of prevention, mitigation and preparedness, as well as post-earthquake components of emergency response, rehabilitation and recovery. The objective of all activities related to the management of earthquakes is to evolve a community that is informed, resilient and prepared to face such disasters in the future, with a minimal loss of lives and damage to property, assets and infrastructure.
+
+
+ 
+NATIONAL DISASTER MANAGEMENT GUIDELINES: MANAGEMENT OF EARTHQUAKES
+
+# The Framework for Earthquake Management
+
+1.8.1 DM plans in the past were primarily based on intuitive considerations and past lessons. While past experience provides valuable inputs for the development of risk reduction strategies, the absence of a rigorous RM framework has resulted in weak sustainability and inadequate extension of post-earthquake efforts in other earthquake-prone areas in India. The DM systems in several developed countries have evolved on the basis of a rigorous RM framework as practised in Australia, New Zealand and Canada. The RM framework, which provides the logic for these Guidelines, places local communities at the centre, helps to interface them with decision makers and provides the opportunity for continuous and effective feedback between the community at risk and other stakeholders. The essential feature of this RM framework is to view earthquake management issues in a holistic and integrated manner by identifying, analysing, evaluating and finally, effectively treating the risks. These steps will be implemented through a consultative and participatory process by involving the key stakeholders and will be monitored and reviewed concurrently at various stages of implementation.
+
+1.8.2 This type of RM framework was not employed in the past in India, primarily due to lack of appropriate institutional mechanisms, even though each element of this framework was practised separately. These Guidelines propose a holistic approach based on such an integrated RM framework that can be implemented in the field, considered for policy making, and incorporating different stakeholders in the process.
+
+1.8.3 In India, the state governments are primarily responsible for various aspects of DM within the states, including capacity building at various levels, as well as for fostering partnerships between the different stakeholders. These Guidelines provide the basis for the formulation of appropriate plans for the promotion of an earthquake resilient society, with the cooperation of various stakeholders, and to ensure the effective implementation of these plans at various levels. The earthquake management framework imposes the additional responsibility on professionals to improve their skills and expertise, to contribute to capacity development, and to cooperate with other stakeholders in ensuring seismic safety in India. Specialists, particularly scientists, engineers, architects and planners, will be closely involved in various earthquake management initiatives at all levels.
+
+1.8.4 The role of community participation in DM is critical for the long-term sustainability of these efforts. When the community becomes a part of the decision making system, its involvement grows. Thus, taking inputs from the community is the most important factor in sustaining the effort for effective DM initiatives, and for ensuring their ownership and accountability. Following these guidelines, the community will participate at the local level in the planning, implementation and monitoring processes.
+
+# DM Plans
+
+1.9.1 Central ministries, departments and state governments are required to prepare DM plans to improve earthquake preparedness, mitigation and emergency response in accordance with these guidelines. A typical DM plan will, inter alia, include aspects of earthquake management, like identification of all tasks to be undertaken before, during and after an earthquake; outline the response mechanism with clearly defined roles and responsibilities for various stakeholders; and identify the available resources to ensure their effective utilisation in the event of an earthquake. The plans will spell out the strategies for addressing the various tasks relating to earthquake preparedness and awareness creation, capacity development, monitoring and enforcement of earthquake-resistant codes and building bye-laws. They will also include
+
+12 Index Previous Next
+ 
+
+# THE CONTEXT
+
+emergency response, earthquake-resistant design and construction of new structures, and selective seismic strengthening and retrofitting of priority and lifeline structures in earthquake-prone areas. The India Disaster Resource Network (IDRN) database of resource inventories in the districts will be strengthened by the states through regular updating. States will also integrate this database with their DM plans.
+
+# 1.10.1
+
+The DM Act, 2005 has mandated the formation of apex bodies in each of the states and Union Territories (UTs), called the SDMAs at the state level and the DDMAs at the district level for effective DM. While the NDMA is responsible for developing national policy and guidelines, the NEC will prepare the National Disaster Management Plan which will be approved by the NDMA.
+
+# 1.9.2
+
+The DM plans will be funded by resources flowing out of the efforts of the central and state governments to mainstream DM concerns into developmental programmes such as the Jawaharlal Nehru National Urban Renewal Mission (JNNURM); from allocations to be made by various central governments/departments and state governments in their five-year/annual plans; and from resources available in prevailing response/mitigation funds at various levels, as well as from specially undertaken mitigation projects like the proposed National Earthquake Mitigation Project, the Urban Earthquake Vulnerability Reduction Project (UEVRP), etc. Additional resources may also be mobilised for specific activities as part of Public Private Partnership (PPP) efforts or, from other sources of funding wherever necessary.
+
+# 1.10.2
+
+The State Executive Committees (SECs) of the SDMAs are responsible for developing their DM plans as per the national policy and guidelines, and for implementing the Guidelines with the help of the DDMAs. The state governments/SDMAs will set up State Earthquake Management Committees (SEMCs) and designate a nodal officer responsible for seismic safety. The SEMCs will consist of specialists with field experience in earthquake management, as well as representatives of the various stakeholders. These committees will assist the SDMAs in preparing their DM plans and in developing appropriate implementation and monitoring mechanisms.
+
+13
+
+Index Previous Next
+
+
+ 
+NATIONAL DISASTER MANAGEMENT GUIDELINES: MANAGEMENT OF EARTHQUAKES
+
+# 2  Guidelines—An Overview
+
+# Guidelines for Earthquake Management
+
+Management Policy and disaster specific Guidelines, and will incorporate the key elements of the plans prepared by various central ministries and departments and state governments. Five year and annual plans of all central ministries and departments, as well as those of state governments, will include DM components to support the activities spelt out in these plans.
+
+# 2.1.1
+
+As mentioned in the previous chapter, central ministries and departments and the state governments will prepare DM plans, which will have specific components on earthquake management, based on these Guidelines. These plans will cover all aspects of the entire DM cycle, be reviewed and updated at periodic intervals and implemented through appropriate, well coordinated and time bound actions as laid down in these Guidelines.
+
+# 2.2.2
+
+The nodal agencies at the central and state levels will encourage all stakeholders to set up appropriate institutional mechanisms to ensure that the national earthquake safety agenda is not only implemented but also closely monitored vis-à-vis specific targets. Such nodal agencies will identify appropriate agencies and institutions to develop standardised training modules, to prepare public awareness resource materials and to monitor the implementation of the DM plans based on these Guidelines.
+
+# Mainstreaming Earthquake Mitigation
+
+# 2.2.1
+
+All central ministries and departments, as well as state government departments and agencies will designate nodal officers responsible for earthquake management activities and for the effective formulation and implementation of the DM plans, with special emphasis on management of earthquakes. The policies, initiatives and activities of these agencies will address the concerns of all stakeholders involved in the development, management and maintenance of the built environment to ensure seismic safety. All stakeholder agencies will also carry out regular mock drills and table top simulations for testing these plans. The NEC will prepare the National Disaster Management Plan, based on the National Disaster.
+
+# The Six Pillars of Earthquake Management
+
+# 2.3.1
+
+These Guidelines rest on the following six pillars of seismic safety for improving the effectiveness of earthquake management in India (see Figure 2).
+
+# Time line for Implementation
+
+# 2.4.1
+
+These Guidelines will come into force with immediate effect. The activities are envisaged to be implemented in two phases. Phase I will commence with immediate effect, conclude by 31 December 2008 and be reviewed by 30 June 2009.
+
+14 Index Previous Next
+ 
+
+GUIDELINES—AN OVERVIEW
+
+# Figure 2: The Six Pillars for Earthquake Management in India
+
+| Existing Structures                 | Retrofitting and Strengthening | Preparedness            |
+| ----------------------------------- | ------------------------------ | ----------------------- |
+| Lifeline Structures                 | Building Capacity              |                         |
+| New Earthquake Resistant Structures | Enforcement & Regulation       | Emergency Documentation |
+| Seismic Capacity Development        | Awareness & Training           |                         |
+
+Based on this review, the activities in Phase II will be designed in the second half of 2009 and Phase II will begin by 1 January 2010. However, in the interim period during 2009, Phase I activities will be continued as ongoing activities, even when the review and Phase II activities design process are carried out. The activities in Phase I will pose very serious challenges as they will lay the foundation for seismic safety in India. The milestones recommended for the implementation of the Guidelines are listed in Table 3.
+
+15 Index Previous Next
+
+ 
+# NATIONAL DISASTER MANAGEMENT GUIDELINES: MANAGEMENT OF EARTHQUAKES
+
+# Table 3: Milestones for the Implementation of the Guidelines
+
+| S. No. | Item                                                                                                             | Commencement Date               | Action and Date of Completion |
+| ------ | ---------------------------------------------------------------------------------------------------------------- | ------------------------------- | ----------------------------- |
+| 1      | Development of detailed action plans for each Phase I activity                                                   | With immediate effect           | Complete by 30 June 2007      |
+| 2      | All activities of Phase I                                                                                        | With immediate effect           | Underway by 1 July 2007       |
+| 3      | Mid-term monitoring and correction of implementation plans of all Phase I activities                             | With immediate effect           | Complete by 31 December 2007  |
+| 4      | Completion of Phase I activities                                                                                 | With immediate effect           | Complete by 31 December 2008  |
+| 5      | Major review of all action plans of all activities of Phase I                                                    | With effect from 1 January 2009 | Complete by 30 June 2009      |
+| 6      | Identification of activities to be undertaken in Phase II, and development of detailed action plans for the same | Initiated by 1 July 2009        | Complete by 31 December 2009  |
+| 7      | Implementation of all Phase II activities                                                                        |                                 | Underway by 1 January 2010    |
+
+Index Previous Next
+ 
+
+# Earthquake-Resistant Design and Construction of New Structures
+
+# The Need for Making All New Constructions Earthquake-Resistant
+
+3.1.1 In most earthquakes, the collapse of structures like houses, schools, hospitals and public buildings results in the widespread loss of lives and damage. Earthquakes also destroy public infrastructure like roads, dams and bridges, as well as public utilities like power and water supply installations. Past earthquakes show that over 95 per cent of the lives lost were due to the collapse of buildings that were not earthquake-resistant. Though there are building codes and other regulations which make it mandatory that all structures in earthquake-prone areas in the country must be built in accordance with earthquake-resistant construction techniques, new constructions often overlook strict compliance to such regulations and building codes.
+
+# Institutionalisation of Earthquake-Resistant Design and Construction
+
+3.3.1 All central ministries and departments and state governments will facilitate the implementation and enforcement of relevant standards for seismically safe design and construction of buildings, bridges, flyovers, ports and harbours, and other lifeline and commercially important structures falling within their administrative control. State governments/SDMAs and ULBs will also consider using incentives and disincentives, coupled with external compliance reviews by accredited agencies, to encourage the construction of earthquake-safe buildings.
+
+# Time-Frame and Milestones
+
+3.2.1 These Guidelines will come into force with immediate effect. All new construction will be made to comply with earthquake-resistant building codes and the modified techno-legal regime, which includes the revised town planning bye-laws, land use zoning, Development Control Regulations (DCRs) and building codes by 30 June 2007. While eventually, all new construction will be built as per earthquake-resistant building codes, compliance will be made mandatory with immediate effect in towns and cities in Zones III, IV and V. A vulnerability and risk assessment project will be initiated shortly, as a part of which, an updated list will be compiled of all earthquake-prone districts, cities and towns.
+
+3.3.2 The state governments/SDMAs will organise capacity building programmes among professionals and masons for the design and construction of new buildings as per earthquake-resistant building codes. They will also ensure that the construction of all new dams, bridges, flyovers, ports, other lifeline structures, strategic assets and commercially important structures are made.
+
+17 Index Previous Next
+
+
+ 
+NATIONAL DISASTER MANAGEMENT GUIDELINES: MANAGEMENT OF EARTHQUAKES
+
+compliant with the relevant earthquake safety standards specified in the relevant codes and standards, and certify them for compliance. State governments will incorporate earthquake-resistant features in standard designs for the construction of buildings in large numbers like schools, primary health centres, anganwadi centres, and panchayat buildings. These will serve as pilot projects to demonstrate the efficacy of earthquake-resistant construction.
+
+Compliance Review
+
+# 3.4.1 The designs of all new buildings and structures specified in the model bye-laws will be scrutinised by the competent authorities through a general compliance review and mandatory technical audit process by qualified professionals as recommended in the model techno-legal regime developed by an expert group set up by the Ministry of Home Affairs (MHA), GoI. This review process will be carried out using a checklist of all computational and non-computational verifications, before issuing building approvals. A detailed peer review or third party audit of the design and construction of major construction works will be undertaken by qualified accredited agencies for ensuring compliance with the techno-legal regime.
+
+# 3.4.2 Time-Frame for Compliance of Seismic Safety of New Constructions
+
+The schedule of activities for ensuring seismic safety of all new constructions is given in Table 4.
+
+| Activity                                                            | Commencement          | 2007      | 2008      |
+| ------------------------------------------------------------------- | --------------------- | --------- | --------- |
+| 3 A Training of professionals                                       | With immediate effect | Implement |           |
+| 3 B Dissemination of documents                                      | With immediate effect | Implement |           |
+| 3 C Undertaking pilot projects on earthquake resistant construction | With immediate effect | Implement |           |
+| 3 D Modifying regulations and town planning bye-laws                | With immediate effect | Implement |           |
+| 3 E Undertaking mandatory third party detailed technical audit      | With immediate effect | M\*       | Implement |
+
+*M: Meetings
+
+18 Index Previous Next
+ 
+
+# Seismic Strengthening and Retrofitting of Lifeline and Priority Structures
+
+Need for Seismic Strengthening of Existing Structures
+
+4.1.1 There are approximately 12 crore buildings in seismic Zones III, IV and V. Most of these buildings are not earthquake-resistant and are potentially vulnerable to collapse in the event of a high intensity earthquake. As it is not practically feasible or financially viable to retrofit all the existing buildings, these Guidelines recommend the structural safety audit and retrofitting of select critical lifeline structures and high priority buildings. Such selection will be based on considerations such as the degree of risk, the potential loss of life and the estimated financial implications for each structure, especially in high-risk areas, i.e., in seismic Zones III, IV and V. While these Guidelines indicate an illustrative list of such buildings and structures, the state governments/SDMAs will, in consultation with their SEMCs and Hazard Safety Cells (HSCs), review their existing built environment, and prepare such lists.
+
+4.1.2 While drawing up the priority list, a cluster approach will be followed for selecting various types of critical lifeline structures and various categories of building types (RCC, stone masonry, adobe, brick and mortar, etc.) in adjoining districts to encourage mutual consultations, demonstrations and possible replication in other districts. Thus, primary schools, primary health centres, panchayat offices, post offices, block offices, etc., may be taken up in Zone III, IV and V areas to study their ability to withstand high intensity earthquakes and where found to be expedient, some selected priority buildings will be taken up for seismic strengthening and retrofitting. Such retrofitted buildings will provide valuable demonstration of the efficacy of seismic retrofitting.
+
+4.2.1 All central ministries and departments and state governments will draw up phased programmes for seismic strengthening and retrofitting of selected existing structures duly prioritised and implement them through ULBs and PRIs. Like all new construction, any structural modification of existing buildings will also require compliance with seismic safety regulations.
+
+4.2.2 The initial focus for structural safety audit and retrofitting will be on government and public buildings. The necessary capacity for carrying out similar assessments for private buildings will also be developed through suitable capacity development efforts among the professionals in the private sector. The nodal agencies will provide in
+
+19 Index Previous Next
+
+
+ 
+NATIONAL DISASTER MANAGEMENT GUIDELINES: MANAGEMENT OF EARTHQUAKES
+
+# An Illustrative Priority List for Structural Safety Audit, Seismic Strengthening and Retrofitting
+
+- Buildings of national importance like Rashtrapati Bhavan, Parliament House, the Supreme Court of India, Raj Bhavans, Legislatures, High Courts, Central and State Secretariats, historical monuments, museums, heritage buildings, strategic assets and vital installations such as power plants, and water works.
+- Lifeline buildings, structures and critical facilities like schools, colleges and academic institutions; hospitals and health facilities, tertiary care centres and all hospitals designated as major hospitals.
+- Public utility structures like reservoirs and dams; bridges and flyovers; ports and harbours; airports, railway stations and bus station complexes.
+- Important buildings that ensure governance and business continuity like offices of the district collector and superintendent of police in districts; buildings of financial institutions like the Reserve Bank of India and the stock exchanges.
+- Multi-storeyed buildings with five or more floors in residential apartments, office and commercial complexes.
+
+Notes:
+
+1. The responsibility to identify and prioritise these structures will rest with respective state governments.
+2. Additional lists of buildings and structures to be retrofitted can be prepared, after completion of the first phase of retrofitting of prioritised buildings and structures, based on the experience gained, by respective state governments.
+
+# Structural Safety Audit of Critical Lifeline Structures
+
+# 4.3.1
+
+The seismic risk profile can be quantified only after the vulnerability of building inventory in a geographic area is compiled. Assessment techniques may be used to determine the vulnerability of all buildings, in the order of priority decided by the state governments/SDMAs, in consultation with their SEMCs and HSCs. Two levels of seismic vulnerability assessment can be carried out for buildings, namely Rapid Visual Screening (RVS) and Detailed Vulnerability Assessment (DVA). The former is a quick estimation with visual but technical information of structures to determine whether the structure is considered to be vulnerable or not. Once the RVS identifies a structure to be vulnerable, then that structure is subjected to a detailed assessment for a quantitative evaluation of its vulnerability. For structures other than buildings, DVAs are normally carried out. A DVA consists of evaluating the structural systems that resist the earthquake loads, as well as assessing non-structural elements like the contents, finishes and elements that do not resist any earthquake load of the structure.
+
+# 4.3.2
+
+RVS procedures need to be developed for all types of building systems in India, e.g., brick and stone masonry buildings, RCC frame buildings with masonry infill, etc. Detailed studies will be conducted at the national level to develop a consensus on the methodology that should be undertaken for RVS of buildings in India as a part of seismic vulnerability assessment. The vulnerability assessment exercise will be repeated every 10 years to monitor the modification to the vulnerability profile of the built environment.
+
+# 4.3.3
+
+At the national, state and district levels, issues such as lack of knowledge on cost estimates that will be incurred in retrofitting each type of structure, the types of tools required for undertaking modifications/enhancements of existing structural elements, the time required to complete the retrofit.
+
+20 Index Previous Next
+ 
+
+SEISMIC STRENGTHENING AND RETROFITTING OF LIFELINE AND PRIORITY STRUCTURES
+
+# 4.4 Public Awareness Campaigns
+
+4.4.1 Public awareness campaigns will be initiated at the national, state and district levels in high-risk areas for widely disseminating information on earthquake risk reduction through seismic retrofitting among all stakeholders and to develop professional human resources for seismic retrofitting. Case studies documenting the process of vulnerability assessment will be prepared and disseminated for creating greater public awareness among professionals and critical stakeholders. Seismic risk reduction can be achieved by applying currently available national and international knowledge on seismic strengthening and retrofitting; imbibing available national and international knowledge and customising the same; and finally, generating new applied knowledge to address the problems specific to India. Significant and maximum gains can be achieved by initiating rigorous research and development activities to develop new knowledge and techniques and to adapt the available knowledge to the Indian context.
+
+4.4.2 State governments/SDMAs and professional bodies will organise knowledge sharing workshops to disseminate the methodology and important experiences of seismic strengthening and retrofitting of lifeline structures to the professional community. State governments will carry out structural safety audit of all dams, bridges and flyovers, and undertake phased retrofitting of all weak structures. They will also support private agencies to develop their capacity to conduct seismic evaluation and strengthening of existing privately owned structures.
+
+# 4.5 Seismic Strengthening and Retrofitting
+
+4.5.1 The seismic strengthening and retrofitting of some fragile lifeline structures will be undertaken through a pilot project under the UEVRP being implemented by the GoI in collaboration with the United Nations Development Program (UNDP) or, through the National Earthquake Mitigation Project in a phased manner. The prioritisation of the cities will be based on the degree of seismic hazard, population size, level of vulnerability of the building/structure, importance of the structure, and the speed with which the states can undertake these initiatives. The cities have been identified based on these criteria for seismic strengthening and retrofitting of selected lifeline structures. In the first priority, metropolitan cities and major townships in Zones III, IV, and V with large populations are included (see Table 5). Even though some of the capital cities of the north-eastern states may not have large populations, they fall within the high seismic risk zone and hence have been included in the priority cities.
+
+4.5.2 Similar efforts will be carried out in other high-risk cities in a selective manner by initially starting with the capacity development of professionals to carry out these tasks. Accomplishing seismic retrofitting of the existing
+
+21 Index Previous Next
+
+ 
+NATIONAL DISASTER MANAGEMENT GUIDELINES: MANAGEMENT OF EARTHQUAKES
+
+# Table 5 : List of Cities with the First Level of Priority
+
+| S.No. | Name of the City | Seismic Zone |
+| ----- | ---------------- | ------------ |
+| 1     | Agartala         |              |
+| 2     | Aizawal          |              |
+| 3     | Gangtok          |              |
+| 4     | Guwahati         |              |
+| 5     | Imphal           | V            |
+| 6     | Itanagar         |              |
+| 7     | Kohima           |              |
+| 8     | Port Blair       |              |
+| 9     | Shillong         |              |
+| 10    | Srinagar         |              |
+| 11    | Ambala           |              |
+| 12    | Amritsar         |              |
+| 13    | Chandigarh       |              |
+| 14    | Dehradun         |              |
+| 15    | Delhi            |              |
+| 16    | Gurgaon          | IV           |
+| 17    | Jalandhar        |              |
+| 18    | Jammu            |              |
+| 19    | Jamnagar         |              |
+| 20    | Meerut           |              |
+| 21    | Patna            |              |
+| 22    | Shimla           |              |
+| 23    | Chennai          |              |
+| 24    | Kolkata          | III          |
+| 25    | Lucknow          |              |
+| 26    | Mumbai           |              |
+
+Note: This list may undergo some changes on completion of microzonation studies.
+
+Built environment requires a systematic and sustained effort, by carrying out several activities in each of the towns and cities (see Table 6). These activities are:
+
+# Financial Allocations for Carrying out Selective Retrofitting
+
+4.6.1 Central ministries and departments and state governments will mainstream DM efforts in their development plans. In the annual plans, specific allocations will be made for carrying out disaster preparedness efforts, as well as disaster mitigation measures including retrofitting of selected lifeline structures. Wherever necessary and
+
+
+ 
+
+# SEISMIC STRENGTHENING AND RETROFITTING OF LIFELINE AND PRIORITY STRUCTURES
+
+feasible, the central ministries and departments and ULBs in the states may initiate discussions with corporate sector undertakings to support the retrofitting measures of selected lifeline structures as a part of PPP efforts and Corporate Social Responsibility (CSR).
+
+# Table 6: Schedule of Activities for Seismic Retrofitting
+
+| Activity                                                         | Commencement          | 2007      | 2008      |           |
+| ---------------------------------------------------------------- | --------------------- | --------- | --------- | --------- |
+| 4 A Developing inventory of existing built environment           | With immediate effect | Implement |           |           |
+| 4 B Assessing vulnerability of constructions                     | With immediate effect | Implement |           |           |
+| 4 C Prioritising vulnerable structures                           | With immediate effect | M\*       | Implement |           |
+| 4 D Developing seismic retrofitting measures                     | With immediate effect | M\*       | Implement |           |
+| 4 E Undertaking retrofitting to strengthen vulnerable structures | With immediate effect | M\*       | M\*       | Implement |
+
+*M: Meetings
+
+23
+
+Index Previous Next
+ 
+NATIONAL DISASTER MANAGEMENT GUIDELINES: MANAGEMENT OF EARTHQUAKES
+
+# 5  Regulation and Enforcement
+
+# Building Codes and Other Safety Codes
+
+BIS will contemporise and revise these codes at the earliest but definitely within the next two years.
+
+# 5.1.1 State governments/SDMAs will, in consultation with their SEMCs and HSCs, establish the necessary techno-legal and techno-financial mechanisms.
+
+This is to ensure that all stakeholders like builders, architects, engineers and government departments, responsible for regulation and enforcement adopt earthquake-safe construction practices and provide for seismic safety in all design and construction activities in such a way that acceptable safety benchmarks are satisfied.
+
+# Priority for Finalising Earthquake-Resistant Design and Construction Related Codes by the BIS
+
+- IS:1893 (Part 2) :: Elevated and Ground Supported Liquid Retaining Structures
+- (Part 3) :: Bridges and Retaining Walls
+- (Part 5) :: Dams and Embankments
+- IS:4326 :: Earthquake Resistant Construction
+
+# Adoption of Model Town Planning Bye-Law by State Governments
+
+In recognition of the importance of a techno-legal framework for regulating the built environment, the MHA had constituted a national level expert group to recommend modifications of existing regulations to ensure structural safety. This group recommended modifications to the town and country planning Acts, land use and zoning regulations, DCRs and building bye-laws and developed a set of model bye-laws which are technically rigorous and conform to globally accepted norms. They also prescribe regulatory, quality control and compliance mechanisms. The MHA has circulated these Model Bye-Laws to the state governments for review of the bye-laws currently in force and for ensuring their adoption after revision. The state governments will review and adopt the Model Town Planning Bye-Law by 30 June 2007.
+
+- IS:13920 :: Ductile Detailing of Reinforced Concrete Structures
+- IS:13827 :: Earthen Dwellings
+- IS:13828 :: Low Strength Masonry Structures
+- IS:13935 :: Seismic Strengthening of Structures
+
+# 5.1.3 The lack of easy availability of the seismic safety codes and standards, in particular their latest revisions, has been frequently cited as one of the major factors responsible for the poor implementation of earthquake-resistant construction practices.
+
+Considering the overriding interest of public safety, the BIS will place in the public domain including the Internet for free download, all Indian standards related to seismic safety.
+
+# 5.1.4 A periodic revision of the codes and standards relating to earthquake-resistant construction will be undertaken by drafting groups within a fixed time-frame of five years or even earlier on priority basis, in keeping with international
+
+24 Index Previous Next
+ 
+REGULATION AND ENFORCEMENT
+
+# 5.1.5
+
+Design provisions are required on many topics that have not been addressed so far in the existing codes or guidelines in India. Such topics include:
+
+- Seismic design of non-structural elements and components of buildings and structures.
+- Seismic design of reinforced masonry structures.
+- Seismic evaluation and strengthening of structures.
+- Seismic design of buried and above ground pipelines.
+- Seismic design and ductile detailing of steel structures.
+- Seismic design and ductile detailing of bridge piers.
+- Seismic design, construction and manufacture of facilities, structures and components related to electrical power generation, transmission and distribution.
+- Seismic design of tunnels.
+
+# 5.2.1
+
+All state governments/SDMAs will adopt the model techno-legal framework for ensuring compliance of earthquake-resistant design and construction practices in all new constructions. State governments will update the urban regulations by amending them to incorporate multi-hazard safety requirements. State governments will review, revise and update the town and country planning Acts, land use and zoning regulations, building bye-laws and DCRs, and this process will be repeated at least once every five years.
+
+# Licensing and Certification of Professionals
+
+# 5.3.1
+
+All professionals dealing with safety aspects of buildings and structures will be certified through a licensing process. Such certification requirements, in accordance with the criteria evolved by the model techno-legal regime, will be incorporated in the DCRs. Architects and engineers working with the GoI and state government organisations will also be subject to this licensing. The MoES will, in collaboration with the relevant central ministries and departments, evolve an appropriate techno-legal framework for making the licensing of engineers mandatory. Steps will be initiated to include in the proposed Engineers’ Bill, enabling provisions for facilitating the implementation of the plans and the Guidelines. The renewal of licenses will be made contingent.
+
+25 Index Previous Next
+ 
+# NATIONAL DISASTER MANAGEMENT GUIDELINES: MANAGEMENT OF EARTHQUAKES
+
+# 5.3.2
+
+In the case of architects, both the statutory body to register architects, namely the Council of Architecture (COA), and the professional body to coordinate with architects, namely the Indian Institute of Architects (IIA), will be responsible for the registration, training and upgradation of skills of architects in earthquake-resistant design and construction. In the case of engineers, only professional bodies, such as the IE(I), will be entrusted with the responsibility to register engineers and regulate the profession at the national level. The MoES will coordinate with the statutory and professional bodies of architects and engineers to include concepts of earthquake-resistant design and construction in their curriculum and train practising professionals on earthquake-resistant design and construction in their respective fields.
+
+# 5.3.3
+
+The MoES will also facilitate the establishment of a techno-legal framework for the certification of artisans involved in the construction industry along the lines of the recent experience of certification of masons in Gujarat. All artisans involved in both public and private construction projects will be certified for their skills in ensuring seismic safety. State governments will follow a five-year licensing cycle, wherein the certification is renewed every five years. State governments will also develop a scheme for setting up training centres for artisans in earthquake-prone areas. These training centres will demonstrate prototypes of earthquake-resistant construction, and will also assist the appropriate dissemination of materials for creating larger public awareness on earthquake-resistant construction techniques.
+
+# Compliance Review
+
+# 5.4.1
+
+Designs of all structures will go through a mandatory compliance review by the professionals of the ULBs and PRIs to which the designs are submitted for approval. Self-certification for all structures will be an integral part of the approval process for the building plans under which all professionals involved in different aspects of building safety certify the compliance of these new structures to appropriate standards, codes and regulations. The major projects and critical structures will be put through a mandatory compliance review by qualified external agencies.
+
+# 5.4.2
+
+The model techno-legal regime recommended by the expert group set up by the MHA, GoI, will be incorporated in the DCRs to enforce the scrutiny of building designs for their compliance to safety in accordance with the graded requirements under the DCRs. This scrutiny will be applicable to all construction of buildings and structures in both urban and rural areas. State governments, in consultation with their SEMCs and HSCs, will ensure that the bodies responsible for compliance are equipped with qualified architects and engineers to undertake general compliance reviews. These professionals, who may be government employees or accredited private practitioners, will be trained specifically in the compliance of the bye-laws. The MoES will, in consultation with state governments and agencies concerned, develop a checklist of items to be verified and the method for such verification at national level consultative workshops and provide them as training inputs.
+
+# 5.4.3
+
+The designs of some structures randomly selected by the ULBs will be subjected to detailed technical audit for reviewing the entire design process and detailed design calculations. A procedure will be developed by each state government/SDMA for undertaking this third party audit or external compliance review by accredited agencies for ensuring the review of a structural safety audit. In particular, the external compliance review of lifeline buildings and infrastructure in earthquake-prone areas will be undertaken according to the recommendations of the expert group set up by the MHA, GoI.
+
+26
+
+Index Previous Next
+ 
+# REGULATION AND ENFORCEMENT
+
+# Need for Technical Audits and Monitoring
+
+All modifications to existing buildings, including seismic strengthening and retrofitting projects, will be regulated and monitored by the ULBs. The structural design calculations and drawings of public buildings will be scrutinised for regulation compliance as per the specifications of the model techno-legal regime. In the case of major projects, these aspects will be subjected to detailed technical audit before granting the building permissions. It will also be ensured that only building materials, of the quality conforming to the seismic safety codes and standards, will be used in the construction of buildings and structures.
+
+Financial institutions will consider the compliance of seismic safety before offering housing loans including those for construction of multi-storeyed complexes. The housing development programmes supported by the GoI and state governments (like Indira Awas Yojana), and all large-scale housing schemes will be made to comply with earthquake-resistant design and construction practices. The MoES will coordinate with the central ministries/departments concerned and state governments’ compliance to this aspect by financial institutions.
+
+# Techno-Financial Regime
+
+After an earthquake, the central and state governments provide funds for immediate relief and rehabilitation. This process does not adequately cover the requirements for reconstruction of damaged structures, especially those that are privately owned. Expenditure incurred by the GoI in the provision of funds for relief, rehabilitation and reconstruction is increasing manifold due to the rapidly increasing risk profile of the country. In most countries, risk transfer through insurance has been adopted as a step towards providing adequate compensation for the loss of property caused by disasters. Such a mechanism reduces the financial burden of the government. Risk transfer mechanisms have been found to be fairly successful hence, the insurance sector will be encouraged to promote such mechanisms in the future.
+
+The MoES will develop a national strategy for risk transfer, using the experiences of micro level initiatives in some states and global best practices. The MoES will facilitate the development and design of appropriate risk avoidance, risk sharing and risk transfer mechanisms in consultation with financial institutions, insurance companies and reinsurance agencies.
+
+# Earthquake-Resistant Construction in Rural and Semi-Urban Areas
+
+Rural and semi-urban areas account for most of the total building stock in India. The construction of these structures is presently unregulated and is adding to the numbers of vulnerable structures. Specific illustrative guidelines will be issued by state governments for each non-engineered construction type in earthquake-prone areas and demonstrated through the construction of new public buildings in villages. For instance, the buildings of panchayat offices, post offices, primary schools and primary health centres in rural and semi-urban areas will be used as demonstration buildings.
+ 
+NATIONAL DISASTER MANAGEMENT GUIDELINES: MANAGEMENT OF EARTHQUAKES
+
+Need for Strict Monitoring of Modifications of Buildings Recognising Seismic Risk and Vulnerability
+
+- No relaxation in building plans which violate safety parameters in relation to earthquake safety will be permissible under any law, rule or regulation in force.
+- While revising the DCRs and master plans, special attention will be paid to ensure that the seismic risk and vulnerabilities of existing buildings to withstand high-intensity earthquakes before allowing any relaxation relating to approvals for additional floors.
+
+# 5.6.2
+
+Currently, construction in rural areas is not governed by bye-laws such as those developed for the municipal and urban areas. State governments will develop suitable bye-laws for rural areas where most buildings are non-engineered, keeping in mind the local conditions, and extend them to the rural areas, especially on priority in high-risk areas. State governments/SDMAs, in consultation with SEMCs will regulate all future constructions to make them earthquake-resistant.
+
+# Schedule for Regulation and Enforcement
+
+# 5.7.1
+
+The schedule of activities for regulation and enforcement is given in Table 7. All activities will be institutionalised by and continue beyond December 2008.
+
+| Activity                                                                    | Commencement          | 2007      | 2008      |
+| --------------------------------------------------------------------------- | --------------------- | --------- | --------- |
+| 5 A Seismic Design Codes                                                    | With immediate effect | Implement |           |
+| 5 B Municipal Acts, Regulations, & Bye-laws                                 | With immediate effect | Implement |           |
+| 5 C Licensing & Registration of Professionals and Certification of Artisans | With immediate effect | M\*       | Implement |
+| 5 D Scrutiny of Designs and Building Permissions                            | With immediate effect | Implement |           |
+| 5 E Risk Transfer Mechanisms                                                | With immediate effect | M\*       | Implement |
+| 5 F Participation of Financial Institutions                                 | With immediate effect | M\*       | Implement |
+
+*M: Meetings
+
+Index Previous Next
+ 
+
+# 6 Awareness and Preparedness
+
+# Public Awareness
+
+# 6.1.1 Creation of Public Awareness on Seismic Safety and Risk Reduction
+
+- A handbook on earthquake safety will be prepared for the general public highlighting the safety of persons (i.e., indoors, outdoors, and driving), buildings and structures, and non-structural contents of buildings.
+- A homeowners seismic safety manual will be prepared emphasising earthquake-resistant techniques for new buildings and for the seismic strengthening and retrofitting of existing buildings.
+- A manual on structural safety audit of infrastructure and lifeline buildings will be prepared.
+- Translations of the above documents into local and regional languages will be undertaken for easy comprehension.
+- Video films will be prepared for the general public to articulate the earthquake risk, vulnerability and preparedness and mitigation measures.
+
+The EREC (IMD) and other knowledge institutions such as the IITs and National Institutes of Technology (NITs) will play a major role in producing these materials.
+
+# Awareness Drives for Specific Target Groups
+
+# 6.2.1
+
+State governments and knowledge institutions will, in collaboration with professional bodies of engineers, architects and urban planners, initiate programmes to sensitise their members on the importance of undertaking earthquake-resistant design and construction practices. The contents and structure of training programmes will be
+
+29
+
+Index Previous Next
+
+
+ 
+NATIONAL DISASTER MANAGEMENT GUIDELINES: MANAGEMENT OF EARTHQUAKES
+
+# 6.2.2
+
+State governments/SDMAs will, in collaboration with their SEMCs, HSCs and Non-Governmental Organisations (NGOs), organise awareness programmes for specific target groups of stakeholders on various aspects of earthquake management. These stakeholders will include elected representatives and civil servants, members of local administration authorities and others like school administrators, members of management boards of educational institutions and hospitals, school children, representatives of the corporate sector, media, etc.
+
+# Medical Preparedness
+
+# 6.4.1
+
+The DM plans prepared at the state and district levels will have a single ‘all hazards’ medical management plan to improve emergency medical preparedness and emergency medical response. Medical preparedness will focus on likely injuries, outbreak of diseases and other post-earthquake public health problems including psycho-social trauma. It will address the need for surveillance and for planning and rehearsing earthquake preparedness through mock exercises.
+
+# Earthquake Preparedness
+
+# 6.3.1
+
+DM plans will be systematically developed to prepare stakeholders to address earthquake risk. These plans will consider the risk profile and the special characteristics of a particular geographic area and will be region specific. Preparedness will include the formulation of family and community contingency plans. Mock drills will be conducted for industrial units, offices, schools and hospitals, as well as for specific urban and rural areas to create greater public awareness.
+
+# 6.3.2
+
+In metropolitan cities, the managements of cinema theatres, malls, auditoria, community facilities, etc., will develop plans for ensuring public safety in the event of an earthquake. Emergency managers will be designated, trained and given charge of implementing emergency response activities. Mock drills will be conducted, to test the earthquake response capacity, in these buildings periodically, and at least once in six months.
+
+# 6.4.2
+
+The Medical Management Plan will address the need to create greater awareness in all medical teams and the medical community at large, to the most frequent type of injuries, illness and other health problems caused by earthquakes. Trained Medical First Responders (MFRs) for administering first aid and resuscitation measures, at the incident site and during transportation of casualties, will be identified. In addition to MFRs of the National Disaster Response Force (NDRF), DM plans at all levels will identify medical and paramedical staff to supplement manpower resources at district and state levels. All members of the medical and paramedical teams will carry out regular exercises based on the Standard Operating Procedures (SOPs) laid down by the respective DMAs as part of their DM plan.
+
+# 6.4.3
+
+A uniform casualty profile of earthquake injuries will be created and a system of triage to classify casualties will be institutionalised so that the treatment can effectively be facilitated by the.
+
+30 Index Previous Next
+ 
+AWARENESS AND PREPAREDNESS
+
+medical authorities concerned. This plan will include a list of hospitals and their telephone numbers; the availability of ambulances, doctors, anaesthetists, specialists, paramedical staff; sources of public and private sector medical resources; and commonly needed medical supplies and medical stores, blood banks, heli-ambulances and floating hospitals, etc., for easy accessibility. SOPs for medical evacuation, transport of victims and treatment of the injured will also be included.
+
+# 6.5.1
+
+It is reiterated here that comprehensive DM plans will be prepared at the national, state and district levels. At the national level, the DM plan will focus, inter alia, on various aspects of earthquake management, including preparedness, mitigation and response. These plans will clearly identify the roles of key stakeholders for each level of disaster and also include assessments of their own response capacity.
+
+# 6.4.4
+
+All public health facilities will develop their own DM plans, with the scope for enhancing their surge capacity in the event of disaster. Training exercises and mock drills will be carried out regularly by doctors as well as paramedical staff. The medical preparedness plans will also include identification of trained trauma and psycho-social care teams, with nursing and paramedical staff. In high-risk earthquake-prone areas, mobile hospitals and Quick Reaction Medical Teams (QRMTs) will be developed as a part of the health-care delivery system of the states, to manage patients with minor injuries at the incident site. The Accident Relief Medical Vans (ARMVs) of the Railways will also be deployed to provide immediate emergency medical services in the event of a major earthquake.
+
+# Schedule for Awareness and Preparedness Activities
+
+# 6.6.1
+
+While the activities associated with creating greater public awareness can be undertaken immediately, the preparedness activities will be planned according to the schedule given in Table 8 overleaf.
+
+31 Index Previous Next
+ 
+NATIONAL DISASTER MANAGEMENT GUIDELINES: MANAGEMENT OF EARTHQUAKES
+
+# Table 8: Schedule of Awareness and Preparedness Activities
+
+| Activity                                                    | Commencement          | 2007      |     |   | 2008      |           |   |   |
+| ----------------------------------------------------------- | --------------------- | --------- | --- | - | --------- | --------- | - | - |
+| 6 A Sensitisation of Different Stakeholders                 | With immediate effect | M\*       | M\* |   | Implement |           |   |   |
+| 6 B Emergency Plans and Mock Drills                         | With immediate effect | M\*       |     |   | Implement |           |   |   |
+| 6 C EOCs                                                    | With immediate effect | Implement |     |   | Implement |           |   |   |
+| 6 D Streamlining of NGOs and Volunteer Groups               | With immediate effect | M\*       | M\* |   | Implement |           |   |   |
+| 6 E National and State Earthquake Disaster Management Plans | With immediate effect | M\*       | M\* |   | Implement |           |   |   |
+| 6 F District to Community level Preparedness Plans          | With immediate effect | M\*       | M\* |   |           | Implement |   |   |
+| 6 G Vulnerability Mapping of the Land Areas                 | With immediate effect | M\*       | M\* |   | Implement |           |   |   |
+
+*M: Meetings
+
+32 Index Previous Next
+ 
+
+# 7 Capacity Development
+
+# (Including Education, Training, R&#x26;D and Documentation)
+
+# Earthquake Education
+
+# 7.1.1
+
+State governments must endeavour to strengthen earthquake education by incorporating the best available technical and non-technical inputs on seismic safety in educational curricula. Earthquake education will address the multifaceted aspects of earthquake management, especially preparedness, mitigation and response efforts. In this regard, case histories of actual earthquakes will be used as valuable inputs for earthquake education. Management in development planning will be supplemented with the development of the requisite infrastructure in technical and professional institutions, improved laboratories and libraries in knowledge institutions and R&#x26;D institutions. These measures will enable them to undertake research, execute pilot projects, and develop resource materials and technical documents for education, sensitisation and training programmes. The DM plans prepared by central ministries and departments and state governments will address these requirements in detail.
+
+# 7.1.2
+
+The development of high-quality education materials, textbooks, field training and the improvement of the quality of teaching at all levels will be given due emphasis. Education and training programmes will be designed, with greater attention on developing the capacity and skills of trainers and trained teachers. Appropriately designed science and technology courses will be introduced to orient all target groups including school teachers and health professionals in the subject. The central and state governments will encourage knowledge institutions to undertake research, teaching and training, which will further contribute to improving earthquake education in India.
+
+# 7.1.3
+
+All architecture and engineering graduates will be equipped with the requisite knowledge of earthquake-resistant design and construction techniques. The focus will be on improving the knowledge and skill set of human resources; reviewing and revising the curricula; strengthening the facilities; and institutionalising appropriate capacity building mechanisms to ensure seismic safety. The mainstreaming of earthquake.
+
+# Capacity Development
+
+# 7.2.1
+
+The target groups for capacity development will include elected representatives and government officials, professionals in visual and print media, urban planners, infrastructure development experts, engineers, architects and builders, NGOs, Community Based Organisations (CBOs), social activists, social scientists, schoolteachers, and schoolchildren. Specially designed public awareness programmes will be developed for addressing the needs of physically handicapped and mentally challenged people, women and the elderly.
+
+# 7.2.2
+
+Disaster related curricula have already been introduced in Class VIII, IX and X levels in the Central Board of Secondary Education (CBSE) schools. Other school boards will develop similar content in their curriculum. State governments/SDMAs will, in collaboration with their boards of intermediate education, ensure that the subject of disaster safety and disaster preparedness is introduced at the.
+
+
+ 
+NATIONAL DISASTER MANAGEMENT GUIDELINES: MANAGEMENT OF EARTHQUAKES
+
+# 7.2 Education and Training
+
+# 7.2.3 Industrial Training Institutes (ITIs)
+
+Polytechnics and universities in the states will develop adequate technical expertise on the various subjects related to DM. State governments will introduce a five year quality improvement programme for teachers and professionals engaged in teaching the subjects related to earthquakes (namely earth science, architecture and earthquake engineering). The ongoing technical education programmes for college teachers, viz., the Quality Improvement Programme (QIP); the National Programme for Earthquake Engineering Education (NPEEE) supported by the Ministry of Human Resource Development (MHRD), GoI; the National Programme for Capacity Building of Architects in Earthquake Risk Management (NPCBAERM); and the National Programme for Capacity Building of Engineers in Earthquake Risk Management (NPCBEERM) supported by the MHA, GoI, will be further strengthened and expanded to address the gap between the requirement and availability of quality teachers conversant with earthquake-resistant design and construction. All such training programmes will incorporate testing and certification of trainees.
+
+# 7.2.4 Disaster Medicine
+
+The subject of disaster medicine covers aspects like trauma care, epidemic control, emergency medical care by paramedics and emergency medical technicians, and telemedicine. DM related aspects of medical education will receive detailed treatment at the undergraduate level, so that graduating doctors are able to handle emergencies with a better understanding of the issues involved. The MoES will, in consultation with the Medical Council of India (MCI), University Grants Commission (UGC), and other related agencies, facilitate the introduction of subjects related to DM, in the undergraduate medical curriculum.
+
+# 7.2.5 Capacity Building of Teachers
+
+The MHRD, GoI, through the NPEEE, has already initiated a number of short and medium-term activities related to capacity building of teachers of architecture and engineering and conducted a number of short-term training programmes for teachers. These teachers will be sent for advanced training and masters and doctoral degree programmes at premier national institutes. Such trained personnel will be used as trainers for training the other professionals.
+
+# 7.2.6 Curriculum Modification
+
+The curricula of IITs, NITs, engineering and architecture colleges, ITIs, polytechnics and universities will be suitably modified to incorporate earthquake-resistant design and construction techniques. The MoES will facilitate this process in collaboration with the MHRD, GoI; the All India Council for Technical Education (AICTE); the Council of Architecture (COA); and the IE(I), to incorporate earthquake education within their curriculum.
+
+# Training
+
+# 7.3.1 Dedicated Faculty Positions
+
+In order to increase the thrust towards earthquake education in India, the MoES will identify a number of leading institutes and universities and encourage the creation of dedicated chaired positions for faculty members working in the area of earthquake related education and research. Such institutions will also offer the services of such experienced faculty members to participate in the activities specified in the Guidelines.
+
+# 7.3.2 Training of Administrative Personnel
+
+The National Institute of Disaster Management (NIDM) at the national level and the Administrative Training Institutes (ATIs) at the state level have been tasked to train administrative personnel from all central ministries and departments and state governments in DM. In accordance with these Guidelines, the NIDM will evolve an action plan, in collaboration with the ATIs.
+
+34 Index Previous Next
+ 
+
+# 7. Capacity Development (Including Education, Training, R&#x26;D and Documentation)
+
+and other technical institutions, to offer a comprehensive curriculum related to earthquake management, in the form of training modules for the various target groups and initiate the design, development and delivery of the same by June 2007. programmes will be pilot tested, critically evaluated, upgraded, documented, and peer reviewed. Training modules will be developed and continuously upgraded based on the evaluation and feedback from participants.
+
+# 7.3.3 Training artisans in specialised skills is a critical step in ensuring proper quality control in earthquake-resistant construction of all structures.
+
+Both in class training and on field training will be undertaken for the artisans involved in different trades including masons, bar benders, welders, carpenters, plumbers and electricians. Such training programmes will be offered to large number of diploma holders who are involved at the civil engineering project sites. The state governments will also evolve a formal framework for the certification of artisans and adopt a two-year certification cycle.
+
+A timetable will be drawn up for these training programmes to give architects and engineers the opportunity to upgrade their skills.
+
+# 7.3.4 The National Institutes of Technical Teachers’ Training and Research (NITTTR); the state ATIs; the National Institute of Construction Management and Research (NICMAR); the Construction Federation of India (CFI); the Builders Association of India (BAI), and other national bodies will contribute to the national effort to build the requisite number of trained personnel to handle seismic safety in India.
+
+They will undertake a campaign of ‘Training the Trainers’ amongst artisans, teachers and practicing professionals in order to meet the gaps in human resource requirement.
+
+# R&#x26;D
+
+# 7.5.1 State governments will proactively support application oriented research and development activities to address current challenges, offer solutions, and develop new techniques, for instance by undertaking base isolation of new hospital buildings with a view to improving their earthquake-resistance.
+
+Education in earthquake engineering will be more meaningful only if the new knowledge is applied to address seismic risk and actual earthquake events are studied to integrate lessons learnt. State governments will depute multi-disciplinary teams for post-earthquake field investigations, document the lessons and disseminate the same to technical and general audiences within the state. The MoES will oversee the conduct of this effort in a systematic manner.
+
+35 Index Previous Next
+
+
+ 
+NATIONAL DISASTER MANAGEMENT GUIDELINES: MANAGEMENT OF EARTHQUAKES
+
+# 7.5.2 Scenario analysis and simulation modelling
+
+are extremely useful for undertaking long-term DM programmes and for strengthening earthquake preparedness, mitigation and response efforts. Risk assessment and scenario projections require data on the existing built environment, infrastructure, and economic activities. The non-availability of such data can otherwise lead to assumption based scenarios. The MoES will, with the support of the EREC, encourage the development of standardised methods for earthquake risk assessment and scenario development, support studies to collect the data and knowledge required, develop state-of-the art reports, and evolve a procedure for undertaking pilot projects in risk assessment and scenario analysis.
+
+# 7.5.3
+
+The quantification of earthquake risk for a specified area requires detailed information on a number of factors, including seismo-tectonics, geology and topography of the area, characteristics of surface deposits and site effects and typology of the construction. Seismic micro-zonation provides such information at a local level for determining the seismic safety of buildings and structures, analysing the existing land use plans, and revealing the seismic threat to the stakeholders. Micro-zonation studies will be carried out to guide the development of appropriate land use zoning regulations, especially in all important urban areas and in areas with critical structures and vital installations. Seismic micro-zonation studies will follow a multi-disciplinary approach, with the requirements of the end-users (e.g., urban planners, design engineers, and emergency managers), and peer reviewed before publication. A status paper will be developed by the EREC at the national level, based on a consensus among the professionals on the methodologies for map preparation and micro-zonation studies.
+
+# 7.5.4
+
+Even though these Guidelines recommend seismic retrofitting to be undertaken only for a select number of fragile lifeline structures, there are a large number of structures in the country that need to be retrofitted. Detailed and precise assessment of seismic hazard to the structure, foundation and soil system, and the benefits of retrofitting will be carried out before deciding on retrofitting these structures.
+
+# 7.5.5
+
+All currently available landslide hazard maps including those in the landslide atlas of India are small-scale maps unsuitable for hazard and risk analyses at district and local levels. The MoES will, in collaboration with nodal scientific agencies and institutions, ensure the preparation of large-scale landslide hazard maps of areas of high vulnerability. The reliability of landslide hazard maps will depend on the accuracy of base maps and the approach followed in their GIS based integration and subsequent validation. Freshly occurring landslides and the reactivation of existing and old landslides on account of earthquakes will be studied. The landslide hazard zonation maps will be prepared based on advanced research studies carried out by knowledge institutions to address the earthquake induced landslides.
+
+# 7.5.6
+
+Studies will be undertaken to evolve a shelf of architectural designs and structural design calculations and drawings of temporary and intermediate shelters that can be constructed in the different geographical regions of the country keeping in mind the weather and the functional needs of the people. This information shelf will be kept in the public domain for the use by all concerned. Appropriate locations will be identified for constructing temporary and intermediate shelters in the event of an earthquake.
+
+# Documentation
+
+7.6.1 The MoES will facilitate the preparation of films, manuals and other documents targeting various stakeholders to inculcate a culture of seismic safety. State governments will make available earthquake safety related materials in multiple formats, so that different groups of stakeholders.
+
+36 Index Previous Next
+ 
+
+CAPACITY DEVELOPMENT (INCLUDING EDUCATION, TRAINING, R&#x26;D AND DOCUMENTATION)
+
+can gather the information relevant to them. State professionals. The NIDM and knowledge institutions like the IITs, NITs and other professional bodies will create and maintain a directory of earthquake management professionals in India, with their brief bio-data and make these available to the SDMAs and ATIs. This information will include specific details on the earthquake risk and vulnerability of the states, earthquake management basics and earthquake risk mitigation for the safety of the built environment.
+
+# 7.6.4
+
+The MoES will undertake documentation of the history of formal earthquake engineering and seismology related activities in India. A number of documents on seismic risk that have been authored in the past have now become difficult to access or are out of print. The MoES will launch a special initiative to digitise these documents from various sources and save the archives on electronic formats. National and regional libraries and information centres will be encouraged to build repositories of technical resources (books, reports, journals, electronic documents, and others) related to earthquake engineering.
+
+# 7.7.1
+
+The schedule given in Table 9 is considered reasonable at this juncture; all activities will be institutionalised by and continue beyond December 2008.
+
+| Activity                                | Commencement          | 2007 | 2008      |
+| --------------------------------------- | --------------------- | ---- | --------- |
+| 7 A Education in Schools and Colleges   | With immediate effect |      | Implement |
+| 7 B Technical Education                 | With immediate effect |      | Implement |
+| 7 C Training of Artisans                | With immediate effect |      | Implement |
+| 7 D Capacity Building of Professionals  | With immediate effect |      | Implement |
+| 7 E Earthquake Research and Development | With immediate effect |      | Implement |
+| 7 F Documentation and Dissemination     | With immediate effect | M\*  | Implement |
+
+*M: Meetings
+
+37
+Index Previous Next
+
+ 
+NATIONAL DISASTER MANAGEMENT GUIDELINES: MANAGEMENT OF EARTHQUAKES
+
+# 8 Response
+
+# Earthquake Response
+
+8.1.1 The management and control of the adverse consequences of future earthquakes will require coordinated, prompt and effective response systems at the central and state government levels, especially at the district and the community levels. Many of the components of response initiatives are the same for different types of disasters and systems need to be developed considering the multi-hazard scenario of various regions in order to optimally utilise available resources.
+
+8.1.2 For earthquakes, depending on their magnitude, the scale of response and the corresponding role players will be identified and mobilised at the district, state or national levels. Systems will be institutionalised by the DMAs, at various levels, for coordination between the various agencies like central government ministries and departments, state governments, district administration, ULBs, PRIs and other stakeholders for effective post-earthquake response.
+
+8.1.3 The severity of an earthquake is often underestimated, immediately after its occurrence. The preliminary assessment of severity of the earthquake is based on its magnitude and depth collected from online seismological instruments. Field observation data, once available, will be used to make an accurate assessment. Immediately following the occurrence of an earthquake, the IMD will disseminate the details of its magnitude and epicentre to all agencies concerned. This will help the state governments to undertake their response appropriately.
+
+8.1.4 DM plans, prepared by all agencies concerned, will incorporate detailed guidelines for their activities related to the impact of an earthquake. The response component of DM plans will consider the rapid deployment of people, supplies and logistics, along with the duration of their deployment. These plans will prescribe appropriate coordination mechanisms with other agencies working in the affected areas.
+
+# Emergency Search and Rescue
+
+8.2.1 The community in the affected neighbourhood is always the first responder after any disaster. Experience has shown that over 80 per cent of search and rescue from collapsed buildings is carried out by the local community before the intervention of the state machinery and specialised search and rescue teams. Thus, trained and equipped teams consisting of local people will be set up in earthquake-prone areas to respond effectively in the event of an earthquake.
+
+8.2.2 Community level teams will be developed in each district with basic training in search and rescue. Training modules will be developed for trainers of community level search and rescue teams by NDRF training institutes. On the ground, the NDRF battalions will assist the state government/district authorities in training communities. They will be further assisted by the Civil Defence, Home Guards, fire services and NGOs. State governments will develop procedures for formally recognising and certifying such trained search and rescue team members; they will also provide suitable indemnity to community level team members for their actions.
+
+38 Index Previous Next
+ 
+
+
+# RESPONSE
+
+in the course of emergency response following an earthquake. Youth organisations such as the National Cadet Corps (NCC) and National Service Scheme (NSS) and Nehru Yuva Kendra Sangathan (NYKS) will provide support services to the response teams at the local level under the overall guidance and supervision of the local administration.
+
+# Emergency Relief
+
+8.3.1 Trained community level teams will assist in planning and setting up emergency shelters, distributing relief among the affected people, identifying missing people, and addressing the needs of education, health care, water supply and sanitation, food etc., of the affected community. Members of these teams will be made aware of the specific requirements of the disaster affected communities. These teams will also assist the government in identifying the most vulnerable people who may need special assistance following an earthquake.
+
+# Incident Command System (ICS)
+
+8.4.1 All response activities will be undertaken at the local level through a suitably devised ICS coordinated by the local administration through the EOC. State governments will commission and maintain EOCs at appropriate levels for the coordination of human resources, relief supplies and equipment. SOPs for the EOCs will be developed by state governments and integrated within the framework of the ICS, which will take advantage of modern technologies and tools, such as GIS maps, scenarios and simulation models for effectively responding to disasters. GIS maps available from other sources, such as the city planning departments will be compiled considering their potential application after a disaster. The state governments/SDMAs will undertake the training of personnel involved in the ICS.
+
+# Involvement of the Corporate Sector
+
+8.6.1 State governments will facilitate the involvement of the corporate sector in making available their services and resources to the government during the immediate aftermath of an earthquake. The corporate sector, as a part of the CSR effort, can provide, inter alia, the services of hospitals, power and telecommunication, relief supplies, search and rescue equipment, earthmoving equipment, and transport and logistics of movement of relief supplies to the extent possible. For instance, the CFI has set up the India Disaster Response Network (IDRN) which can also be associated with the task of emergency response.
+
+
+ 
+NATIONAL DISASTER MANAGEMENT GUIDELINES: MANAGEMENT OF EARTHQUAKES
+
+State governments and district authorities will develop appropriate mechanisms to receive and optimally utilise all such assistance.
+
+# Specialised Teams for Response
+
+strengthened and upgraded to have adequate capacity to respond effectively to disasters. Deployment of the Indian Armed Forces for post-earthquake response work will be resorted to only as the last option.
+
+# 8.7.1
+
+The Central government has set up eight NDRF battalions for providing rapid response to disasters. All 144 teams of the NDRF will be especially equipped and trained in collapsed structure search and rescue operations. The NDRF battalions will also be provided with communication equipment for establishing last mile connectivity.
+
+# 8.7.2
+
+The fire services in the ULBs of various states are being used as an emergency-cum-fire services force. The fire services will develop adequate capacity to respond to various disasters, in addition to managing fires.
+
+# 8.7.3
+
+The police play a very important role after an earthquake in maintaining law and order, assisting in search and rescue, and in the transportation and certification of casualties. State governments will compile a list of such equipment and identify suppliers of such specialised equipment and enter into long-term agreements for their mobilisation and deployment in the event of an earthquake.
+
+# 8.7.4
+
+The Home Guards serve as an auxiliary arm of the police force and support the district administration in various tasks. The Civil Defence is being reoriented to assist in handling DM. Members of these organisations will be trained in tasks like search and rescue and evacuation, protection of assets in evacuated areas, and management of relief camps and aid distribution centres.
+
+# Improving Earthquake Response
+
+# 8.8.1
+
+To augment the capacities of the states, all state governments will raise, from within their armed police force, adequate strength of personnel for the SDRF with appropriate disaster response capabilities. In addition, the police, fire services, Home Guards and Civil Defence are being.
+
+# 8.9.1
+
+Specialised heavy earthmoving equipment and search and rescue equipment are required immediately following an earthquake to clear debris and to carry out search and rescue of trapped people from collapsed structures. State governments will compile a list of such equipment and identify suppliers of such specialised equipment and enter into long-term agreements for their mobilisation and deployment in the event of an earthquake.
+
+# 8.9.2
+
+The setting up of relief camps for the people whose houses have been damaged by an earthquake and the provision of basic amenities in such camps involve complex logistics of mobilising relief supplies, tents, water supply and sanitation systems, transport and communication systems, and medical supplies. The DM plans at the state and district levels will address this issue in detail.
+
+# 8.9.3
+
+In the event of mass casualties, states will develop systems for proper identification of the deceased, recording the details of victims, and their DNA fingerprinting.
+
+40
+
+Index Previous Next
+ 
+
+# Emergency Medical Response
+
+# 8.10.1
+
+Prompt and efficient emergency medical response will be provided by QRMTs, mobile field hospitals, ARMVs and heli-ambulances. They will be activated to reach the earthquake affected areas immediately, along with dressing material, splints, portable X-ray machines, mobile operation theatres, resuscitation equipment and life-saving drugs, etc. Resuscitation, triage and medical evacuation of victims who require hospitalisation will be done in accordance with SOPs. A large number of victims may suffer from psycho-social trauma, for which appropriate counselling will be provided.
+
+# 8.10.2
+
+The emergency medical plan will be operationalised immediately on receiving information from the earthquake affected areas. Hospitals in the affected areas will create a surge capacity for the required number of beds by discharging non-critical patients and mobilise doctors and support staff, additional orthopaedic equipment and supplies at short notice. The emergency medical plan will identify the requirement of enhanced manpower, medical stores and the requirement of blood and its components for various levels of earthquakes. After an earthquake, information centres will be set up to provide medical response information to the public, relatives of victims and media. The designated hospitals will also identify the surgical teams that can be deployed in the field at short notice and arrange for their transport, medical equipment and supplies. State governments will coordinate with the hospitals, both government and private, in order to facilitate effective and adequate hospital response after earthquakes.
+
+# 8.10.3
+
+Documentation of medical response provided after an earthquake will be done by a medical administrator. This documentation will be used as feedback for future improvement of the response strategies.
+
+# Schedule for Response Activities
+
+# 8.11.1
+
+All the response activities outlined above require detailed planning and comprehensive mobilisation of manpower. The schedule given in Table 10 (Pg 42) is considered reasonable at this juncture; all activities will be institutionalised by and continued beyond December 2008.
+
+41 Index Previous Next
+
+
+ 
+NATIONAL DISASTER MANAGEMENT GUIDELINES: MANAGEMENT OF EARTHQUAKES
+
+# Table 10: Schedule of Activities for Strengthening Earthquake Response
+
+| Activity                                        | Commencement          | 2007 | 2008      |
+| ----------------------------------------------- | --------------------- | ---- | --------- |
+| 8 A Trigger-based Categorisation                | With immediate effect | M\*  | Implement |
+| 8 B Response Plans for Different Trigger Levels | With immediate effect | M\*  | Implement |
+| 8 C ICS                                         | With immediate effect | M\*  | Implement |
+| 8 D Support Function and Partnerships           | With immediate effect |      | Implement |
+| 8 E NDRF                                        | With immediate effect |      | Implement |
+| 8 F Other Emergency Response Teams              | With immediate effect | M\*  | Implement |
+| 8 G Emergency Equipment and Logistics           | With immediate effect |      | Implement |
+| 8 H Emergency Medical Response Capability       | With immediate effect |      | Implement |
+
+*M: Meetings
+
+42 Index Previous Next
+ 
+# 9  Disaster Management Plans
+
+# DM Plans
+
+In accordance with the various disaster specific Guidelines laid down by the NDMA, the NEC will prepare the National Disaster Management Plan, incorporating the DM plans prepared by the central ministries/departments and state governments. This Plan, inter alia, will include various aspects of earthquake management and be approved by the NDMA. The salient activities covered by this Plan will include:
+
+- Preparation of state and district DM plans, with specific reference to the management of earthquakes.
+- Revision of town planning bye-laws and adoption of model bye-laws.
+- Wide dissemination of earthquake-resistant building codes, the National Building Code 2005, and other safety codes.
+- Training of trainers in professional and technical institutions.
+- Training professionals like engineers, architects, and masons in earthquake-resistant construction.
+- Launching demonstration projects to disseminate earthquake-resistant techniques.
+- Launching public awareness campaigns on seismic safety and risk reduction and sensitising all stakeholders to earthquake mitigation.
+- Establishing appropriate mechanisms for compliance review of all construction designs submitted to ULBs.
+- Undertaking mandatory technical audits of structural designs of major projects by the respective competent authorities.
+- Developing an inventory of the existing built environment.
+- Assessing the seismic risk and vulnerability of the existing built environment by carrying out structural safety audits of all critical lifeline structures.
+- Developing seismic strengthening and retrofitting standards and guidelines for existing critical lifeline structures.
+- Undertaking seismic strengthening and retrofitting of critical lifeline structures, initially as pilot projects and then extending the exercise to the other structures (as detailed in Chapter 4, para 4.5.1), in a phased manner.
+- Preparation of DM plans by schools, hospitals, super malls, entertainment multiplexes, etc., and carrying out mock drills for enhancing preparedness.
+- Strengthening the EOC network.
+- Streamlining the mobilisation of communities, civil society partners, the corporate sector and other stakeholders.
+- Preparing community and village level DM plans, with specific reference to management of earthquakes.
+- Carrying out the vulnerability assessment of earthquake-prone areas and creating an inventory of resources for effective response.
+
+43
+
+Index Previous Next
+ 
+# NATIONAL DISASTER MANAGEMENT GUIDELINES: MANAGEMENT OF EARTHQUAKES
+
+- Introducing earthquake safety education in schools, colleges and universities and conducting mock drills in these institutions.
+- Strengthening earthquake safety research and development in professional technical institutions.
+- Preparing documentation on lessons from previous earthquakes and their wide dissemination.
+- Developing an appropriate mechanism for licensing and certification of professionals in earthquake-resistant construction techniques by collaborating with professional bodies.
+- Preparing an action plan for the upgradation of the capabilities of the IMD and BIS with clear roadmaps and milestones.
+- Developing appropriate risk transfer instruments by collaborating with insurance companies and financial institutions.
+- Operationalising the NDRF battalions.
+- Operationalising the SDRF battalions in the states.
+- Strengthening the medical preparedness for effective earthquake response, etc.
+- Enforcement and monitoring of compliance of earthquake-resistant building codes, town planning bye-laws and other safety regulations.
+
+# Central Ministry and Department Plans
+
+Implementation of these plans by various agencies falling within the purview of various ministries/departments and other stakeholders at regular intervals.
+
+# 9.2.2
+
+DM plans will necessarily address the worst case scenarios and cover various aspects of management of response, risk, situation, information and communication. Since some disasters may transcend geographic boundaries, these plans will also recognise the importance of effective networking and coordination of different levels of response mechanisms.
+
+# DM Plans of State Governments
+
+# 9.3.1
+
+In addition to preparing their DM plans, state governments will also encourage the preparation of community preparedness plans to address their own special features and outline the linkages of the various state support systems and the jurisdiction of each of these departments. The GoI has initiated the GoI-UNDP Programme on Disaster Risk Management (DRM) to encourage the development of district, block, taluka and village DM plans, which will be further strengthened. The existing plans will be modified, where required, in order to streamline and optimise the response systems. These DM plans will be widely disseminated among various stakeholders for creating greater public awareness. These plans must indicate responsible office for carrying out specific tasks along with time lines for implementation.
+
+# 9.2.1
+
+Each central ministry/department will prepare its DM plan which will cover all aspects of the disaster cycle for every disaster, including earthquakes. These plans will clearly indicate the actions to be taken, the allocation of tasks among the various functionaries, the SOPs to be followed, the methodology for carrying out the tasks specified and the time lines for their execution. Mock drills will be carried out to test the efficacy of the.
+
+# 9.3.2
+
+Authorities in charge of education institutions will prepare earthquake preparedness plans and conduct mock drills. Using school buildings as temporary relief camps during disasters disrupts the education of children for long periods. Alternative arrangements for housing relief camps will be put in place through various mitigation projects to gradually reduce the dependence on the buildings of educational institutions.
+
+44
+
+Index Previous Next
+ 
+DISASTER MANAGEMENT PLANS
+
+# 9.3.3
+
+All hospitals will develop their emergency plans, conduct mock drills and update themselves from time to time with relevant information on DM preparedness. State governments/SDMAs will monitor the preparation and testing of these plans. State governments will ensure that all government offices are able to withstand earthquakes, and are fully prepared with DM plans.
+
+# 9.3.4
+
+The DM plans will incorporate all the features of the EOCs including their establishment and operations.
+
+# Plans of Nodal Agencies
+
+Telemetry system is planned to be established in the North-East for precise monitoring of seismic activity in the region.
+
+# 9.4.1
+
+The IMD is the nodal agency for the monitoring of seismic activity in India through their network of seismic observatories. It will record the occurrence of earthquakes anywhere in the country and report the same to various designated functionaries in the GoI and the state governments.
+
+# 9.4.2
+
+The IMD maintains a countrywide network of 51 seismological observatories for regional seismic monitoring in India. It also operates a 16-station V-SAT based digital seismic telemetry system around the National Capital Territory (NCT) of Delhi for close monitoring of seismic activity in the region. The IMD is presently in the process of upgrading its network of observatories by adding 20 new stations and upgrading 20 existing stations with state-of-the-art systems. Also, a 20-station IMD with clear roadmap and milestones.
+
+# 9.4.3
+
+The BIS is the nodal agency for preparing earthquake-resistant building codes and other safety related codes. For structures like dams, the responsibility lies with the Central Water Commission (CWC), while for the bridges, it lies with the Indian Roads Congress (IRC). The Indian Standards Committees set up by the BIS have been working on the revision and finalisation of earthquake resistant codes. The BIS will ensure finalisation of all pending revisions within the next two years.
+
+# 9.4.4
+
+The MoES has been set up by the GoI to bring together the Earth Commission, the IMD, the EREC, and other key institutions to facilitate effective coordination of the various aspects related to the ocean, meteorology, seismology, marine environment, atmosphere and earth sciences, not specifically allotted to any other department or ministry. As the nodal agency for earthquake management, the MoES will prepare their DM plan based on the Guidelines laid down by the NDMA. The various aspects of the DM plans prepared by the other central ministries/departments and state governments and other stakeholder groups will be included in the DM plan prepared by the MoES, GoI. The MoES will also prepare a comprehensive plan for the upgradation of the capabilities of the IMD.
+
+45 Index Previous Next
+ 
+
+# NATIONAL DISASTER MANAGEMENT GUIDELINES: MANAGEMENT OF EARTHQUAKES
+
+# Contributions
+
+# Core Group Members
+
+- Prof. N. Vinod Chandra Menon, Member, NDMA: Chairman
+- Anand S. Arya, National Seismic Advisor, GoI
+- Rajendra K. Bhandari, Chairman, Centre for Disaster Mitigation and Management, Vellore Institute of Technology
+- C. V. R. Murty, Professor, Department of Civil Engineering, IIT Kanpur
+- Ravi Sinha, Professor, Department of Civil Engineering, IIT Bombay
+
+# Experts who provided Valuable Feedback
+
+Many experts provided critical comments on the earlier versions of the Guidelines, including:
+
+- Brigadier R. S. Ahluwalia, Deputy Assistant Chief, Integrated Defence Staff, New Delhi
+- R. K. Amrohi, SMO, Indo-Tibet Border Police, Haryana
+- J. C. Arora, Head (Standardisation), Civil Engineering Division, BIS, New Delhi
+- S. Arunachalam, Deputy Director, Structural Engineering Research Centre, Chennai
+- B. K. Bansal, Scientist F, DST, New Delhi
+- P. V. Belgaumkar, Deputy Inspector General (Op), Central Reserve Police Force, New Delhi
+- A. K. Bhatnagar, ADG, IMD, New Delhi
+- A. K. Bose, Director, Designers &#x26; Planners Combine, New Delhi
+- S. Chaturvedi, Director (Civil), BIS, New Delhi
+- S. Dasgupta, Director, GSI, Kolkata
+- S. K. Deb, Professor, Department of Civil Engineering, IIT Guwahati
+- T. K. Datta, Professor, Department of Civil Engineering, IIT Delhi
+- A. Goyal, Professor, Department of Civil Engineering, IIT Bombay
+- N. Lakshmanan, Director, Structural Engineering Research Centre, Chennai
+- B. Lal, Acting Director General, IMD, New Delhi
+- P. R. Mehta, Past Chairman, CoA, New Delhi
+
+46 Index Previous Next
+
+
+ 
+
+# CONTRIBUTIONS
+
+- M. Mohanty, Scientist, DST, New Delhi
+- D. K. Paul, Professor, Department of Civil Engineering, IIT Roorkee
+- H. Kumar, Delhi Representative, Geo Hazards International, New Delhi
+- R. P. Kumar, Assistant Professor, IIIT, Hyderabad
+- S. Kumar, Professor, NIDM, New Delhi
+- Brigadier R. S. Kumar, Director, National Spatial Data Infrastructure, New Delhi
+- Colonel B. B. Pande, Additional Director General (HG), Civil Defence, New Delhi
+- J. K. Prasad, Chief (Building Materials), BMTPC, New Delhi
+- S. R. Ramasamy, AIG (Fire), Central Industrial Security Force, New Delhi
+- Major General M. G. Rao, Surveyor General of India, SoI, New Delhi
+- Y. P. Sharda, GSI, New Delhi
+- A. K. Shukla, Director, EREC, IMD, New Delhi
+- Lt. Colonel S. N. Singh, GSO1PP (TAS&#x26;O), Indian Army, New Delhi
+- Brigadier V. S. Sukhdial, Deputy Director General, Civil Defence, New Delhi
+- C. V. Vaidyanathan, Scientist &#x26; Advisor, SERC, Chennai
+- B. Verma, Past President, Indian Institute of Architects, New Delhi
+
+# Participants at the Regional Consultation of Northern and Eastern States at IIT, Kanpur on 17 July 2006
+
+- Veena Kumari, Under-Secretary (Revenue), Government of Punjab, Chandigarh, Punjab
+- Mahavir Singh, Divisional Commissioner, Government of Punjab, Ambala, Punjab
+- S. C. Sharma, Superintending Engineer, Rajasthan PWD, Jaipur, Rajasthan
+- B. P. Suneja, Lecturer, Engineering College, Kota, Rajasthan
+- A. K. Dwivedi, Lecturer, Engineering College, Kota, Rajasthan
+- Sanjay Bhatia, State Project Officer, UNDP, Government of Uttar Pradesh, Lucknow, Uttar Pradesh
+- M. P. Srivastava, Superintending Engineer, Awas Vikas Parishad, Government of Uttar Pradesh, Lucknow, Uttar Pradesh
+- D. S. Sarawat, General Manager (Technical), UP Rajkiya Nirman Nigam, Government of Uttar Pradesh, Lucknow, Uttar Pradesh
+- K. K. Asthana, Chief Architect, UP Rajkiya Nirman Nigam, Government of Uttar Pradesh, Lucknow, Uttar Pradesh
+- Jeevan Pandit, UN Volunteer, UNDP, Government of Uttar Pradesh, Lucknow, Uttar Pradesh
+- Girish Chand Joshi, Senior Executive (Earthquake Engineering &#x26; Town Planning), Government of Uttarakhand, Dehra Dun, Uttarakhand
+- G. S. Goel, Chief Town Planner, Kanpur Development Authority, Kanpur, Uttar Pradesh
+
+
+ 
+# NATIONAL DISASTER MANAGEMENT GUIDELINES: MANAGEMENT OF EARTHQUAKES
+
+Chakresh Jain, Assistant Engineer, Kanpur Development Authority, Kanpur, Uttar Pradesh
+
+Samir Chakravorty, Consulting Architect, Kanpur, Uttar Pradesh
+
+Arif Mohammed, Professor, Department of Civil Engineering, Aligarh Muslim University, Aligarh, Uttar Pradesh
+
+Masroor Alam, Professor, Department of Geology, Aligarh Muslim University, Aligarh, Uttar Pradesh
+
+Sunil Kumar Jajon, Assistant Professor, Department of Civil Engineering, Harcourt Butler Technological Institute, Kanpur, Uttar Pradesh
+
+Pradeep Kumar, Senior Lecturer, Department of Civil Engineering, Harcourt Butler Technological Institute, Kanpur, Uttar Pradesh
+
+Sudhir K. Jain, Professor, Department of Civil Engineering, IIT Kanpur
+
+Durgesh C. Rai, Associate Professor, Department of Civil Engineering, IIT Kanpur
+
+Javed N. Malik, Assistant Professor, Department of Civil Engineering, IIT Kanpur
+
+Tribhuwan Ram, Engineer-in-Chief, UP Public Works Department, Lucknow, Uttar Pradesh
+
+G. P. S. Chauhan, Director, UP PWD Research Institute, Lucknow, Uttar Pradesh
+
+Umesh Chandra Kabdwal, Secretary, Mussoorie-Dehradun Development Authority, Dehra Dun, Uttarakhand
+
+Abinash Kumar, Nodal Officer, Patna Regional Development Authority, Patna, Bihar
+
+Mahesh Chandra, Assistant Engineer, Kanpur Development Authority, Kanpur, Uttar Pradesh
+
+P. K. Nautiyal, Additional Director, Medical &#x26; Health Services, Government of Uttaranchal, Dehra Dun, Uttarakhand
+
+O. P. Mishra, Executive Engineer, Kanpur Development Authority, Kanpur, Uttar Pradesh
+
+Arvind K. Garg, Managing Director, Techpro Engineers Private Limited, Kanpur, Uttar Pradesh
+
+Bhanu, Secretary, Poorvanchal Gramin Vikas Sansthan, Gorakhpur, Uttar Pradesh
+
+Smriti Shukla, Project Officer, UNDP, Kanpur, Uttar Pradesh
+
+Amit Prashant, Assistant Professor, Department of Civil Engineering, IIT Kanpur
+
+Ajanta Sachan, Research Fellow, Department of Civil Engineering, IIT Kanpur
+
+# Participants at the Regional Consultation for Southern and Western States at IIT, Bombay on 28 and 29 July 2006
+
+A. Mehta Chakor, Lecturer, Rizvi College of Architecture, Mumbai, Maharashtra
+
+Birju Patel, Senior Executive, GSDMA, Gandhinagar, Gujarat
+
+Rajesh Kishore, CEO, GSDMA, Gandhinagar, Gujarat
+
+S. C. Mohanty, OSD, Department of R&#x26;R, Government of Maharashtra, Mumbai, Maharashtra
+
+J. B. Singh, Collector, Government of Goa, South Goa, Goa
+
+Sudhir Kumar, Programme Associate, UNDP, Government of Maharashtra, Mumbai, Maharashtra
+
+Mohan M. Murudi, Professor, SPCE, Mumbai, Maharashtra
+
+48 Index Previous Next
+ 
+
+# CONTRIBUTIONS
+
+- Pranesh Murnal, Professor, Government College of Engineering, Karad, Maharashtra
+- Tripti Chakravorty, Programme Coordinator, Global Forum for Disaster Reduction, Mumbai, Maharashtra
+- Amit Verma, Co-Founder, Global Forum for Disaster Reduction, Mumbai, Maharashtra
+- S. K. Patel, Executive Engineer, Department of Roads &#x26; Buildings, Government of Gujarat, Gandhinagar, Gujarat
+- K. G. Gupta, Professor, Department of Civil Engineering, Goa Engineering College, Ponda, Goa
+- G. Venkatram Reddy, Vice-Chairman, Visakhapatnam Urban Development Authority, Visakhapatnam, Andhra Pradesh
+- S. Balakrishna, Joint Director, Department of Municipal Administration &#x26; Urban Development, Government of Andhra Pradesh, Hyderabad, Andhra Pradesh
+- V. Narendar Rao, Additional Chief City Planner, Municipal Corporation of Hyderabad, Secunderabad, Andhra Pradesh
+- Amisha Ambani, Architect, Kamala Raheja Vidyanidhi, Mumbai, Maharashtra
+- Agrawal Ritesh, Architect, LB Hiray College of Architecture, Mumbai, Maharashtra
+- Chahel Sartaj Singh, Deputy Engineer, Bhiwandi-Nizampur City Municipal Corporation, Bhiwandi, Maharashtra
+- R. Santhanam, Special Commissioner &#x26; Commissioner of Revenue Administration, Government of Tamil Nadu, Chennai, Tamil Nadu
+- R. Ramaraju, Chairman, The Indian Institute of Architects, Chennai, Tamil Nadu
+- T. Senthilnayagam, Chairman, Institution of Engineers, Chennai, Tamil Nadu
+- Sudesh Punyarthi, System Manager, Bhiwandi Corporation, Bhiwandi, Maharashtra
+- Alpana Khandare, Project Officer (UEVRP), Government of Maharashtra, Mumbai, Maharashtra
+- Amit Kumar, Professor, Centre for Disaster Management, YASHADA, Pune, Maharashtra
+- V. Kumar, Lecturer, Government College of Engineering, Salem, Tamil Nadu
+- M. Sekar, Chairman, Faculty of Civil Engineering, Anna University, Chennai, Tamil Nadu
+- V. V. Vaidya, Chief Officer (DMP), Bombay Municipal Corporation, Mumbai, Maharashtra
+- A. J. Dave, Assistant Engineer, Bombay Municipal Corporation, Mumbai, Maharashtra
+- N. G. Dubhashi, Professor, Goa Medical College, Bambolim, Goa
+- Chandan Ghosh, Professor, National Institute of Disaster Management, New Delhi
+- R.M. Damgir, Lecturer, Government College of Engineering, Aurangabad, Maharashtra
+- Ashok Kumar Gupta, Deputy Commissioner, Government of Madhya Pradesh, Bhopal, Madhya Pradesh
+- K. Udaya, Chief Architect, Government of Karnataka, PWD, Bangalore, Karnataka
+- B. P. Kaniram, Director, Government of Karnataka, Bangalore, Karnataka
+- Nivedita P. Haran, Commissioner (Land Revenue), Government of Kerala, Thiruvananthapuram, Kerala
+- Kumthekar Madhav Balchandra, Professor, Department of Civil Engineering, Government College of Engineering, Karad, Maharashtra
+
+
+ 
+
+# NATIONAL DISASTER MANAGEMENT GUIDELINES: MANAGEMENT OF EARTHQUAKES
+
+Milind Manohar Puranik, Lecturer, SGGS Institute of Engineering &#x26; Technology, Nanded, Maharashtra
+
+V. M. Topkar, Professor, VJTI, Mumbai, Maharashtra
+
+R. Sivasubramanian, Senior Planner, Chennai Metropolitan Development Authority, Egmore, Tamil Nadu
+
+A. Sundaram, Vice-Principal, Stanley Medical College, Chennai, Tamil Nadu
+
+A. U. Digraskar, Professor, SGGS Institute of Engineering &#x26; Technology, Nanded, Maharashtra
+
+G. Manickavasagam, Joint Director, Department of Town &#x26; Country Planning, Government of Tamil Nadu, Chennai, Tamil Nadu
+
+K. Shivkumar, Scientific Officer, Department of Atomic Energy, Nagpur, Maharashtra
+
+R. Nagarajan, Professor, CSRE, IIT Bombay, Mumbai
+
+Kalavathy Ponniraivan, Dean, Madras Medical College, Chennai, Tamil Nadu
+
+Thidgavalli Kirismakaran, Dean, Government Kilpauk Medical College, Chennai, Tamil Nadu
+
+M. A. Patel, Superintending Engineer, GSEI Designs (Roads &#x26; Planning Circle), Gandhinagar, Gujarat
+
+B. G. Birajdar, Professor, Government Engineering College, Pune, Maharashtra
+
+K. K. Sangle, Lecturer, VJTI, Mumbai, Maharashtra
+
+Vikram Pawar, Architect, Kamala Raheja Vidyanidhi, Mumbai, Maharashtra
+
+Alok Goyal, Professor, Department of Civil Engineering, IIT Bombay, Mumbai
+
+Kapil Gupta, Professor, Department of Civil Engineering, IIT Bombay, Mumbai
+
+N. K. Chandiramani, Professor, Department of Civil Engineering, IIT Bombay, Mumbai
+
+R. S. Jangid, Professor, Department of Civil Engineering, IIT Bombay, Mumbai
+
+Siddhartha Ghosh, Assistant Professor, Department of Civil Engineering, IIT Bombay, Mumbai
+
+B. V. S. Viswanadham, Professor, Department of Civil Engineering, IIT Bombay, Mumbai
+
+M. C. Deo, Professor, Department of Civil Engineering, IIT Bombay, Mumbai
+
+Roopali Chaudhary, M.Tech. Student, Department of Civil Engineering, IIT Bombay, Mumbai
+
+Vaidehi, M.Tech. Student, Department of Civil Engineering, IIT Bombay, Mumbai
+
+K. S. P. Aditya, Dual Degree Student, Department of Civil Engineering, IIT Bombay, Mumbai
+
+Asma, M.Tech. Student, Department of Civil Engineering, IIT Bombay, Mumbai
+
+Nipun Gupta, Dual Degree Student, Department of Civil Engineering, IIT Bombay, Mumbai
+
+Pravin Thorat, M.Tech. Student, Department of Civil Engineering, IIT Bombay, Mumbai
+
+Ashish Sapre, Research Associate, Department of Civil Engineering, IIT Bombay, Mumbai
+
+Shreenivas, M.Tech. Student, Department of Civil Engineering, IIT Bombay, Mumbai
+
+Rajesh Udgiri, M.Tech. Student, Department of Civil Engineering, IIT Bombay, Mumbai
+
+Jaya Kumar, M.Tech. Student, Department of Civil Engineering, IIT Bombay, Mumbai
+
+50
+
+Index Previous Next
+
+
+ 
+# Contact Us
+
+For more information on these Guidelines for Management of Earthquakes, please contact:
+
+Prof. N. Vinod Chandra Menon
+
+Member
+
+National Disaster Management Authority
+
+3ʳᵈ Floor, Centaur Hotel, Near IGI Airport
+
+New Delhi 110037
+
+Tel: (011) 2565 5007
+
+Fax: (011) 2565 5029
+
+Email: vinodmenon@ndma.gov.in
+
+Web: www.ndma.gov.in
+
+51
+
+Index    Previous    Next
+ 
+Produced by: Magnum Books Pvt Ltd, info@magnumbooks.org
+
+Index    www.magnumbooks.org, +91-9811097054
+
+Previous                           Next

@@ -1,0 +1,1553 @@
+
+# Development of Upgraded Hazard Profile Map of India (Cyclone)
+
+The expert members of Steering Committee (constituted by NDMA) felt that the existing vulnerability maps (cyclone) need to be upgraded and the job was assigned to expert sub-committee to carry out the necessary upgradation. The expert subcommittee have since met on number of occasions to carry out the upgradation task and have prepared a list of cyclone prone districts by adopting Hazard Criteria.
+
+The upgraded hazard profile of the Indian Landmass with reference to cyclone is reproduced under here for comments/ suggestions, if any, from the experts in this area (including those already members of NDMA Steering Committee/Sub-committee) for NDMA’s consideration of their inclusion before preparing the upgraded hazard profile maps with reference to cyclone. We shall be grateful if the comments/suggestions requested for are received latest by 30ᵗʰ April 2010.
+
+This is in continuation to the upgraded hazard profile maps (earthquake) already uploaded in NDMA website.
+
+
+ 
+
+# Cyclone Hazard Prone Districts of India: A Report
+
+Proj: Mercator  2009-05-25 06:00:03  File : 2009052508593146.caz  25.05.2009
+
+Sat: Kalpana-1
+
+BAY VIS  Type : Max(Z)  08:59:31
+
+Range: 300.0 km
+
+18. dBZ  50.0+>
+
+VIS No Enhancement
+
+| 16.0        | 48.0        |
+| ----------- | ----------- |
+| 14.0        | 46.0 - 48.0 |
+| 12.0        | 44.0 - 46.0 |
+| 10.0        | 42.0 - 44.0 |
+| 40.0 - 42.0 |             |
+| 8.0         | 38.0 - 40.0 |
+| 6.0         | 36.0 - 38.0 |
+| 4.0         | 34.0 - 36.0 |
+| 32.0 - 34.0 |             |
+| 30.0 - 32.0 |             |
+| 28.0 - 30.0 |             |
+| 26.0 - 28.0 |             |
+| MLD         | 24.0 - 26.0 |
+| 22.0 - 24.0 |             |
+| 20.0 - 22.0 |             |
+
+·BRP  KOLKATA_India
+
+Scan R: 500 km
+
+Scan Res: 1.00 km
+
+Disp R : 300 km
+
+Disp Res: 1.200 km
+
+PW Long
+
+RMC  PRF: 30ò/  0
+
+AS : 12,00 deg/s
+
+TS : 25
+
+RS : 1
+
+CC : Doppler 10
+
+SQI: 0.25
+
+CSR: 10.0 dB
+
+CBS  LOG: 2.0 dB
+
+H : 18.00 km
+
+LS :  0.100 km
+
+Doppler Weather Radar
+
+Kolkata
+
+SHD    if
+
+·BWN  PRD
+
+INSAT (Kalpana) visible imagery   Doppler Weather Radar, Kolkata of cyclone,
+
+AILA                              imagery of cyclone, AILA
+
+| 60° | 6.5° | 70°        | 75° | 80° | 85$     | 90° | 95° | 10  |     |     |
+| --- | ---- | ---------- | --- | --- | ------- | --- | --- | --- | --- | --- |
+| 50  | 100  | KILOMETRES | M   | -   | 40⁰hadu | 200 | 300 | 400 | 500 | 600 |
+
+NLA  30
+
+NORTH WEST  NORTH  B
+
+ARABIAN SEA  EAST ARABN  SRI  WEST  50100200300 400500
+
+AN SEA  DMN  NSK  PLB
+
+AHC  BST  KD1
+
+AGO  PRIORESA NORTH  NORTH
+
+MMB  PNE  DTW  KRP  GPL  WEST BAY  EAST BAY
+
+NAO  STR  KMM  h id
+
+SG  VSK
+
+WEST CENTRAL  EAST CENTRAL
+
+ARABIAN SEA  ARABIAN SEA  KRN  MPT  WEST CENTRAL  EAST CENTRA
+
+GO  SMG  CDP  KVL  BAY  BAY
+
+TA  CHR
+
+HSN  VLR  CNI  NORTH ANDAMAN
+
+KDG  DMP  VM  PBL
+
+LAKSHA
+
+SOUTH WEST    SOUTH EAST     DE      PRS        SOUTH WEST  SOUTH EAST
+
+ARABIAN SEA  ARABIAN SEA             TRV SOUTH  BAY         BAY       SOUTH ANDAMAN
+
+T AML.NAG SRI
+
+LANKA
+
+MALDIVE  COMORIN
+
+# Cyclone Hazard Prone Districts of India
+
+# G. S. Mandal¹ and M Mohapatra2
+
+1National Disaster Management Authority,
+
+Government of India, New Delhi
+ 
+
+India Meteorological Department, Mausam Bhawan, Lodi Road, New Delhi
+
+# Cyclone Hazard Prone Districts of India : A Report
+
+# G. S. Mandal¹ and M Mohapatra²
+
+¹National Disaster Management Authority, Government of India, New Delhi
+
+²India Meteorological Department, Mausam Bhawan, Lodi Road, New Delhi
+
+
+ 
+Cyclone Hazard Prone Districts of India : A Report
+
+# 1. Introduction
+
+Cyclones are one of the natural hazards that affect India almost every year causing large loss of lives and properties. Tropical Cyclone (TC), also known as ‘Cyclone’, is the term used globally to cover tropical weather systems in which winds equal or exceed the minimum of 34 knot (62 kmph). These are intense low pressure areas of the earth atmosphere coupled system and are extreme weather events of the tropics. Hazards associated with tropical cyclones are long duration rotatory high velocity winds, very heavy rain and storm tide (the combined effect of storm-surge and astronomical tide). Out of these, the storm surge is the greatest killer hazard associated with cyclone.
+
+India has a coastline of about 7,516 km of which 5,400 km is along the mainland. The entire coast is affected by cyclones with varying frequency and intensity. Although the North Indian Ocean (the Bay of Bengal and Arabian Sea) generates only about 7% of the world’s cyclones (5 to 6 TC’s per year) their impact is comparatively high and devastating, especially when they strike the coasts bordering the North Bay of Bengal.
+
+Thirteen coastal states and Union Territories (UTs) in the country are affected by tropical cyclones. Four states (Tamil Nadu, Andhra Pradesh, Orissa and West Bengal) and one UT (Puducherry) on the east coast and one state (Gujarat) on the west coast are more vulnerable to cyclone hazards.
+
+The India Meteorological Department (IMD) is the nodal government agency that provides weather services related to cyclones in India. However, IMD has not identified cyclone prone districts following any specific definition though the districts for which cyclone warnings are issued have been identified. On the other hand, for the purpose of better cyclone disaster management in the country, it is necessary to define cyclone proneness and identify cyclone prone coastal districts. It is also necessary to decide degree of hazard proneness of a district by considering cyclone parameters so that mitigation measures are prioritized.
+
+
+ 
+# 2. Classification
+
+Cyclones are known by many names the world over like tropical cyclones, typhoons, hurricanes etc. Though TCs differ by name across regions, they are classified according to their wind speed. The classification, however, varies from region to region. The Indian classification of these intense low pressure systems (cyclonic disturbances) is shown in the Table 1 below:
+
+# 3. Earlier Study
+
+The Building Material Technology Promotion Council (BMTPC) of Ministry of Urban Development, based on Hazard Vulnerability of India identified cyclone prone districts of India taking into consideration cyclone hazards of the coastal districts. These districts are also listed in cyclone guidelines published by NDMA. These lists have included some inland districts of a few states in northeast India which do not experience full impact of cyclone. Also, while preparing such list it appears that no weightage was given for the number as well as intensity of cyclones crossing coast. It is in this context an attempt has been made to prepare a list of cyclone prone districts by adopting hazard criteria.
+
+# 4. Data:
+
+For the above purpose, the following lists of districts have been taken into consideration.
+
+1. Districts touching the Indian seas.
+2. Coastal districts as per the Vulnerability Atlas of India (BMTPC).
+3. Districts considered as coastal districts for the issue of cyclone warning by India Meteorological Department (IMD).
+4. District close to the coast (within a few km from the coast) but not touching the sea.
+
+The lists of above districts are shown in Table 2‑5.
+ 
+
+# The data on cyclones for the period 1891‑2008
+
+The data on cyclones for the period 1891‑2008 have been collected from the electronic atlas of cyclonic disturbances published by IMD during 2008. Cyclones have been grouped in two categories:
+
+1. Cyclonic storms
+2. Severe cyclonic storms &#x26; above categories.
+
+The severe cyclonic storm includes very severe cyclonic storms and super cyclonic storm. This categorization has been adopted as official data of IMD is available only in these two categories in the e‑Atlas.
+
+# 5. Methodology:
+
+# 5.1 Cyclones parameters considered
+
+The frequencies of cyclonic storms and severe cyclonic storms and hence total number of cyclones crossing different coastal districts of the country during 1891‑2008 have been tabulated. A district has been considered as cyclone prone if at least one cyclone in the past had crossed that district or its neighbouring one on its both sides during the period 1891‑2008. As discussed earlier, the cyclone itself is a multi hazard weather system. Therefore, only the frequency of landfalling cyclones cannot determine the degree of proneness. Therefore to determine the degree of proneness the following parameters have been considered.
+
+1. Total number of cyclones crossing the district
+2. Total no. of severe cyclones crossing the district
+3. Probable maximum winds (mps) over the district
+4. Probable maximum storm surge over the district (m)
+5. Probable maximum precipitation (1 day) in cms over any station in the district
+
+While the inputs for (a) and (b) have been collected from officially published data of IMD as discussed in previous section, inputs for (c), (d) and (e) have been taken from the Vulnerability Atlas published by BMTPC, Ministry of Urban Affairs, Govt. of India (Latest Edition; 2006) for which data source is again the publications of IMD.
+
+
+ 
+# 5.2 Overall Ratings
+
+For the purpose of deciding degree of proneness, different districts have been rated in a 10 point scale as per the following four categories (Table 6) with the above parameters. The degree of proneness has been decided accordingly.
+
+# 5.3 Ratings of Parameters
+
+Different ratings used for different cyclone parameters are in Table 7. The same scale has been used as that in Vulnerability Atlas for the rating purpose to maintain conformity. The scale is non‑linear.
+
+The rating scale is same for maximum wind as used in vulnerability atlas. The new scales have been proposed for the other parameters.
+
+# 5.4 Composite Score/Ratings
+
+Finally, a composite score/rating has been calculated taking the arithmetic mean of all ratings. The composite score has been further been divided into four categories like low (≤3), moderate (>3 and ≤5), high (>5 and ≤7) and very high (>7) to find out the intensity (degree) of proneness of districts.
+
+It may be clarified that for the classification of districts along the west coast, the Probable Maximum Precipitation (PMP) has not been considered as the PMP over this region can also be due to orographically enhanced rainfall in association with monsoon systems like off‑shore troughs, low level cyclonic circulations, lows and depressions. Therefore, for the west coast remaining four parameters have been used to calculate composite rate of a district. Similarly, for the islands and some districts for which Probable Maximum Storm Surge (PMSS) information is not available, the composite rating has been computed using the remaining parameters.
+ 
+
+
+As hazard due to TC depends on the associated adverse weather, an attempt has also been made to calculate the composite score based on weighted score and hence to classify the districts based on degree of proneness like low (≤3), moderate (>3 and ≤5), high (>5 and ≤7) and very high (>7). The weights considered for this purpose are given below:
+
+- Total number of cyclones crossing districts (w1) = 1
+- Total number of severe cyclones crossing districts (w2) = 2
+- PMP for the district (w3) = 2
+- Strong wind affecting the district (w4) = 3
+- PMSS for the district = 5
+
+Maximum weight is given to storm surge followed by wind, as the maximum hazard is associated with storm surge followed by wind.
+
+# 6. Results
+
+# 6.1. Hazard proneness based on frequency of total severe cyclone, total severe cyclones, hazardous weather based on BMTPC Atlas
+
+From the frequency analysis it is found that most of the districts are cyclone prone. Therefore, it is imperative to find out intensity of proneness of a district for prioritising mitigation measures. The consolidated lists of districts touching the coast with different intensity of proneness, like very high (P1), high (P2), moderate (P3) and low (P4) are shown in Table 8 and Table 9. In general, the coastal districts of West Bengal, Orissa, Andhra Pradesh and Tamil Nadu are more prone and are in the high to very high category. The Proneness factor is very high for the districts of Nellore, East Godawari, Srikakulam &#x26; Guntur in Andhra Pradesh; Balasore, Kendrapada, Bhadrak, Jagatsinghpur and Ganjam in Orissa; Kanchipuram in Tamil Nadu; and South 24 Parganas and Midnapore in West Bengal.
+
+The consolidated lists of districts not touching the sea (but close to the coast) with different degree of proneness are shown in Table 10 and 11. In this list the interior districts of West Bengal, like North 24 Praganas and Howrah have been classified as very high cyclone hazard prone followed by Hoogly and Kolkata as high cyclone hazard prone districts.
+
+
+ 
+
+Mayurbhanj, Cuttack and Nayagarh, the interior districts of Orissa, are categorized as high cyclone prone districts. All other districts in this list are categorized as moderate or low cyclone hazard prone.
+
+While considering the weighted mean scores of the districts, it is found that the rating usually decreases and becomes unrealistic in many cases like districts of Kerala and Karnataka. Therefore it is proposed that list of cyclone hazard prone districts may be considered by assigning equal weights to different cyclone parameters. A composite list of cyclone hazard prone districts based on equal weights to hazard criteria and intensity of cyclones is given in Table 12. The pictorial presentation of the cyclone hazard prone districts of the country is shown in Figure 1.
+
+# 6.2. Hazard proneness based on frequency of total Severe Cyclonic Storm (SCS), total Very Severe Cyclonic Storm (VSCS) and hazardous weather based on BMTPC Atlas, but with higher threshold of PMP
+
+A composite list of cyclone hazard prone districts based on higher threshold of PMP was also attempted to avoid the impact of lows and depressions, as rainfall of 10, 20, 30 cm etc can occur along east coast with the low pressure area and depression. For this purpose, the PMP was categorised as below.
+
+| PMP (cm) | Rating |
+| -------- | ------ |
+| 1‑20     | 3      |
+| 21‑30    | 5      |
+| 31‑40    | 7      |
+| >40      | 10     |
+
+In this case, only the hazard proneness of Kanyakumari district changed from P2 to P3. It remained same for other districts (not shown).
+
+# 6.3. Hazard proneness based on frequency of total SCS, total VSCS, maximum wind and storm surge, based on BMTPC Atlas
+ 
+
+The exercise was also conducted without considering the rainfall as a parameter for both east and west coast. It was found that the results yield the inconsistent and incoherent cyclone hazard prone districts (not shown). Hence above two propositions are not accepted.
+
+# 6.4. Hazard proneness based on frequency of total SCS, total VSCS, actual/estimated maximum wind and storm surge due to cyclone
+
+All the above classifications have the limitations as, they do not distinguish between the maximum wind due to squall and that due to cyclone. As a result, it gives almost uniform weight to all districts in east coast. Similarly, the PMP is weighted equally for all the districts. As a result more weight is attached to rating due to PMP. To avoid all the above, the following procedure was also attempted.
+
+1. The PMP is not considered at all for all districts.
+2. Actual wind is collected from the reports published by IMD for the period 1971‑2008 in MAUSAM. The data for the above period is considered, as the these data are more reliable. The estimated maximum wind the estimate based on satellite observations. Prior to satellite era, the wind estimation is subject to error.
+3. Weight to wind is given based on Damage Potential published by IMD. According to damage potential, wind has been classified in this study into four categories.
+
+The ratings based on actual/estimated wind are as follows:
+
+| System                     | Wind speed                  | Rating |
+| -------------------------- | --------------------------- | ------ |
+| Cyclonic Storm:            | 34‑47 Knots 62‑87 Kmph      | 03     |
+| Severe Cyclonic Storm      | 48‑63 Knots (88‑117 Kmph)   | 05     |
+| Very severe Cyclonic Storm | 64‑90 knots (118‑167 kmph)  | 07     |
+| Very Severe Cyclonic Storm | 91‑119 knots (168‑221 kmph) | 10     |
+| Super Cyclonic Storm       | 120 knots and more          | 10     |
+
+
+ 
+
+
+(222 kmph or more)
+
+Based on above categorization, the consolidated lists of districts touching the coast with different intensity of proneness, like very high (P1), high (P2), moderate (P3) and low (P4) are shown in Table 13 and Table 14. In general, the coastal districts of West Bengal, Orissa, Andhra Pradesh and Tamil Nadu are more prone and are in the high to very high category. The Proneness factor is very high for the districts of Nellore, East Godawari, in Andhra Pradesh; Balasore, Kendrapara, in Orissa; and South 24 Parganas and Midnapore, in West Bengal.
+
+The consolidated lists of districts not touching the sea (but close to the coast) with different degree of proneness are shown in Table 15 and 16. In this list the interior districts of West Bengal, like North 24 Praganas and Howrah and Kolkata have been classified as very high cyclone hazard prone districts.
+
+A composite list of cyclone hazard prone districts based on equal weights to hazard criteria and intensity of cyclones based on the criteria mentioned in the beginning of this section is given in Table 17. The pictorial presentation of these cyclone hazard prone districts of the country is shown in Figure 2.
+
+Comparing Fig.1 with Fig.2 or Table 12 with Table 17, the results in Table 17/ Fig.2 seems to be more logical and representative of the hazard proneness due to cyclones. Hence this categorization as shown in Table 17/ Fig.2 is recommended for classification of cyclone hazard prone districts.
+
+# 7. Conclusion:
+
+The results give a realistic picture of degree of cyclone hazard proneness of districts, as they represent the frequency and intensity of landfalling cyclones along with all other hazards like rainfall, wind and storm surge. The categorization of districts with degree of proneness also
+
+
+ 
+
+
+tallies with observed pictures. Therefore, it is proposed that this classification of coastal districts based on hazard (Table 17/ Fig.2) may be considered.
+
+In this connection, it may be stated that this classification is only based on hazard criteria. Vulnerability of the place has not been taken into consideration. Therefore, composite cyclone risk of a district, which is the product of hazard and vulnerability, needs to be assessed separately through detailed study.
+
+In the list of cyclone hazard prone districts of the country, some of the districts of north‑east India appearing in the list prepared by BMTPC have not appeared here. This is because those districts are away from the coast and no parts of these districts were affected by storm surge requiring large scale evacuation of population. These districts are mostly affected by depressions also interior districts of coastal states were not considered though some of these may be affected by storm wind and very heavy rainfall causing damage and destruction to life and properties.
+
+The result of the report was also presented in the thematic session on cyclone of the second India Disaster Management Congress (IDMC) held in New Delhi during 4‑6 November 2009 and the work was appreciated by the participants.
+
+# Table 1. Indian Classification of Cyclonic Disturbances in the North Indian Ocean (The Bay of Bengal and Arabian Sea)
+
+| Type                             | Wind Speed in km/h | Wind Speed in knot |
+| -------------------------------- | ------------------ | ------------------ |
+| Low pressure are(L)              | Less than 31       | Less than 17       |
+| Depression (D)                   | 31‑49              | 17‑27              |
+| Deep Depression(DD)              | 50‑61              | 28‑33              |
+| Cyclonic Storm(CS)               | 62‑88              | 34‑47              |
+| Severe Cyclonic Storm(SCS)       | 89‑118             | 48‑63              |
+| Very Severe Cyclonic Storm(VSCS) | 119‑221            | 64‑119             |
+| Super Cyclonic Storm (Sup. CS)   | 222 or more        | 120 or more        |
+
+
+ 
+
+# Table 2: Coastal Districts touching Ocean
+
+| S. No. | Name of coastal state | Name of districts |
+| ------ | --------------------- | ----------------- |
+| 1.     | Andhra Pradesh        | East Godavari     |
+|        | Guntur                |                   |
+|        | Krishna               |                   |
+|        | Nellore               |                   |
+|        | Prakasam              |                   |
+|        | Srikakulam            |                   |
+|        | Visakhapatnam         |                   |
+|        | Vizianagaram          |                   |
+|        | West Godavari         |                   |
+| 2.     | Gujarat               | Ahmedabad         |
+|        | Anand                 |                   |
+|        | Amreli                |                   |
+|        | Bhavnagar             |                   |
+|        | Bharuch               |                   |
+|        | Jamnagar              |                   |
+|        | Junagadh              |                   |
+|        | Kachchh               |                   |
+|        | Navsari               |                   |
+|        | Porbandar             |                   |
+|        | Rajkot                |                   |
+|        | Surat                 |                   |
+
+
+ 
+# 3.
+
+Dakshin Kannada
+
+| Karnataka | Udupi | Uttar Kannada |
+| --------- | ----- | ------------- |
+
+# 4.
+
+Alappuzha
+
+| Kerala | Ernakulam | Kannur | Kasargod | Kollam | Kottayam | Kozhikode | Malappuram | Thrissur | Thiruvananthapuram |
+| ------ | --------- | ------ | -------- | ------ | -------- | --------- | ---------- | -------- | ------------------ |
+
+# 5.
+
+Raigarh
+
+| Maharastra | Ratnagiri | Sindhudurg | Thane |
+| ---------- | --------- | ---------- | ----- |
+
+# 6.
+
+Baleshwar
+
+| Orissa | Bhadrak | Ganjam | Jagatsinghpur | Kendrapara | Khordha | Puri |
+| ------ | ------- | ------ | ------------- | ---------- | ------- | ---- |
+
+# 7.
+
+Chennai
+
+| Tamil Nadu | Cuddalore | Kanchipuram | Kanniyakumari | Nagappattinam |
+| ---------- | --------- | ----------- | ------------- | ------------- |
+
+ 
+# States and Union Territories
+
+# 8. West Bengal
+
+- Haora
+- Midnapore
+- North 24-pargana
+- South 24-pargana
+
+# 9. Goa
+
+- North goa
+- South goa
+
+# 10. Puduchery (UT)
+
+- Pudducheri
+
+# 11. Daman &#x26; Diu (UT)
+
+- Daman
+- Diu
+
+# 12. Dadra &#x26; Nagar Haveli (UT)
+
+- Dadra &#x26; Nagar Haveli
+
+# Total
+
+66
+ 
+# Table 3: Coastal Districts not touching Ocean, but within about 100 km from the coast
+
+| State       | Districts        |
+| ----------- | ---------------- |
+| AP          | Chittor          |
+|             | Rajkot           |
+| Gujarat     | Sunder Nagar     |
+|             | Kheda            |
+|             | Vadodara         |
+|             | Wayand           |
+|             | Palakkad         |
+| Kerala      | Kottayam         |
+|             | Idukki           |
+|             | Pathanamthita    |
+|             | Mayurbhanj       |
+|             | Jajpur           |
+|             | Keonjhar         |
+| Orissa      | Dhenkanal        |
+|             | Cuttack          |
+|             | Nayagarh         |
+|             | Gajapati         |
+|             | Tiruvannamalai   |
+| Tamil Nadu  | Ariyalur         |
+|             | Sivaganga        |
+|             | North 24 Pargana |
+|             | Howrah           |
+| West Bengal | Hogli            |
+|             | Bardhaman        |
+|             | Kolkata          |
+| Total       | 25               |
+
+ 
+# Table 4: coastal districts as per warning bulletins issued by IMD
+
+| S. No. | Name of coastal state | Name of districts |
+| ------ | --------------------- | ----------------- |
+| 1.     | Andhra pradesh        | East Godavari     |
+|        |                       | Guntur            |
+|        |                       | Krishna           |
+|        |                       | Nellore           |
+|        |                       | Prakasam          |
+|        |                       | Srikakulam        |
+|        |                       | Visakhapatnam     |
+|        |                       | Vizianagaram      |
+|        |                       | West Godavari     |
+| 2.     | Gujarat               | Ahmedabad         |
+|        |                       | Anand             |
+|        |                       | Amreli            |
+|        |                       | Bhavnagar         |
+|        |                       | Bharuch           |
+|        |                       | Jamnagar          |
+|        |                       | Junagadh          |
+|        |                       | Kachchh           |
+|        |                       | Navsari           |
+|        |                       | Porbandar         |
+|        |                       | Rajkot            |
+|        |                       | Surat             |
+|        |                       | Vadodara          |
+|        |                       | Valsad            |
+| 3.     | Karnataka             | Dakshin Kannada   |
+|        |                       | Udupi             |
+|        |                       | Uttar Kannada     |
+| 4.     | Kerala                | Alappuzha         |
+|        |                       | Ernakulam         |
+
+ 
+
+# Geographical Locations
+
+# 1. Kerala
+
+- Kannur
+- Kasargod
+- Kollam
+- Kottayam
+- Kozhikode
+- Malappuram
+- Thrissur
+- Thiruvananthapuram
+
+# 2. Maharashtra
+
+- Raigarh
+- Ratnagiri
+- Sindhudurg
+- Thane
+
+# 3. Orissa
+
+- Baleshwar
+- Bhadrak
+- Gajapati
+- Ganjam
+- Jagatsinghpur
+- Kendrapara
+- Khordha
+- Puri
+
+# 4. Tamil Nadu
+
+- Chennai
+- Cuddalore
+- Kanchipuram
+- Kanniyakumari
+- Nagappattinam
+- Pudukkottai
+- Ramanathapuram
+- Tiruvallur
+- Thanjavur
+- Tiruvalur
+- Tuticorin
+
+
+ 
+# Tirunelveli
+
+# Viluppuram
+
+# 8. West Bengal
+
+- Haora
+- Hugli
+- Midnapore
+- North 24-pargana
+- South 24-pargana
+
+# 9. Goa
+
+- North Goa
+- South Goa
+
+# 10. Puduchery (UT)
+
+- Puduchery
+
+# 11. Daman &#x26; Diu (UT)
+
+- Daman
+- Diu
+
+# 12. Dadra &#x26; Nagar Haveli (UT)
+
+- Dadra &#x26; Nagar Haveli
+
+# Total
+
+72
+ 
+# Table 5. List of Vulnerable Districts for Cyclone Wind and Coastal/Inland Flooding
+
+| S. No. | District      | Wind and Cyclone | Coastal/Inland Flooding |
+| ------ | ------------- | ---------------- | ----------------------- |
+| 1      | East Godavari | VH               | FLZ                     |
+| 2      | Krishna       | VH               | FLZ                     |
+| 3      | Guntur        | VH               | FLZ                     |
+| 4      | West Godavari | H                | FLZ                     |
+| 5      | Prakasam      | VH               | FLZ                     |
+| 6      | Vizianagaram  | VH               | FLZ                     |
+| 7      | Nellore       | VH               | FLZ                     |
+| 8      | Visakhapatnam | VH               | FLZ                     |
+| 9      | Srikakulam    | VH               | FLZ                     |
+| 10     | North Goa     | M                | -                       |
+| 11     | South Goa     | M                | -                       |
+| 12     | Ahmadabad     | M                | FLZ                     |
+| 13     | Bharuch       | M                | FLZ                     |
+| 14     | Kachchh       | VH               | FLZ                     |
+| 15     | Kheda         | M                | FLZ                     |
+| 16     | Surat         | M                | FLZ                     |
+| 17     | Vadodara      | M                | FLZ                     |
+| 18     | Valsad        | M                | FLZ                     |
+| 19     | Bhavanagar    | M                | -                       |
+| 20     | Junagad       | VH               | FLZ                     |
+| 21     | Jamnagar      | M                | FLZ                     |
+| 22     | Narmada       | H                | FLZ                     |
+| 23     | Navsari       | M                | FLZ                     |
+| 24     | Anand         | M                | FLZ                     |
+| 25     | Amreli        | M                | FLZ                     |
+| 26     | Rajkot        | M                | FLZ                     |
+| 27     | Porbandar     | H                | FLZ                     |
+
+ 
+
+# Karnataka
+
+| 28 | Udupi            | M | - |
+| -- | ---------------- | - | - |
+| 29 | Uttara Kannada   | M | - |
+| 30 | Dakshina Kannada | M | - |
+
+# Kerala
+
+| 31 | Ernakulam          | M | FLZ |
+| -- | ------------------ | - | --- |
+| 32 | Idukki             | M | FLZ |
+| 33 | Kannur             | M | FLZ |
+| 34 | Kasaragod          | M | FLZ |
+| 35 | Kollam             | M | FLZ |
+| 36 | Kottayam           | M | FLZ |
+| 37 | Kozhikode          | M | FLZ |
+| 38 | Malappuram         | M | FLZ |
+| 39 | Palakkad           | M | FLZ |
+| 40 | Thiruvananthapuram | M | FLZ |
+| 41 | Thrissur           | M | FLZ |
+| 42 | Kasargod           | M | -   |
+| 43 | Alappuzha          | M | FLZ |
+| 43 | Wayanad            | M | -   |
+| 44 | Pathanamthitta     | M | -   |
+
+# Maharashtra
+
+| 45 | Mumbai     | H | FLZ |
+| -- | ---------- | - | --- |
+| 46 | Sindhudurg | M | -   |
+| 47 | Raigadh    | M | -   |
+| 48 | Ratnagiri  | M | -   |
+| 49 | Thane      | H | FLZ |
+
+# Orissa
+
+| 50 | Cuttack       | VH | FLZ |
+| -- | ------------- | -- | --- |
+| 51 | Ganjam        | VH | FLZ |
+| 52 | Jagatsinghpur | VH | FLZ |
+| 53 | Kendrapara    | VH | FLZ |
+| 54 | Khordha       | VH | FLZ |
+| 55 | Puri          | VH | FLZ |
+| 56 | Baleshwar     | VH | FLZ |
+| 57 | Bhadrak       | VH | FLZ |
+| 58 | Jajpur        | VH | FLZ |
+| 59 | Navagadh      | H  | -   |
+
+
+ 
+
+# Flood Risk Assessment
+
+| District                   | Risk Level | Flood Zone |
+| -------------------------- | ---------- | ---------- |
+| Dhenkanal                  | H          | -          |
+| Thanjavur                  | VH         | FLZ        |
+| Cuddalore                  | VH         | FLZ        |
+| Kanchipuram                | VH         | -          |
+| Thiruvallur                | VH         | -          |
+| Tiruvanamalai              | VH         | -          |
+| Viluppuram                 | VH         | -          |
+| Ramanathapuram             | VH         | -          |
+| Puducherry and Karaikal    | H          | -          |
+| Nagapattinam               | VH         | FLZ        |
+| Pudukottai                 | H          | -          |
+| Sivaganga                  | H          | -          |
+| Thuthookodi                | VH         | FLZ        |
+| Tirunelveli                | VH         | -          |
+| Kanyakumari                | H          | -          |
+| West Bengal                |            |            |
+| Barddaman                  | H          | FLZ        |
+| Kolkata                    | H          | FLZ        |
+| Hugli                      | VH         | FLZ        |
+| North Twenty Four Parganas | VH         | FLZ        |
+| South Twenty Four Parganas | VH         | FLZ        |
+| Midnapur                   | VH         | FLZ        |
+| Union Territories          |            |            |
+| Andaman & Nicobar          | H          | FLZ        |
+| Dadra & Nagarhaveli        | H          | FLZ        |
+| Daman & Diu                | H          | FLZ        |
+| Lakshadweep                | H          | FLZ        |
+
+M : Moderate, H : High, VH : Very high, FLZ : Flood Zone
+
+
+ 
+# Table 6. Categorisation of districts based on degree of proneness
+
+| Category       | Rating     |
+| -------------- | ---------- |
+| Low (P4)       | ≤ 3.0      |
+| Moderate (P3)  | 3.1 – 5.0  |
+| High (P2)      | 5.1 – 7.0  |
+| Very high (P1) | 7.1 – 10.0 |
+
+# Table 7(i). Rating of districts based on total number of cyclones crossing the district
+
+| Total number of cyclones | Rating |
+| ------------------------ | ------ |
+| 1‑5                      | 3      |
+| 6‑10                     | 5      |
+| 11‑15                    | 7      |
+| >15                      | 10     |
+
+# Table 7(ii). Rating of districts based on total no. of severe cyclones crossing the district
+
+| Total number of severe cyclones | Rating |
+| ------------------------------- | ------ |
+| 1‑3                             | 3      |
+| 4‑6                             | 5      |
+| 7‑10                            | 7      |
+| >10                             | 10     |
+
+ 
+# Table 7(iii). Rating of districts based on Probable Maximum Winds (PMW) in knot over the district
+
+| PMW (knot) | Rating |
+| ---------- | ------ |
+| No. CS     | 0      |
+| 34‑47      | 3      |
+| 48‑63      | 5      |
+| 64‑90      | 7      |
+| ≥90        | 10     |
+
+# Table 7(iv). Rating of districts based on Probable Maximum Storm Surge (PMSS) over the district
+
+| PMSS (metre) | Rating |
+| ------------ | ------ |
+| 0‑2.0        | 3      |
+| 2.1‑4.0      | 5      |
+| 4.1‑6.0      | 7      |
+| >6           | 10     |
+
+# Table 7(v). Rating of district based on Probable Maximum Precipitation (PMP) for a day in cms in the district
+
+| PMP (cm) | Rating |
+| -------- | ------ |
+| 1‑10     | 3      |
+| 11‑20    | 5      |
+| 21‑30    | 7      |
+| >30      | 10     |
+
+ 
+
+# Table 8. Cyclone parameters for districts of India touching the coast
+
+| State          | Districts            | No. of severe cyclones | Total no. of cyclones | Wind speed (mps) | PMSS (metre) | PMP (cm) |
+| -------------- | -------------------- | ---------------------- | --------------------- | ---------------- | ------------ | -------- |
+| A\&N Island    | A & N Islands        | 2                      | 2                     | 44               | -            | N/A      |
+| Andhra Pradesh | Nellore              | 8                      | 18                    | 44-50            | 4.5          | 60       |
+| Andhra Pradesh | East Godavari        | 4                      | 17                    | 44-50            | 4.5          | 52       |
+| Andhra Pradesh | Srikakulam           | 5                      | 12                    | 44-50            | 4            | 56       |
+| Andhra Pradesh | Guntur               | 0                      | 0                     | 44-50            | 7.5          | 56       |
+| Andhra Pradesh | Visakhapatnam        | 4                      | 7                     | 44-50            | 4            | 52       |
+| Andhra Pradesh | Krishna              | 3                      | 10                    | 44-50            | 5.5          | 56       |
+| Andhra Pradesh | West Godavari        | 1                      | 3                     | 44-50            | 5            | 52       |
+| Andhra Pradesh | Prakasam             | 3                      | 5                     | 44-50            | 6            | 52       |
+| Andhra Pradesh | Vizianagaram         | 0                      | 2                     | 44-50            | 4            | 52       |
+| Dadra & Nagar  | Dadra & Nagar Haveli | 1                      | 1                     | 44               | -            | 80       |
+| Daman          | Daman                | 1                      | 1                     | 50               | 5            | 80       |
+| Diu            | Diu                  | 4                      | 8                     | 50               | 3.5          | 80       |
+| Goa            | North Goa            | 0                      | 0                     | 39               | 4.5          | 64       |
+| Goa            | South Goa            | 0                      | 0                     | 39               | 4.5          | 64       |
+| Gujarat        | Junagadh             | 4                      | 8                     | 44-50            | 3.5          | 84       |
+| Gujarat        | Kachchh              | 3                      | 7                     | 44-50            | 3.5          | 60       |
+| Gujarat        | Bhavnagar            | 1                      | 1                     | 44-50            | 4.5          | 56       |
+| Gujarat        | Jamnagar             | 1                      | 2                     | 44-50            | 3.5          | 72       |
+| Gujarat        | Porbandar            | 2                      | 2                     | 50               | 3.5          | 84       |
+| Gujarat        | Amreli               | 1                      | 1                     | 44-50            | 4            | 56       |
+| Gujarat        | Ahmedabad            | 0                      | 0                     | 44-50            | -            | 60       |
+| Gujarat        | Anand                | 1                      | 1                     | 44-47            | -            | 52       |
+| Gujarat        | Surat                | 0                      | 0                     | 44-47            | 4.5          | 88       |
+| Gujarat        | Navsari              | 0                      | 1                     | 44-47            | 4.5          | 88       |
+| Gujarat        | Valsad               | 0                      | 0                     | 44-47            | 5            | 104      |
+| Gujarat        | Bharuch              | 0                      | 3                     | 44-47            | -            | 72       |
+| Karnataka      | Udupi                | 0                      | 0                     | 33-39            | 4.5          | 84       |
+| Karnataka      | Uttar Kannada        | 0                      | 0                     | 33-39            | 4.5          | 68       |
+| Karnataka      | Dakshin Kannada      | 0                      | 0                     | 33-39            | 4.5          | 92       |
+| Kerala         | Kozhikode            | 1                      | 1                     | 39               | 4.5          | 60       |
+| Kerala         | Malappuram           | 0                      | 1                     | 33‑39            | 4.5          | 60       |
+| Kerala         | Thrissur             | 0                      | 0                     | 39               | 4.5          | 52       |
+| Kerala         | Kasargod             | 0                      | 0                     | 39               | 4            | 48       |
+| Kerala         | Kannur               | 0                      | 0                     | 39               | 4            | 60       |
+| Kerala         | Ernakulam            | 0                      | 0                     | 39               | 4            | 44       |
+| Kerala         | Alappuzha            | 0                      | 0                     | 39               | 4            | 40       |
+| Kerala         | Kollam               | 0                      | 0                     | 39               | 3.5          | 44       |
+| Kerala         | Thiruvananthapuram   | 0                      | 0                     | 39               | 3            | 48       |
+| Lakshadweep    | Lakshadweep          | 1                      | 2                     | 39               | ‑            | N/A      |
+| Maharastra     | Thane                | 1                      | 1                     | 39‑44            | 5            | 72       |
+
+
+ 
+
+# State-wise Data
+
+| State       | District         | Column 1 | Column 2 | Column 3 | Column 4 | Column 5 |
+| ----------- | ---------------- | -------- | -------- | -------- | -------- | -------- |
+| Maharastra  | Mumbai suburban  | 1        | 1        | 44       | 5        | 95       |
+| Maharastra  | Ratnagiri        | 1        | 1        | 39-44    | 4        | 64       |
+| Maharastra  | Raigarh          | 0        | 1        | 39-44    | 5        | 72       |
+| Maharastra  | Sindhudurg       | 1        | 1        | 39       | 4        | 72       |
+| Orissa      | Balasore         | 5        | 28       | 50       | 11       | 60       |
+| Orissa      | Kendrapara       | 4        | 16       | 50       | 8.5      | 60       |
+| Orissa      | Bhadrak          | 3        | 15       | 50       | 9.5      | 60       |
+| Orissa      | Jagatsinghpur    | 3        | 14       | 50       | 6.5      | 60       |
+| Orissa      | Ganjam           | 5        | 11       | 39-50    | 4        | 48       |
+| Orissa      | Puri             | 1        | 6        | 50       | 4        | 60       |
+| Orissa      | Khordha          | 0        | 4        | 44-50    | 4        | 52       |
+| Puducheri   | Pudukkottai      | 1        | 1        | 47       | 7        | 52       |
+| Puducheri   | Karaikal         | 0        | 0        | 50       | 3.5      | 52       |
+| Tamilnadu   | Kanchipuram      | 8        | 13       | 39-50    | 3.5      | 68       |
+| Tamilnadu   | Cuddalore        | 4        | 6        | 39-50    | 3.5      | 68       |
+| Tamilnadu   | Tiruvarur        | 3        | 6        | 47       | 5.5      | 60       |
+| Tamilnadu   | Nagappattinam    | 3        | 10       | 39-47    | 4.5      | 68       |
+| Tamilnadu   | Chennai          | 0        | 0        | 50       | 3.5      | 52       |
+| Tamilnadu   | Viluppuram       | 3        | 3        | 39-50    | 3.5      | 68       |
+| Tamilnadu   | Ramanathapuram   | 1        | 2        | 39       | 12       | 48       |
+| Tamilnadu   | Toothukudi       | 1        | 1        | 39       | 7        | 52       |
+| Tamilnadu   | Tirunelveli      | 3        | 3        | 39       | 7        | 48       |
+| Tamilnadu   | Thanjavur        | 1        | 2        | 47       | 5.5      | 48       |
+| Tamilnadu   | Tiruvalur        | 0        | 5        | 39-50    | 4.0      | 56       |
+| Tamilnadu   | Kanyakumari      | 0        | 0        | 39       | 3        | 40       |
+| West Bengal | South 24-pargana | 16       | 29       | 50       | 12       | 52       |
+| West Bengal | Medinipur        | 8        | 16       | 47-50    | 13       | 56       |
+| Total       |                  | 69       |          |          |          |          |
+
+
+ 
+# Table 9. Proposed cyclone prone districts of India touching the coast
+
+| State        | Districts        | No. of severe cyclones | Total no. of cyclones | Wind speed | PMSS | PMP | Mean rating | Category of Proneness |
+| ------------ | ---------------- | ---------------------- | --------------------- | ---------- | ---- | --- | ----------- | --------------------- |
+| AP           | Nellore          | 7                      | 10                    | 10         | 7    | 10  | 8.8         | P1                    |
+| AP           | East Godavari    | 5                      | 10                    | 10         | 7    | 10  | 8.4         | P1                    |
+| AP           | Srikakulam       | 5                      | 7                     | 10         | 5    | 10  | 7.4         | P1                    |
+| AP           | Guntur           | 3                      | 3                     | 10         | 10   | 10  | 7.2         | P1                    |
+| Orissa       | Balasore         | 5                      | 10                    | 10         | 10   | 10  | 9           | P1                    |
+| Orissa       | Kendrapara       | 5                      | 10                    | 10         | 10   | 10  | 9           | P1                    |
+| Orissa       | Bhadrak          | 3                      | 7                     | 10         | 10   | 10  | 8           | P1                    |
+| Orissa       | Jagatsinghpur    | 3                      | 7                     | 10         | 7    | 10  | 7.4         | P1                    |
+| Orissa       | Ganjam           | 5                      | 7                     | 10         | 5    | 10  | 7.4         | P1                    |
+| Tamilnadu    | Kanchipuram      | 7                      | 7                     | 10         | 5    | 10  | 7.8         | P1                    |
+| West Bengal  | South 24‑pargana | 10                     | 10                    | 10         | 10   | 10  | 10          | P1                    |
+| West Bengal  | Medinipur        | 7                      | 10                    | 10         | 10   | 10  | 9.4         | P1                    |
+| AP           | Visakhapatnam    | 5                      | 5                     | 10         | 5    | 10  | 7           | P2                    |
+| AP           | Krishna          | 3                      | 5                     | 10         | 7    | 10  | 7           | P2                    |
+| AP           | West Godavari    | 3                      | 3                     | 10         | 7    | 10  | 6.6         | P2                    |
+| AP           | Prakasam         | 3                      | 3                     | 10         | 7    | 10  | 6.6         | P2                    |
+| AP           | Vizianagaram     | 0                      | 3                     | 10         | 5    | 10  | 5.6         | P2                    |
+| Daman & Diu  | Daman            | 3                      | 3                     | 10         | 7    | ‑   | 5.7         | P2                    |
+| Daman & Diu  | Diu              | 5                      | 5                     | 10         | 5    | ‑   | 6.3         | P2                    |
+| Gujarat      | Junagadh         | 5                      | 5                     | 10         | 5    | ‑   | 6.3         | P2                    |
+| Gujarat      | Kachchh          | 3                      | 5                     | 10         | 5    | ‑   | 5.7         | P2                    |
+| Gujarat      | Bhavnagar        | 3                      | 3                     | 10         | 7    | ‑   | 5.7         | P2                    |
+| Gujarat      | Jamnagar         | 3                      | 3                     | 10         | 5    | ‑   | 5.3         | P2                    |
+| Gujarat      | Porbandar        | 3                      | 3                     | 10         | 5    | ‑   | 5.3         | P2                    |
+| Gujarat      | Amreli           | 3                      | 3                     | 10         | 5    | ‑   | 5.3         | P2                    |
+| Orissa       | Puri             | 3                      | 5                     | 10         | 5    | 10  | 6.6         | P2                    |
+| Orissa       | Khordha          | 0                      | 3                     | 10         | 5    | 10  | 5.6         | P2                    |
+| Pudduchcheri | Pudukkottai      | 3                      | 3                     | 7          | 10   | 10  | 6.6         | P2                    |
+| Pudduchcheri | Karaikal         | 3                      | 3                     | 10         | 5    | 10  | 6.2         | P2                    |
+| Tamilnadu    | Cuddalore        | 5                      | 5                     | 10         | 5    | 10  | 7           | P2                    |
+| Tamilnadu    | Tiruvarur        | 3                      | 5                     | 7          | 7    | 10  | 6.4         | P2                    |
+| Tamilnadu    | Nagappattinam    | 3                      | 5                     | 7          | 7    | 10  | 6.4         | P2                    |
+
+ 
+
+# State-wise Data
+
+| State       | District           | Value 1 | Value 2 | Value 3 | Value 4 | Value 5 | Value 6 | Page |
+| ----------- | ------------------ | ------- | ------- | ------- | ------- | ------- | ------- | ---- |
+| Tamilnadu   | Chennai            | 3       | 3       | 10      | 5       | 10      | 6.2     | P2   |
+| Tamilnadu   | Viluppuram         | 3       | 3       | 10      | 5       | 10      | 6.2     | P2   |
+| Tamilnadu   | Ramanathapuram     | 3       | 3       | 5       | 10      | 10      | 6.2     | P2   |
+| Tamilnadu   | Toothukudi         | 3       | 3       | 5       | 10      | 10      | 6.2     | P2   |
+| Tamilnadu   | Tirunelveli        | 3       | 3       | 5       | 10      | 10      | 6.2     | P2   |
+| Tamilnadu   | Thanjavur          | 3       | 3       | 7       | 7       | 10      | 6       | P2   |
+| Tamilnadu   | Tiruvalur          | 0       | 3       | 10      | 5       | 10      | 5.6     | P2   |
+| Tamilnadu   | Kanyakumari        | 3       | 3       | 5       | 5       | 10      | 5.2     | P2   |
+| A\&N Island | A & N islands      | 3       | 3       | 7       | -       | -       | 4.3     | P3   |
+| Dadra       | Dadra & Nagar      | 3       | 3       | 7       | 0       | -       | 3.3     | P3   |
+| Gujarat     | Ahmedabad          | 0       | 3       | 10      | -       | -       | 4.3     | P3   |
+| Gujarat     | Anand              | 3       | 3       | 7       | -       | -       | 4.3     | P3   |
+| Gujarat     | Surat              | 0       | 3       | 7       | 7       | -       | 4.3     | P3   |
+| Gujarat     | Navsari            | 0       | 3       | 7       | 7       | -       | 4.3     | P3   |
+| Gujarat     | Valsad             | 0       | 3       | 7       | 7       | -       | 4.3     | P3   |
+| Gujarat     | Bharuch            | 0       | 3       | 7       | -       | -       | 3.3     | P3   |
+| Goa         | North Goa          | 3       | 3       | 5       | 7       | -       | 4.5     | P3   |
+| Goa         | South Goa          | 3       | 3       | 5       | 7       | -       | 4.5     | P3   |
+| Karnataka   | Udupi              | 0       | 3       | 5       | 7       | -       | 37      | P3   |
+| Karnataka   | Uttar Kannada      | 0       | 3       | 5       | 7       | -       | 3.7     | P3   |
+| Karnataka   | Dakshin Kannada    | 0       | 3       | 5       | 7       | -       | 3.7     | P3   |
+| Kerala      | Kozhikode          | 3       | 3       | 5       | 7       | -       | 4.5     | P3   |
+| Kerala      | Malappuram         | 0       | 3       | 5       | 7       | -       | 3.7     | P3   |
+| Kerala      | Thrissur           | 0       | 3       | 5       | 7       | -       | 3.7     | P3   |
+| Kerala      | Kasargod           | 0       | 3       | 5       | 5       | -       | 3.3     | P3   |
+| Kerala      | Kannur             | 0       | 3       | 5       | 5       | -       | 3.3     | P3   |
+| Kerala      | Ernakulam          | 0       | 3       | 5       | 5       | -       | 3.3     | P3   |
+| Kerala      | Alappuzha          | 0       | 3       | 5       | 5       | -       | 3.3     | P3   |
+| Kerala      | Kollam             | 0       | 3       | 5       | 5       | -       | 3.3     | P3   |
+| Kerala      | Thiruvananthapuram | 0       | 3       | 5       | 5       | -       | 3.3     | P3   |
+| Lakshadweep | Lakshadweep        | 3       | 3       | 5       | -       | -       | 3.7     | P3   |
+| Maharastra  | Thane              | 3       | 3       | 7       | 7       | -       | 5       | P3   |
+| Maharastra  | Mumbai suburban    | 3       | 3       | 7       | 7       | -       | 5       | P3   |
+| Maharastra  | Ratnagiri          | 3       | 3       | 7       | 5       | -       | 4.5     | P3   |
+| Maharastra  | Raigarh            | 0       | 3       | 7       | 7       | -       | 4.3     | P3   |
+| Maharastra  | Sindhudurg         | 3       | 3       | 5       | 4       | -       | 3.7     | P3   |
+|             | Total              |         |         |         |         | 69      |         |      |
+
+
+ 
+
+
+# Table 10. Different cyclone parameters for districts of India not touching the coast
+
+| State       | District         | No. of severe cyclones | Total no. of cyclones | Wind speed | PMSS | PMP |
+| ----------- | ---------------- | ---------------------- | --------------------- | ---------- | ---- | --- |
+| Gujarat     | Rajkot           | 1                      | 3                     | 44-50      | 0    | 72  |
+|             | Sunder Nagar     | 2                      | 2                     | 39-50      | 0    | 56  |
+|             | Kheda            | 0                      | 0                     | 44-47      | 0    | 52  |
+|             | Vadodara         | 0                      | 0                     | 44-47      | 0    | 64  |
+| Kerala      | Wayand           | 0                      | 0                     | 33-39      | 0    | 52  |
+|             | Palakkad         | 0                      | 0                     | 39         | 0    | 52  |
+|             | Kottayam         | 0                      | 0                     | 39         | 0    | 48  |
+|             | Idukki           | 1                      | 1                     | 39         | 0    | 52  |
+|             | Pathanamthita    | 1                      | 1                     | 39         | 0    | 48  |
+| Orissa      | Mayurbhanj       | 1                      | 10                    | 47-50      | 0    | 56  |
+|             | Jajpur           | 0                      | 2                     | 50         | 0    | 60  |
+|             | Keonjhar         | 0                      | 5                     | 47-50      | 0    | 52  |
+|             | Dhenkanal        | 0                      | 3                     | 44-50      | 0    | 44  |
+|             | Cuttack          | 1                      | 4                     | 44-50      | 0    | 52  |
+|             | Nayagarh         | 1                      | 7                     | 44-50      | 0    | 52  |
+|             | Gajapati         | 0                      | 1                     | 39-50      | 0    | 52  |
+| Tamil Nadu  | Tiruvannamalai   | 0                      | 2                     | 39-50      | 0    | 40  |
+|             | Ariyalur         | 0                      | 4                     | 44         | 0    | 52  |
+|             | Sivaganga        | 0                      | 3                     | 39-44      | 0    | 40  |
+| West Bengal | North 24 Pargana | 11                     | 23                    | 50         | 0    | 52  |
+|             | Howrah           | 12                     | 23                    | 50         | 0    | 50  |
+|             | Hoogli           | 3                      | 11                    | 47         | 0    | 52  |
+|             | Bardhaman        | 0                      | 10                    | 47         | 0    | 56  |
+|             | Kolkata          | 12                     | 23                    | 50         | 0    | 52  |
+| Total       |                  |                        |                       | 24         |      |     |
+
+
+ 
+
+
+# Table 11. Proposed cyclone prone districts of India not touching the coast
+
+| State       | Districts        | No. of severe cyclones | Total no. of cyclones | Wind speed | PMSS | PMP | Mean rating | Category of Proneness |
+| ----------- | ---------------- | ---------------------- | --------------------- | ---------- | ---- | --- | ----------- | --------------------- |
+| West Bengal | North 24 Pargana | 10                     | 10                    | 10         | 10   | 10  | 10          | P1                    |
+| West Bengal | Howrah           | 10                     | 10                    | 10         | 7    | 10  | 9.4         | P1                    |
+| West Bengal | Kolkata          | 10                     | 10                    | 10         | 0    | 10  | 8.0         | P1                    |
+| Orissa      | Mayurbhanj       | 3                      | 7                     | 10         | 0    | 10  | 6           | P2                    |
+| Orissa      | Cuttack          | 3                      | 3                     | 10         | 0    | 10  | 5.2         | P2                    |
+| Orissa      | Nayagarh         | 3                      | 5                     | 10         | 0    | 10  | 5.6         | P2                    |
+| Orissa      | Keonjhar         | 3                      | 10                    | 10         | 0    | 10  | 6.6         | P2                    |
+| West Bengal | Hoogli           | 3                      | 7                     | 10         | 0    | 10  | 6           | P2                    |
+| Gujarat     | Rajkot           | 3                      | 3                     | 10         | 0    | ‑   | 4           | P3                    |
+| Orissa      | Jajpur           | 0                      | 3                     | 10         | 0    | 10  | 4.6         | P3                    |
+| Orissa      | Dhenkanal        | 0                      | 3                     | 10         | 0    | 10  | 4.6         | P3                    |
+| Orissa      | Gajapati         | 0                      | 3                     | 7          | 0    | 10  | 4           | P3                    |
+| Tamilnadu   | Tiruvannamalai   | 0                      | 3                     | 5          | 0    | 10  | 3.6         | P3                    |
+| Tamilnadu   | Ariyalur         | 0                      | 3                     | 5          | 0    | 10  | 3.6         | P3                    |
+| Tamilnadu   | Sivaganga        | 0                      | 3                     | 5          | 0    | 10  | 3.6         | P3                    |
+| West Bengal | Bardhaman        | 0                      | 5                     | 7          | 0    | 10  | 4.4         | P3                    |
+| Gujarat     | Sunder Nagar     | 0                      | 3                     | 7          | 0    | ‑   | 2.5         | P4                    |
+| Gujarat     | Kheda            | 0                      | 0                     | 7          | 0    | ‑   | 1.7         | P4                    |
+| Gujarat     | Vadodara         | 0                      | 0                     | 7          | 0    | ‑   | 1.7         | P4                    |
+| Kerala      | Wayand           | 0                      | 0                     | 3          | 0    | ‑   | 0.7         | P4                    |
+| Kerala      | Palakkad         | 0                      | 0                     | 5          | 0    | ‑   | 1.3         | P4                    |
+| Kerala      | Kottayam         | 0                      | 0                     | 5          | 0    | ‑   | 1.3         | P4                    |
+| Kerala      | Idukki           | 0                      | 3                     | 5          | 0    | ‑   | 2           | P4                    |
+| Kerala      | Pathanamthita    | 0                      | 3                     | 5          | 0    | ‑   | 2           | P4                    |
+| Total       |                  |                        |                       |            |      |     |             | 24                    |
+
+
+ 
+# Table 12. Proposed cyclone prone districts of India
+
+| State        | Districts        | No. of severe cyclones | Total no. of cyclones | Wind speed | PMSS | PMP | Mean rating | Category of Proneness |
+| ------------ | ---------------- | ---------------------- | --------------------- | ---------- | ---- | --- | ----------- | --------------------- |
+| AP           | Nellore          | 7                      | 10                    | 10         | 7    | 10  | 8.8         | P1                    |
+| AP           | East Godavari    | 5                      | 10                    | 10         | 7    | 10  | 8.4         | P1                    |
+| AP           | Srikakulam       | 5                      | 7                     | 10         | 5    | 10  | 7.4         | P1                    |
+| AP           | Guntur           | 3                      | 3                     | 10         | 10   | 10  | 7.2         | P1                    |
+| Orissa       | Balasore         | 5                      | 10                    | 10         | 10   | 10  | 9           | P1                    |
+| Orissa       | Kendrapara       | 5                      | 10                    | 10         | 10   | 10  | 9           | P1                    |
+| Orissa       | Bhadrak          | 3                      | 7                     | 10         | 10   | 10  | 8           | P1                    |
+| Orissa       | Jagatsinghpur    | 3                      | 7                     | 10         | 7    | 10  | 7.4         | P1                    |
+| Orissa       | Ganjam           | 5                      | 7                     | 10         | 5    | 10  | 7.4         | P1                    |
+| Tamilnadu    | Kanchipuram      | 7                      | 7                     | 10         | 5    | 10  | 7.8         | P1                    |
+| West Bengal  | South 24‑pargana | 10                     | 10                    | 10         | 10   | 10  | 10          | P1                    |
+| West Bengal  | Medinipur        | 7                      | 10                    | 10         | 10   | 10  | 9.4         | P1                    |
+| West Bengal  | North 24 Pargana | 10                     | 10                    | 10         | 10   | 10  | 10          | P1                    |
+| West Bengal  | Howrah           | 10                     | 10                    | 10         | 7    | 10  | 9.4         | P1                    |
+| West Bengal  | Kolkata          | 10                     | 10                    | 10         | 0    | 10  | 8.0         | P1                    |
+| AP           | Visakhapatnam    | 5                      | 5                     | 10         | 5    | 10  | 7           | P2                    |
+| AP           | Krishna          | 3                      | 5                     | 10         | 7    | 10  | 7           | P2                    |
+| AP           | West Godavari    | 3                      | 3                     | 10         | 7    | 10  | 6.6         | P2                    |
+| AP           | Prakasam         | 3                      | 3                     | 10         | 7    | 10  | 6.6         | P2                    |
+| AP           | Vizianagaram     | 0                      | 3                     | 10         | 5    | 10  | 5.6         | P2                    |
+| Daman        | Daman            | 3                      | 3                     | 10         | 7    | ‑   | 5.7         | P2                    |
+| DIU          | Diu              | 5                      | 5                     | 10         | 5    | ‑   | 6.3         | P2                    |
+| Gujarat      | Junagadh         | 5                      | 5                     | 10         | 5    | ‑   | 6.3         | P2                    |
+| Gujarat      | Kachchh          | 3                      | 5                     | 10         | 5    | ‑   | 5.7         | P2                    |
+| Gujarat      | Bhavnagar        | 3                      | 3                     | 10         | 7    | ‑   | 5.7         | P2                    |
+| Gujarat      | Jamnagar         | 3                      | 3                     | 10         | 5    | ‑   | 5.3         | P2                    |
+| Gujarat      | Porbandar        | 3                      | 3                     | 10         | 5    | ‑   | 5.3         | P2                    |
+| Gujarat      | Amreli           | 3                      | 3                     | 10         | 5    | ‑   | 5.3         | P2                    |
+| Orissa       | Puri             | 3                      | 5                     | 10         | 5    | 10  | 6.6         | P2                    |
+| Orissa       | Khordha          | 0                      | 3                     | 10         | 5    | 10  | 5.6         | P2                    |
+| Orissa       | Keonjhar         | 3                      | 10                    | 0          | 10   | 10  | 6.6         | P2                    |
+| Pudduchcheri | Pudukkottai      | 3                      | 3                     | 7          | 10   | 10  | 6.6         | P2                    |
+| Pudduchcheri | Karaikal         | 3                      | 3                     | 10         | 5    | 10  | 6.2         | P2                    |
+
+ 
+
+# State-wise Data
+
+| State       | District           | Value 1 | Value 2 | Value 3 | Value 4 | Value 5 | Value 6 |
+| ----------- | ------------------ | ------- | ------- | ------- | ------- | ------- | ------- |
+| Tamilnadu   | Cuddalore          | 5       | 5       | 10      | 5       | 10      | 7       |
+| Tamilnadu   | Tiruvarur          | 3       | 5       | 7       | 7       | 10      | 6.4     |
+| Tamilnadu   | Nagappattinam      | 3       | 5       | 7       | 7       | 10      | 6.4     |
+| Tamilnadu   | Chennai            | 3       | 3       | 10      | 5       | 10      | 6.2     |
+| Tamilnadu   | Viluppuram         | 3       | 3       | 10      | 5       | 10      | 6.2     |
+| Tamilnadu   | Ramanathapuram     | 3       | 3       | 5       | 10      | 10      | 6.2     |
+| Tamilnadu   | Toothukudi         | 3       | 3       | 5       | 10      | 10      | 6.2     |
+| Tamilnadu   | Tirunelveli        | 3       | 3       | 5       | 10      | 10      | 6.2     |
+| Tamilnadu   | Thanjavur          | 3       | 3       | 7       | 7       | 10      | 6       |
+| Tamilnadu   | Tiruvalur          | 0       | 3       | 10      | 5       | 10      | 5.6     |
+| Tamilnadu   | Kanyakumari        | 3       | 3       | 5       | 5       | 10      | 5.2     |
+| Orissa      | Mayurbhanj         | 3       | 7       | 10      | 0       | 10      | 6       |
+| Orissa      | Cuttack            | 3       | 3       | 10      | 0       | 10      | 5.2     |
+| Orissa      | Nayagarh           | 3       | 5       | 10      | 0       | 10      | 5.6     |
+| West Bengal | Hoogli             | 3       | 7       | 10      | 0       | 10      | 6       |
+| A\&N Island | A & N islands      | 3       | 3       | 7       | ‑       | ‑       | 4.3     |
+| Dadra       | Dadra & Nagar      | 3       | 3       | 7       | 0       | ‑       | 3.3     |
+| Gujarat     | Ahmedabad          | 0       | 3       | 10      | ‑       | ‑       | 4.3     |
+| Gujarat     | Anand              | 3       | 3       | 7       | ‑       | ‑       | 4.3     |
+| Gujarat     | Surat              | 0       | 3       | 7       | 7       | ‑       | 4.3     |
+| Gujarat     | Navsari            | 0       | 3       | 7       | 7       | ‑       | 4.3     |
+| Gujarat     | Valsad             | 0       | 3       | 7       | 7       | ‑       | 4.3     |
+| Gujarat     | Bharuch            | 0       | 3       | 7       | ‑       | ‑       | 3.3     |
+| Goa         | North Goa          | 3       | 3       | 5       | 7       | ‑       | 4.5     |
+| Goa         | South Goa          | 3       | 3       | 5       | 7       | ‑       | 4.5     |
+| Karnataka   | Udupi              | 0       | 3       | 5       | 7       | ‑       | 37      |
+| Karnataka   | Uttar kannada      | 0       | 3       | 5       | 7       | ‑       | 3.7     |
+| Karnataka   | Dakshin kannada    | 0       | 3       | 5       | 7       | ‑       | 3.7     |
+| Kerala      | Kozhikode          | 3       | 3       | 5       | 7       | ‑       | 4.5     |
+| Kerala      | Malappuram         | 0       | 3       | 5       | 7       | ‑       | 3.7     |
+| Kerala      | Thrissur           | 0       | 3       | 5       | 7       | ‑       | 3.7     |
+| Kerala      | Kasargod           | 0       | 3       | 5       | 5       | ‑       | 3.3     |
+| Kerala      | Kannur             | 0       | 3       | 5       | 5       | ‑       | 3.3     |
+| Kerala      | Ernakulam          | 0       | 3       | 5       | 5       | ‑       | 3.3     |
+| Kerala      | Alappuzha          | 0       | 3       | 5       | 5       | ‑       | 3.3     |
+| Kerala      | Kollam             | 0       | 3       | 5       | 5       | ‑       | 3.3     |
+| Kerala      | Thiruvananthapuram | 0       | 3       | 5       | 5       | ‑       | 3.3     |
+| Lakshadweep | Lakshadweep        | 3       | 3       | 5       | ‑       | ‑       | 3.7     |
+| Maharastra  | Thane              | 3       | 3       | 7       | 7       | ‑       | 5       |
+
+
+ 
+
+# Statewise Data
+
+| State       | District        | Column 1 | Column 2 | Column 3 | Column 4 | Column 5 | Column 6 |
+| ----------- | --------------- | -------- | -------- | -------- | -------- | -------- | -------- |
+| Maharastra  | Mumbai suburban | 3        | 3        | 7        | 7        | -        | 5        |
+| Maharastra  | Ratnagiri       | 3        | 3        | 7        | 5        | -        | 4.5      |
+| Maharastra  | Raigarh         | 0        | 3        | 7        | 7        | -        | 4.3      |
+| Maharastra  | Sindhudurg      | 3        | 3        | 5        | 4        | -        | 3.7      |
+| Gujarat     | Rajkot          | 3        | 3        | 10       | 0        | -        | 4        |
+| Orissa      | Jajpur          | 0        | 3        | 10       | 0        | 10       | 4.6      |
+| Orissa      | Dhenkanal       | 0        | 3        | 10       | 0        | 10       | 4.6      |
+| Orissa      | Gajapati        | 0        | 3        | 7        | 0        | 10       | 4        |
+| Tamilnadu   | Tiruvannamalai  | 0        | 3        | 5        | 0        | 10       | 3.6      |
+| Tamilnadu   | Ariyalur        | 0        | 3        | 5        | 0        | 10       | 3.6      |
+| Tamilnadu   | Sivaganga       | 0        | 3        | 5        | 0        | 10       | 3.6      |
+| West Bengal | Bardhaman       | 0        | 5        | 7        | 0        | 10       | 4.4      |
+| Gujarat     | Sunder Nagar    | 0        | 3        | 7        | 0        | -        | 2.5      |
+| Gujarat     | Kheda           | 0        | 0        | 7        | 0        | -        | 2.3      |
+| Gujarat     | Vadodara        | 0        | 0        | 7        | 0        | -        | 2.3      |
+| Kerala      | Wayand          | 0        | 0        | 3        | 0        | -        | 0.75     |
+| Kerala      | Palakkad        | 0        | 0        | 5        | 0        | -        | 1.3      |
+| Kerala      | Kottayam        | 0        | 0        | 5        | 0        | -        | 1.3      |
+| Kerala      | Idukki          | 0        | 3        | 5        | 0        | -        | 2        |
+| Kerala      | Pathanamthita   | 0        | 3        | 5        | 0        | -        | 2        |
+| Total       |                 |          |          |          |          |          | 93       |
+
+
+ 
+
+# Table 13. Cyclone parameters for districts of India touching the coast
+
+| State          | Districts            | No. of severe cyclones | Total no. of cyclones | Wind speed (knot) | PMSS (metre) | PMP (cm) |
+| -------------- | -------------------- | ---------------------- | --------------------- | ----------------- | ------------ | -------- |
+| A\&N Island    | A & N Islands        | 2                      | 2                     | 90                | -            | N/A      |
+| Andhra Pradesh | Nellore              | 8                      | 18                    | 110               | 4.5          | 60       |
+| Andhra Pradesh | East Godavari        | 4                      | 17                    | 125               | 4.5          | 52       |
+| Andhra Pradesh | Srikakulam           | 5                      | 12                    | 100               | 4            | 56       |
+| Andhra Pradesh | Guntur               | 0                      | 0                     | 127               | 7.5          | 56       |
+| Andhra Pradesh | Visakhapatnam        | 4                      | 7                     | 125               | 4            | 52       |
+| Andhra Pradesh | Krishna              | 3                      | 10                    | 127               | 5.5          | 56       |
+| Andhra Pradesh | West Godavari        | 1                      | 3                     | 127               | 5            | 52       |
+| Andhra Pradesh | Prakasam             | 3                      | 5                     | 115               | 6            | 52       |
+| Andhra Pradesh | Vizianagaram         | 0                      | 2                     | 94                | 4            | 52       |
+| Dadra & Nagar  | Dadra & Nagar Haveli | 1                      | 1                     | 55                | -            | 80       |
+| Daman          | Daman                | 1                      | 1                     | 55                | 5            | 80       |
+| Diu            | Diu                  | 4                      | 8                     | 90                | 3.5          | 80       |
+| Goa            | North Goa            | 0                      | 0                     | 55                | 4.5          | 64       |
+| Goa            | South Goa            | 0                      | 0                     | 55                | 4.5          | 64       |
+| Gujarat        | Junagadh             | 4                      | 8                     | 90                | 3.5          | 84       |
+| Gujarat        | Kachchh              | 3                      | 7                     | 90                | 3.5          | 60       |
+| Gujarat        | Bhavnagar            | 1                      | 1                     | 90                | 4.5          | 56       |
+| Gujarat        | Jamnagar             | 1                      | 2                     | 90                | 3.5          | 72       |
+| Gujarat        | Porbandar            | 2                      | 2                     | 90                | 3.5          | 84       |
+| Gujarat        | Amreli               | 1                      | 1                     | 90                | 4            | 56       |
+| Gujarat        | Ahmedabad            | 0                      | 0                     | 90                | -            | 60       |
+| Gujarat        | Anand                | 1                      | 1                     | 70                | -            | 52       |
+| Gujarat        | Surat                | 0                      | 0                     | 45                | 4.5          | 88       |
+| Gujarat        | Navsari              | 0                      | 1                     | 70                | 4.5          | 88       |
+| Gujarat        | Valsad               | 0                      | 0                     | 45                | 5            | 104      |
+| Gujarat        | Bharuch              | 0                      | 3                     | 70                | -            | 72       |
+| Karnataka      | Udupi                | 0                      | 0                     | 45                | 4.5          | 84       |
+| Karnataka      | Uttar Kannada        | 0                      | 0                     | 45                | 4.5          | 68       |
+| Karnataka      | Dakshin Kannada      | 0                      | 0                     | 45                | 4.5          | 92       |
+| Kerala         | Kozhikode            | 1                      | 1                     | 55                | 4.5          | 60       |
+| Kerala         | Malappuram           | 0                      | 1                     | 45                | 4.5          | 60       |
+| Kerala         | Thrissur             | 0                      | 0                     | 45                | 4.5          | 52       |
+| Kerala         | Kasargod             | 0                      | 0                     | 45                | 4            | 48       |
+| Kerala         | Kannur               | 0                      | 0                     | 45                | 4            | 60       |
+| Kerala         | Ernakulam            | 0                      | 0                     | 45                | 4            | 44       |
+| Kerala         | Alappuzha            | 0                      | 0                     | 45                | 4            | 40       |
+| Kerala         | Kollam               | 0                      | 0                     | 45                | 3.5          | 44       |
+| Kerala         | Thiruvananthapuram   | 0                      | 0                     | 45                | 3            | 48       |
+| Lakshadweep    | Lakshadweep          | 1                      | 2                     | 90                | ‑            | N/A      |
+| Maharastra     | Thane                | 1                      | 1                     | 55                | 5            | 72       |
+
+
+ 
+
+# Statewise Data
+
+| State       | District         | Column 1 | Column 2 | Column 3 | Column 4 | Column 5 |
+| ----------- | ---------------- | -------- | -------- | -------- | -------- | -------- |
+| Maharastra  | Mumbai suburban  | 1        | 1        | 55       | 5        | 95       |
+| Maharastra  | Ratnagiri        | 1        | 1        | 55       | 4        | 64       |
+| Maharastra  | Raigarh          | 0        | 1        | 55       | 5        | 72       |
+| Maharastra  | Sindhudurg       | 1        | 1        | 55       | 4        | 72       |
+| Orissa      | Balasore         | 5        | 28       | 75       | 11       | 60       |
+| Orissa      | Kendrapara       | 4        | 16       | 140      | 8.5      | 60       |
+| Orissa      | Bhadrak          | 3        | 15       | 65       | 9.5      | 60       |
+| Orissa      | Jagatsinghpur    | 4        | 14       | 140      | 6.5      | 60       |
+| Orissa      | Ganjam           | 5        | 11       | 100      | 4        | 48       |
+| Orissa      | Puri             | 1        | 6        | 140      | 4        | 60       |
+| Orissa      | Khordha          | 0        | 4        | 100      | 4        | 52       |
+| Puducheri   | Pudukkottai      | 1        | 1        | 55       | 7        | 52       |
+| Puducheri   | Karaikal         | 0        | 0        | 90       | 3.5      | 52       |
+| Tamilnadu   | Kanchipuram      | 8        | 13       | 55       | 3.5      | 68       |
+| Tamilnadu   | Cuddalore        | 4        | 6        | 90       | 3.5      | 68       |
+| Tamilnadu   | Tiruvarur        | 3        | 6        | 90       | 5.5      | 60       |
+| Tamilnadu   | Nagappattinam    | 3        | 10       | 90       | 4.5      | 68       |
+| Tamilnadu   | Chennai          | 0        | 0        | 95       | 3.5      | 52       |
+| Tamilnadu   | Viluppuram       | 3        | 3        | 77       | 3.5      | 68       |
+| Tamilnadu   | Ramanathapuram   | 1        | 2        | 55       | 12       | 48       |
+| Tamilnadu   | Toothukudi       | 1        | 1        | 55       | 7        | 52       |
+| Tamilnadu   | Tirunelveli      | 3        | 3        | 55       | 7        | 48       |
+| Tamilnadu   | Thanjavur        | 1        | 2        | 90       | 5.5      | 48       |
+| Tamilnadu   | Tiruvalur        | 0        | 5        | 95       | 4.0      | 56       |
+| Tamilnadu   | Kanyakumari      | 0        | 0        | 45       | 3        | 40       |
+| West Bengal | South 24-pargana | 16       | 29       | 115      | 12       | 52       |
+| West Bengal | Medinipur        | 8        | 16       | 115      | 13       | 56       |
+| Total       |                  | 69       |          |          |          |          |
+
+
+ 
+| State        | Districts        | No. of severe cyclones | Total no. of cyclones | Wind speed | PMSS rating | Mean Proneness | Category of Proneness |
+| ------------ | ---------------- | ---------------------- | --------------------- | ---------- | ----------- | -------------- | --------------------- |
+| AP           | Nellore          | 7                      | 10                    | 10         | 7           | 8.5            | P1                    |
+| AP           | East Godavari    | 5                      | 10                    | 10         | 7           | 8.0            | P1                    |
+| Orissa       | Balasore         | 5                      | 10                    | 7          | 10          | 8              | P1                    |
+| Orissa       | Kendrapara       | 5                      | 10                    | 10         | 10          | 8.7            | P1                    |
+| Orissa       | Jagatsinghpur    | 5                      | 7                     | 10         | 7           | 7.1            | P1                    |
+| West Bengal  | South 24‑pargana | 10                     | 10                    | 10         | 10          | 10             | P1                    |
+| West Bengal  | Medinipur        | 7                      | 10                    | 10         | 10          | 9.3            | P1                    |
+| AP           | Srikakulam       | 5                      | 7                     | 10         | 5           | 6.7            | P2                    |
+| AP           | Guntur           | 3                      | 3                     | 10         | 10          | 6.5            | P2                    |
+| AP           | Visakhapatnam    | 5                      | 5                     | 10         | 5           | 6.3            | P2                    |
+| AP           | Krishna          | 3                      | 5                     | 10         | 7           | 6.3            | P2                    |
+| AP           | West Godavari    | 3                      | 3                     | 10         | 7           | 5.7            | P2                    |
+| AP           | Prakasam         | 3                      | 3                     | 10         | 7           | 5.7            | P2                    |
+| Daman & Diu  | Diu              | 5                      | 5                     | 7          | 5           | 5.5            | P2                    |
+| Gujarat      | Junagadh         | 5                      | 5                     | 7          | 5           | 5.5            | P2                    |
+| Gujarat      | Porbandar        | 3                      | 3                     | 7          | 5           | 5.5            | P2                    |
+| Orissa       | Bhadrak          | 3                      | 7                     | 7          | 10          | 6.7            | P2                    |
+| Orissa       | Ganjam           | 5                      | 7                     | 10         | 5           | 6.7            | P2                    |
+| Orissa       | Puri             | 3                      | 5                     | 10         | 5           | 5.7            | P2                    |
+| Pudduchcheri | Pudukkottai      | 3                      | 3                     | 5          | 10          | 5.3            | P2                    |
+| Tamilnadu    | Cuddalore        | 5                      | 5                     | 7          | 5           | 5.5            | P2                    |
+| Tamilnadu    | Kanchipuram      | 7                      | 7                     | 5          | 5           | 6              | P2                    |
+| Tamilnadu    | Tiruvarur        | 3                      | 5                     | 7          | 7           | 5.5            | P2                    |
+| Tamilnadu    | Nagappattinam    | 3                      | 5                     | 7          | 7           | 5.5            | P2                    |
+| Tamilnadu    | Chennai          | 3                      | 3                     | 10         | 5           | 5.3            | P2                    |
+| Tamilnadu    | Ramanathapuram   | 3                      | 3                     | 5          | 10          | 5.3            | P2                    |
+| Tamilnadu    | Toothukudi       | 3                      | 3                     | 5          | 10          | 5.3            | P2                    |
+| Tamilnadu    | Tirunelveli      | 3                      | 3                     | 10         | 10          | 5.3            | P2                    |
+| AP           | Vizianagaram     | 0                      | 3                     | 10         | 5           | 4.5            | P3                    |
+| A\&N Island  | A & N islands    | 3                      | 3                     | 7          | ‑           | 4.3            | P3                    |
+| Gujarat      | Ahmedabad        | 0                      | 3                     | 7          | ‑           | 3.3            | P3                    |
+| Goa          | North goa        | 3                      | 3                     | 5          | 7           | 4.5            | P3                    |
+
+ 
+
+# State-wise Data
+
+| State        | District             | Column 1 | Column 2 | Column 3 | Column 4 | Column 5 | Page |
+| ------------ | -------------------- | -------- | -------- | -------- | -------- | -------- | ---- |
+| Goa          | South goa            | 3        | 3        | 5        | 7        | 4.5      | P3   |
+| Gujarat      | Kachchh              | 3        | 5        | 7        | 5        | 5        | P3   |
+| Gujarat      | Bhavnagar            | 3        | 3        | 7        | 7        | 5        | P3   |
+| Gujarat      | Amreli               | 3        | 3        | 7        | 5        | 4.5      | P3   |
+| Gujarat      | Jamnagar             | 3        | 3        | 7        | 5        | 4.5      | P3   |
+| Gujarat      | Anand                | 3        | 3        | 7        | -        | 4.3      | P3   |
+| Gujarat      | Navsari              | 0        | 3        | 7        | 7        | 4.3      | P3   |
+| Gujarat      | Valsad               | 0        | 3        | 3        | 7        | 3.3      | P3   |
+| Gujarat      | Bharuch              | 0        | 3        | 7        | -        | 3.3      | P3   |
+| Daman & Diu  | Daman                | 3        | 3        | 5        | 7        | 4.5      | P3   |
+| Karnataka    | Udupi                | 0        | 3        | 3        | 7        | 3.3      | P3   |
+| Karnataka    | Uttar Kannada        | 0        | 3        | 3        | 7        | 3.3      | P3   |
+| Karnataka    | Dakshin Kannada      | 0        | 3        | 3        | 7        | 3.3      | P3   |
+| Kerala       | Kozhikode            | 3        | 3        | 5        | 7        | 4.5      | P3   |
+| Kerala       | Malappuram           | 0        | 3        | 3        | 7        | 3.3      | P3   |
+| Kerala       | Thrissur             | 0        | 3        | 3        | 7        | 3.3      | P3   |
+| Lakshadweep  | Lakshadweep          | 3        | 3        | 7        | -        | 4.3      | P3   |
+| Maharastra   | Thane                | 3        | 3        | 5        | 7        | 4.5      | P3   |
+| Maharastra   | Mumbai suburban      | 3        | 3        | 5        | 7        | 4.5      | P3   |
+| Maharastra   | Ratnagiri            | 3        | 3        | 5        | 5        | 4        | P3   |
+| Maharastra   | Raigarh              | 0        | 3        | 5        | 7        | 3.7      | P3   |
+| Maharastra   | Sindhudurg           | 3        | 3        | 5        | 4        | 3.7      | P3   |
+| Orissa       | Khordha              | 0        | 3        | 10       | 5        | 4.5      | P3   |
+| Pudduchcheri | Karaikal             | 3        | 3        | 7        | 5        | 4.5      | P3   |
+| Tamilnadu    | Viluppuram           | 3        | 3        | 7        | 5        | 4.5      | P3   |
+| Tamilnadu    | Thanjavur            | 3        | 3        | 7        | 7        | 5        | P3   |
+| Tamilnadu    | Tiruvalur            | 0        | 3        | 7        | 5        | 3.7      | P3   |
+| Tamilnadu    | Kanyakumari          | 3        | 3        | 3        | 5        | 3.5      | P3   |
+| Dadra        | Dadra & Nagar Haveli | 3        | 3        | 5        | 0        | 2.7      | P4   |
+| Gujarat      | Surat                | 0        | 3        | 3        | 7        | 2.5      | P4   |
+| Kerala       | Kasargod             | 0        | 3        | 3        | 5        | 2.7      | P4   |
+| Kerala       | Kannur               | 0        | 3        | 3        | 5        | 2.7      | P4   |
+| Kerala       | Ernakulam            | 0        | 3        | 3        | 5        | 2.7      | P4   |
+| Kerala       | Alappuzha            | 0        | 3        | 3        | 5        | 2.7      | P4   |
+| Kerala       | Kollam               | 0        | 3        | 3        | 5        | 2.7      | P4   |
+| Kerala       | Thiruvananthapuram   | 0        | 3        | 3        | 5        | 2.7      | P4   |
+| Total        |                      | 69       |          |          |          |          |      |
+
+
+ 
+
+# Table 15. Different cyclone parameters for districts of India not touching the coast
+
+| State       | District         | No. of severe cyclones | Total no. of cyclones | Wind speed | PMSS | PMP |
+| ----------- | ---------------- | ---------------------- | --------------------- | ---------- | ---- | --- |
+| AP          | Chittor          | 8                      | 15                    | 95         | 0    |     |
+| Gujarat     | Rajkot           | 1                      | 3                     | 90         | 0    | 72  |
+|             | Sunder Nagar     | 2                      | 2                     | 55         | 0    | 56  |
+|             | Kheda            | 0                      | 0                     | 45         | 0    | 52  |
+|             | Vadodara         | 0                      | 0                     | 45         | 0    | 64  |
+| Kerala      | Wayand           | 0                      | 0                     | 55         | 0    | 52  |
+|             | Palakkad         | 0                      | 0                     | 55         | 0    | 52  |
+|             | Kottayam         | 0                      | 0                     | 45         | 0    | 48  |
+|             | Idukki           | 1                      | 1                     | 45         | 0    | 52  |
+|             | Pathanamthita    | 1                      | 1                     | 45         | 0    | 48  |
+| Orissa      | Mayurbhanj       | 1                      | 10                    | 55         | 0    | 56  |
+|             | Jajpur           | 0                      | 2                     | 65         | 0    | 60  |
+|             | Keonjhar         | 0                      | 5                     | 45         | 0    | 52  |
+|             | Dhenkanal        | 0                      | 3                     | 45         | 0    | 44  |
+|             | Cuttack          | 1                      | 4                     | 140        | 0    | 52  |
+|             | Nayagarh         | 1                      | 7                     | 65         | 0    | 52  |
+|             | Gajapati         | 0                      | 1                     | 100        | 0    | 52  |
+| Tamil Nadu  | Tiruvannamalai   | 0                      | 2                     | 55         | 0    | 40  |
+|             | Ariyalur         | 0                      | 4                     | 45         | 0    | 52  |
+|             | Sivaganga        | 0                      | 3                     | 55         | 0    | 40  |
+| West Bengal | North 24 Pargana | 11                     | 23                    | 115        | 0    | 52  |
+|             | Howrah           | 12                     | 23                    | 115        | 0    | 50  |
+|             | Hoogli           | 3                      | 11                    | 65         | 0    | 52  |
+|             | Bardhaman        | 0                      | 10                    | 45         | 0    | 56  |
+|             | Kolkata          | 12                     | 23                    | 115        | 0    | 52  |
+| Total       |                  | 25                     |                       |            |      |     |
+
+
+ 
+
+
+# Table 16. Proposed cyclone prone districts of India not touching the coast
+
+| State       | Districts      | No. of severe cyclones | Total no. of cyclones | Wind speed | PMSS rating | Mean rating | Category of Proneness |
+| ----------- | -------------- | ---------------------- | --------------------- | ---------- | ----------- | ----------- | --------------------- |
+| West Bengal | Pargana        | 10                     | 10                    | 10         | 10          | 10          | P1                    |
+| West Bengal | Howrah         | 10                     | 10                    | 10         | 7           | 9.3         | P1                    |
+| West Bengal | Kolkata        | 10                     | 10                    | 10         | 0           | 7.5         | P1                    |
+| AP          | Chittor        | 7                      | 7                     | 10         | 0           | 6           | P2                    |
+| Orissa      | Mayurbhanj     | 3                      | 7                     | 5          | 0           | 3.7         | P3                    |
+| Orissa      | Cuttack        | 3                      | 3                     | 10         | 0           | 4           | P3                    |
+| Orissa      | Nayagarh       | 3                      | 5                     | 7          | 0           | 3.7         | P3                    |
+| Orissa      | Keonjhar       | 3                      | 10                    | 3          | 0           | 4           | P3                    |
+| West Bengal | Hoogli         | 3                      | 7                     | 7          | 0           | 4.3         | P3                    |
+| Gujarat     | Rajkot         | 3                      | 3                     | 7          | 0           | 3.3         | P3                    |
+| Orissa      | Jajpur         | 0                      | 3                     | 7          | 0           | 2.5         | P4                    |
+| Orissa      | Dhenkanal      | 0                      | 3                     | 3          | 0           | 1.5         | P4                    |
+| Orissa      | Gajapati       | 0                      | 3                     | 10         | 0           | 2.5         | P4                    |
+| Tamilnadu   | Tiruvannamalai | 0                      | 3                     | 5          | 0           | 2           | P4                    |
+| Tamilnadu   | Ariyalur       | 0                      | 3                     | 3          | 0           | 1.5         | P4                    |
+| Tamilnadu   | Sivaganga      | 0                      | 3                     | 5          | 0           | 2           | P4                    |
+| West Bengal | Bardhaman      | 0                      | 5                     | 3          | 0           | 2           | P4                    |
+| Gujarat     | Sunder Nagar   | 0                      | 3                     | 5          | 0           | 2           | P4                    |
+| Gujarat     | Kheda          | 0                      | 0                     | 3          | 0           | 0.7         | P4                    |
+| Gujarat     | Vadodara       | 0                      | 0                     | 3          | 0           | 0.7         | P4                    |
+| Kerala      | Wayand         | 0                      | 0                     | 5          | 0           | 1.3         | P4                    |
+| Kerala      | Palakkad       | 0                      | 0                     | 5          | 0           | 1.3         | P4                    |
+| Kerala      | Kottayam       | 0                      | 0                     | 3          | 0           | 0.7         | P4                    |
+| Kerala      | Idukki         | 0                      | 3                     | 3          | 0           | 1.5         | P4                    |
+| Kerala      | Pathanamthita  | 0                      | 3                     | 3          | 0           | 1.5         | P4                    |
+| Total       |                |                        |                       |            |             | 25          |                       |
+
+
+ 
+| State       | Districts        | No. of severe cyclones | Total no. of cyclones | Wind speed | PMSS rating | Mean Proneness | Category of Proneness |
+| ----------- | ---------------- | ---------------------- | --------------------- | ---------- | ----------- | -------------- | --------------------- |
+| AP          | Nellore          | 7                      | 10                    | 10         | 7           | 8.5            | P1                    |
+| AP          | East Godavari    | 5                      | 10                    | 10         | 7           | 8.0            | P1                    |
+| Orissa      | Balasore         | 5                      | 10                    | 7          | 10          | 8              | P1                    |
+| Orissa      | Kendrapara       | 5                      | 10                    | 10         | 10          | 8.7            | P1                    |
+| Orissa      | Jagatsinghpur    | 5                      | 7                     | 10         | 7           | 7.1            | P1                    |
+| West Bengal | South 24‑pargana | 10                     | 10                    | 10         | 10          | 10             | P1                    |
+| West Bengal | Medinipur        | 7                      | 10                    | 10         | 10          | 9.3            | P1                    |
+| West Bengal | North 24 Pargana | 10                     | 10                    | 10         | 10          | 10             | P1                    |
+| West Bengal | Howrah           | 10                     | 10                    | 10         | 7           | 9.3            | P1                    |
+| West Bengal | Kolkata          | 10                     | 10                    | 10         | 0           | 7.5            | P1                    |
+| AP          | Srikakulam       | 5                      | 7                     | 10         | 5           | 6.7            | P2                    |
+| AP          | Guntur           | 3                      | 3                     | 10         | 10          | 6.5            | P2                    |
+| AP          | Visakhapatnam    | 5                      | 5                     | 10         | 5           | 6.3            | P2                    |
+| AP          | Krishna          | 3                      | 5                     | 10         | 7           | 6.3            | P2                    |
+| AP          | West Godavari    | 3                      | 3                     | 10         | 7           | 5.7            | P2                    |
+| AP          | Prakasam         | 3                      | 3                     | 10         | 7           | 5.7            | P2                    |
+| AP          | Chittor          | 7                      | 7                     | 10         | 0           | 6              | P2                    |
+| Daman & Diu | Diu              | 5                      | 5                     | 7          | 5           | 5.5            | P2                    |
+| Gujarat     | Junagadh         | 5                      | 5                     | 7          | 5           | 5.5            | P2                    |
+| Gujarat     | Porbandar        | 3                      | 3                     | 7          | 5           | 5.5            | P2                    |
+| Orissa      | Bhadrak          | 3                      | 7                     | 7          | 10          | 6.7            | P2                    |
+| Orissa      | Ganjam           | 5                      | 7                     | 10         | 5           | 6.7            | P2                    |
+| Orissa      | Puri             | 3                      | 5                     | 10         | 5           | 5.7            | P2                    |
+| Pudduchery  | Pudukkottai      | 3                      | 3                     | 5          | 10          | 5.3            | P2                    |
+| Tamilnadu   | Cuddalore        | 5                      | 5                     | 7          | 5           | 5.5            | P2                    |
+| Tamilnadu   | Kanchipuram      | 7                      | 7                     | 5          | 5           | 6              | P2                    |
+| Tamilnadu   | Tiruvarur        | 3                      | 5                     | 7          | 7           | 5.5            | P2                    |
+| Tamilnadu   | Nagappattinam    | 3                      | 5                     | 7          | 7           | 5.5            | P2                    |
+| Tamilnadu   | Chennai          | 3                      | 3                     | 10         | 5           | 5.3            | P2                    |
+| Tamilnadu   | Ramanathapuram   | 3                      | 3                     | 5          | 10          | 5.3            | P2                    |
+| Tamilnadu   | Toothukudi       | 3                      | 3                     | 5          | 10          | 5.3            | P2                    |
+| Tamilnadu   | Tirunelveli      | 3                      | 3                     | 10         | 10          | 5.3            | P2                    |
+
+ 
+
+# State-wise Data
+
+| State        | District        | Column 1 | Column 2 | Column 3 | Column 4 | Column 5 |
+| ------------ | --------------- | -------- | -------- | -------- | -------- | -------- |
+| AP           | Vizianagaram    | 0        | 3        | 10       | 5        | 4.5      |
+| A\&N Island  | A & N islands   | 3        | 3        | 7        | -        | 4.3      |
+| Gujarat      | Ahmedabad       | 0        | 3        | 7        | -        | 3.3      |
+| Goa          | North Goa       | 3        | 3        | 5        | 7        | 4.5      |
+| Goa          | South Goa       | 3        | 3        | 5        | 7        | 4.5      |
+| Gujarat      | Kachchh         | 3        | 5        | 7        | 5        | 5        |
+| Gujarat      | Bhavnagar       | 3        | 3        | 7        | 7        | 5        |
+| Gujarat      | Amreli          | 3        | 3        | 7        | 5        | 4.5      |
+| Gujarat      | Jamnagar        | 3        | 3        | 7        | 5        | 4.5      |
+| Gujarat      | Anand           | 3        | 3        | 7        | -        | 4.3      |
+| Gujarat      | Navsari         | 0        | 3        | 7        | 7        | 4.3      |
+| Gujarat      | Valsad          | 0        | 3        | 3        | 7        | 3.3      |
+| Gujarat      | Bharuch         | 0        | 3        | 7        | -        | 3.3      |
+| Daman & Diu  | Daman           | 3        | 3        | 5        | 7        | 4.5      |
+| Karnataka    | Udupi           | 0        | 3        | 3        | 7        | 3.3      |
+| Karnataka    | Uttar Kannada   | 0        | 3        | 3        | 7        | 3.3      |
+| Karnataka    | Dakshin Kannada | 0        | 3        | 3        | 7        | 3.3      |
+| Kerala       | Kozhikode       | 3        | 3        | 5        | 7        | 4.5      |
+| Kerala       | Malappuram      | 0        | 3        | 3        | 7        | 3.3      |
+| Kerala       | Thrissur        | 0        | 3        | 3        | 7        | 3.3      |
+| Lakshadweep  | Lakshadweep     | 3        | 3        | 7        | -        | 4.3      |
+| Maharastra   | Thane           | 3        | 3        | 5        | 7        | 4.5      |
+| Maharastra   | Mumbai suburban | 3        | 3        | 5        | 7        | 4.5      |
+| Maharastra   | Ratnagiri       | 3        | 3        | 5        | 5        | 4        |
+| Maharastra   | Raigarh         | 0        | 3        | 5        | 7        | 3.7      |
+| Maharastra   | Sindhudurg      | 3        | 3        | 5        | 4        | 3.7      |
+| Orissa       | Khordha         | 0        | 3        | 10       | 5        | 4.5      |
+| Pudduchcheri | Karaikal        | 3        | 3        | 7        | 5        | 4.5      |
+| Tamilnadu    | Viluppuram      | 3        | 3        | 7        | 5        | 4.5      |
+| Tamilnadu    | Thanjavur       | 3        | 3        | 7        | 7        | 5        |
+| Tamilnadu    | Tiruvalur       | 0        | 3        | 7        | 5        | 3.7      |
+| Tamilnadu    | Kanyakumari     | 3        | 3        | 3        | 5        | 3.5      |
+| Orissa       | Mayurbhanj      | 3        | 7        | 5        | 0        | 3.7      |
+| Orissa       | Cuttack         | 3        | 3        | 10       | 0        | 4        |
+| Orissa       | Nayagarh        | 3        | 5        | 7        | 0        | 3.7      |
+| Orissa       | Keonjhar        | 3        | 10       | 3        | 0        | 4        |
+| West Bengal  | Hoogli          | 3        | 7        | 7        | 0        | 4.3      |
+| Gujarat      | Rajkot          | 3        | 3        | 7        | 0        | 3.3      |
+| Dadra        | Dadra & Nagar   | 3        | 3        | 5        | 0        | 2.7      |
+
+
+ 
+
+Nagar Haveli
+
+| State       | District           | Column 1 | Column 2 | Column 3 | Column 4 | Column 5 |   |
+| ----------- | ------------------ | -------- | -------- | -------- | -------- | -------- | - |
+| Gujarat     | Surat              | 0        | 3        | 3        | 7        | 2.5      |   |
+| Kerala      | Kasargod           | 0        | 3        | 3        | 5        | 2.7      |   |
+| Kerala      | Kannur             | 0        | 3        | 3        | 5        | 2.7      |   |
+| Kerala      | Ernakulam          | 0        | 3        | 3        | 5        | 2.7      |   |
+| Kerala      | Alappuzha          | 0        | 3        | 3        | 5        | 2.7      |   |
+| Kerala      | Kollam             | 0        | 3        | 3        | 5        | 2.7      |   |
+| Kerala      | Thiruvananthapuram | 0        | 3        | 3        | 5        | 2.7      |   |
+| Orissa      | Jajpur             | 0        | 3        | 7        | 0        | 2.5      |   |
+| Orissa      | Dhenkanal          | 0        | 3        | 3        | 0        | 1.5      |   |
+| Orissa      | Gajapati           | 0        | 3        | 10       | 0        | 2.5      |   |
+| Tamilnadu   | Tiruvannamalai     | 0        | 3        | 5        | 0        | 2        |   |
+| Tamilnadu   | Ariyalur           | 0        | 3        | 3        | 0        | 1.5      |   |
+| Tamilnadu   | Sivaganga          | 0        | 3        | 5        | 0        | 2        |   |
+| West Bengal | Bardhaman          | 0        | 5        | 3        | 0        | 2        |   |
+| Gujarat     | Surendra Nagar     | 0        | 3        | 5        | 0        | 2        |   |
+| Gujarat     | Kheda              | 0        | 0        | 3        | 0        | 0.7      |   |
+| Gujarat     | Vadodara           | 0        | 0        | 3        | 0        | 0.7      |   |
+| Kerala      | Wayand             | 0        | 0        | 5        | 0        | 1.3      |   |
+| Kerala      | Palakkad           | 0        | 0        | 5        | 0        | 1.3      |   |
+| Kerala      | Kottayam           | 0        | 0        | 3        | 0        | 0.7      |   |
+| Kerala      | Idukki             | 0        | 3        | 3        | 0        | 1.5      |   |
+| Kerala      | Pathanamthita      | 0        | 3        | 3        | 0        | 1.5      |   |
+|             | Total              |          |          |          | 94       |          |   |
+
+
+ 
+DIVISIONS OF INDIAN COASTAL AND SEA AREAS
+
+# 6.01
+
+S5" 70° 75 31)° 35° 30" 50100 KILOETRES
+
+2 200300−4.00 500 600
+
+40 740°11
+
+PRL SNR SOA 36 30
+
+ILA NTP - 20udm 20°
+
+16
+
+HORTH WEST NORTH WEST 10
+
+ARABIAN SEA E.ASTARAEP SRT NSK LaNIGAL
+
+20 AN SEA OMN AHG BST KDT VGPLTANORTH HCRTH 20
+
+MI18 PINE OTW SOuUTH WEST BAV EAST BAY
+
+N STR KMM he
+
+3G1 VSK
+
+IWEST CENTRAL EAST CEITRAL KLP) EAST CENTRAY1
+
+ARABIAN SEA ARABIAII SEA KRI MPT WEST CEITRAL EAY.
+
+15 GOA AnTCOP KVL BAY 15
+
+IWR SMG
+
+CHR CHR
+
+ING HSN CNI HORTH ANDAMAN
+
+KDGNGEROCMP PBL
+
+SLM
+
+30 LAKSHA 10
+
+ISOUTH WEST SOUTH EAST DE Per SOUTH WEST SOUTH EAST
+
+ARABIAI SEA ARABIAII SEA TTC BAY BAY SOUTH ANDAMAN
+
+TRV.
+
+SPI
+
+Lika
+
+MALDIVE COMORIII
+
+Very highly prone
+
+Highly prone
+
+Moderately prone
+
+Less prone
+
+Fig.1. Cyclone hazard prone districts of India considering all the parameters and wind based on BMTPC Atlas
+
+
+ 
+
+# DIVISIONS OF INDIAN COASTAL AND SEA AREAS
+
+| 55         | 60      | 65°          | 70°         | 75°        | 80°          | 85            | 90°         | 95°         | 10  |     |              |              |     |     |     |       |
+| ---------- | ------- | ------------ | ----------- | ---------- | ------------ | ------------- | ----------- | ----------- | --- | --- | ------------ | ------------ | --- | --- | --- | ----- |
+| KILOMETRES | MSB     | 50           | 100         | 200        | 300          | 400           | 500         | 600         |     |     |              |              |     |     |     |       |
+| L          | 30u     | 40           | NLA         | PRL        | 20           | 30            | SNG         | 20          | 10  | 10  |              |              |     |     |     |       |
+| NORTH WEST | NORTH   | BC           | ARABIAN SEA | NORTH EAST | ARABIAN SEA  | SRI           | NSK         | PEORTH      | 10  | 50  | 100          | 200          | 300 | 400 | 500 | 600KM |
+| DMN        | AHG     | BST          | KDIPLB      | PRIDRISSA  | NORTH        | NORTH         | KRP         | RGD         | UT  |     |              |              |     |     |     |       |
+| MMB        | PNE     | DTW          | IGPL        | WEST BAY   | EAST BAY     | NO            | STR         | KMM         | han |     |              |              |     |     |     |       |
+|            |         | WEST CENTRAL | SG          | VSK        | EAST CENTRAL | KLP           | ARABIAN SEA | ARABIAN SEA | KRN | MPT | WEST CENTRAL | EAST CENTRAL |     |     |     |       |
+| GOA        | SMG     | ANTCDP       | RVL         | BAY        | BAY          | SOUTH ANDAMAN | TAAML       | NAG         | SRI |     |              |              |     |     |     |       |
+| MALOIVE    | COMORIN |              |             |            |              |               |             |             |     |     |              |              |     |     |     |       |
+
+Very highly prone
+
+Highly prone
+
+Moderately prone
+
+Less prone
+
+Fig.2. Cyclone hazard prone districts of India based on frequency of total cyclones, total severe cyclones, actual/estimated maximum wind and PMSS associated with the cyclones
+
